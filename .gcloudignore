@@ -1,0 +1,10 @@
+^(.*/)?#.*#$
+^(.*/)?.*~$
+^(.*/)?.*\.py[co]$
+^(.*/)?.*/RCS/.*$
+^(.*/)?\..*$
+^node_modules.*$
+node_modules
+.env
+.git
+models

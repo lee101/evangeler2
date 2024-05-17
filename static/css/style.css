@@ -1,0 +1,34 @@
+// classic tables styules
+
+table {
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #212529;
+  border-collapse: collapse;
+}
+
+tr {
+  border-bottom: 1px solid #dee2e6;
+}
+
+td {
+  padding: 0.75rem;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+}
+
+th {
+  padding: 0.75rem;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+  background-color: #f8f9fa;
+  color: #495057;
+}
+
+body, p, a {
+  font-size: 22px;
+  font-family: 'Arial', sans-serif;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #f8f9fa;
+}
