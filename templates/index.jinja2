@@ -1,44 +1,38 @@
-<html>
+<html lang="en">
+
 <head>
-        <meta charset="utf-8">
-        <meta name="viewport"
-              content="width=device-width, initial-scale=1, minimal-ui">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
     <title>Evangeler Affiliate Marketing Sites List</title>
-    <meta name="description" content="Evangeler top list of affiliate marketing sites helps you to grow in your influencing journey, Browse top Affiliate Marketing Programs easily Free.">
+    <meta name="description"
+        content="Evangeler top list of affiliate marketing sites helps you to grow in your influencing journey, Browse top Affiliate Marketing Programs easily Free.">
     <link rel="stylesheet" href="/static/css/style.css">
 
     <link rel="canonical" href="https://evangeler.com">
 
-        <link rel="shortcut icon"
-              href="{{ static_url }}/img/evangeler-logo-144.webp"
-              type="image/x-icon"/>
-        <link rel="icon"
-              href="{{ static_url }}/img/evangeler-logo-144.webp"/>
+    <link rel="shortcut icon" href="{{ static_url }}/img/evangeler-logo-144.webp" type="image/x-icon" />
+    <link rel="icon" href="{{ static_url }}/img/evangeler-logo-144.webp" />
 
-            <link rel="apple-touch-icon"
-          sizes="72x72"
-          href="{{ static_url }}/img/evangeler-logo-72.webp"/>
-            <link rel="apple-touch-icon"
-          sizes="114x114"
-          href="{{ static_url }}/img/evangeler-logo-114.webp"/>
-            <link rel="apple-touch-icon"
-          sizes="144x144"
-          href="{{ static_url }}/img/evangeler-logo-144.webp"/>
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ static_url }}/img/evangeler-logo-72.webp" />
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ static_url }}/img/evangeler-logo-114.webp" />
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ static_url }}/img/evangeler-logo-144.webp" />
 </head>
+
 <body>
     <header>
         <div class="container">
             <div class="logo">
 
                 <a href="/">
-                    <img src="{{ static_url }}/img/evangeler-logo-144.webp"
-                         alt="Evangeler Logo">
+                    <img src="{{ static_url }}/img/evangeler-logo-144.webp" alt="Evangeler Logo" width="144"
+                        height="144">
                 </a>
             </div>
 
             <h1>Evangeler Affiliate Marketing Sites List</h1>
 
-            <p>Evangeler top list of affiliate marketing sites helps you to grow in your influencing journey, Browse top Affiliate Marketing Programs easily Free.</p>
+            <p>Evangeler top list of affiliate marketing sites helps you to grow in your influencing journey, Browse top
+                Affiliate Marketing Programs easily Free.</p>
 
             <a href="https://github.com/lee101/evangeler2" class="button">Submit a New Affiliate Site Free</a>
         </div>
@@ -48,48 +42,63 @@
     <div class="container">
         <div class="content">
             <div class="content__main">
-            <table>
-                <tr>
-{#                {#}
-{#        "brand": "Hostinger",#}
-{#        "imageUrl": "https://affiliate.watch/storage/101/conversions/F4qDQhBDpXVKEUWT6Xbe1Lhg2-thumb_sm.jpg",#}
-{#        "description": "Up To 60% Commission",#}
-{#        "website": "https://hostinger.com",#}
-{#        "keywords": "Hosting, Domains,  +1"#}
-{#    },#}
-                <td>
-                    <img title="Netwrck.com" src="https://static.netwrck.com/static/img/ms-touch-icon-144x144-precomposed.webp">
-                </td>
-                <td>
-                    <a href="https://netwrck.tolt.io" target="_blank">Netwrck AI Chat/AI Art Affiliates</a>
-                </td>
+                <table>
+                    <tr>
+                        <th>Logo</th>
+                        <th>Brand</th>
+                        <th>Description</th>
+                        <th>Keywords</th>
+                    </tr>
+                    <tr>
+                        {# {#}
+                        {# "brand": "Hostinger",#}
+                        {# "imageUrl":
+                        "https://affiliate.watch/storage/101/conversions/F4qDQhBDpXVKEUWT6Xbe1Lhg2-thumb_sm.jpg",#}
+                        {# "description": "Up To 60% Commission",#}
+                        {# "website": "https://hostinger.com",#}
+                        {# "keywords": "Hosting, Domains, +1"#}
+                        {# },#}
+                        <td>
+                            <img title="Netwrck.com"
+                                src="https://static.netwrck.com/static/img/ms-touch-icon-144x144-precomposed.webp"
+                                width="144" height="144" alt="Netwrck AI Chat Characters">
+                        </td>
+                        <td>
+                            <a href="https://netwrck.tolt.io" target="_blank">Netwrck AI Chat/AI Art Affiliates</a>
+                        </td>
 
-                <td>
-                    <p>Netwrck is an AI chat and art generator. A Social Network for AI and Humans</p>
-                </td>
-                <td>
-                    <p>AI, Chat, Art, New</p>
-                </td>
-                </tr>
+                        <td>
+                            <p>Netwrck is an AI chat and art generator. A Social Network for AI and Humans</p>
+                        </td>
+                        <td>
+                            <p>AI, Chat, Art, New</p>
+                        </td>
+                    </tr>
                     {% for site in affiliates %}
-                        <tr>      <td>
-                                <img title="{{ site.brand }}" src="{{ static_url }}/evimg/{{ site.brand }}.webp" alt="{{ site.brand }}">
-                            </td>
-                            <td>
-                                <a href="{{ site.website }}" target="_blank">{{ site.brand }}</a>
-                            </td>
+                    <tr>
+                        <td>
+                            <img title="{{ site.brand }}" src="{{ static_url }}/evimg/{{ site.brand }}.webp"
+                                alt="{{ site.brand }}"
+                                {% if loop.index > 5 %} loading="lazy" {% endif %} width="100" height="100"
+                                >
+                        </td>
+                        <td>
+                            <a href="{{ site.website }}" target="_blank">{{ site.brand }}</a>
+                        </td>
 
-                            <td>
-                                <p>{{ site.description }}</p>
-                            </td>
-                            <td>
-                                <p>{{ site.keywords }}</p>
-                            </td>
+                        <td>
+                            <p>{{ site.description }}</p>
+                        </td>
+                        <td>
+                            <p>{{ site.keywords }}</p>
+                        </td>
 
-                        </tr>
+                    </tr>
                     {% endfor %}
 
-                </td>                </table>
+                    </td>
+                </table>
             </div>
         </div>
+
 </html>
