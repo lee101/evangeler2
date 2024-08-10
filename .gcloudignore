@@ -8,3 +8,52 @@ node_modules
 .env
 .git
 models
+
+# Ignore development and local files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Ignore version control
+.gitignore
+.svn/
+.hg/
+
+# Ignore build and compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+# Ignore package management
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+.virtualenv/
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore test and documentation
+tests/
+docs/
+*.md
+
+
