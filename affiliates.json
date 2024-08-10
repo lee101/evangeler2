@@ -1,2415 +1,2070 @@
 [
     {
         "brand": "ClarityAI",
-        "imageUrl": "https://static.netwrck.com/static/img/c.webp",
         "description": "high commission rate at 30%, long cookie length of 60 days, and a low minimum payout of $100",
         "website": "https://clarityai.co/",
         "keywords": "AI Upscaling"
     },
     {
         "brand": "Linode",
-        "imageUrl": "https://affiliate.watch/storage/252/conversions/VfY2m5qrPh4ZQgNtFZep5XqaE-thumb_sm.jpg",
         "description": "Give $100 - Get $25 Credit",
         "website": "https://linode.com",
         "keywords": "Hosting"
     },
     {
         "brand": "Hostinger",
-        "imageUrl": "https://affiliate.watch/storage/101/conversions/F4qDQhBDpXVKEUWT6Xbe1Lhg2-thumb_sm.jpg",
         "description": "Up To 60% Commission",
         "website": "https://hostinger.com",
         "keywords": "Hosting, Domains,  +1"
     },
     {
         "brand": "DreamHost",
-        "imageUrl": "https://affiliate.watch/storage/25/conversions/bHPv50pZgO8g6P6gmAkIbmCTs-thumb_sm.jpg",
         "description": "Earn $15-$200 Per Sale",
         "website": "https://dreamhost.com",
         "keywords": "Hosting, Domains,  +1"
     },
     {
         "brand": "FastComet",
-        "imageUrl": "https://affiliate.watch/storage/136/conversions/T2vi2tKcdbiJsJkNLo3SRXbO3-thumb_sm.jpg",
         "description": "$50-$200 Per Sale",
         "website": "https://fastcomet.com",
         "keywords": "Hosting, Domains"
     },
     {
         "brand": "Kinsta",
-        "imageUrl": "https://affiliate.watch/storage/30/conversions/JJUQiprNN1kseHK5MgMOKYqnq-thumb_sm.jpg",
         "description": "$50 to $500 Per Sale + 10% Lifetime",
         "website": "https://kinsta.com",
         "keywords": "Hosting, WordPress"
     },
     {
         "brand": "Flywheel",
-        "imageUrl": "https://affiliate.watch/storage/99/conversions/QSAw7Qvyvk5tPNXD07tYbSzLv-thumb_sm.jpg",
         "description": "Up To $500 Per Sale",
         "website": "https://getflywheel.com",
         "keywords": "Hosting, WordPress"
     },
     {
         "brand": "Pixpa",
-        "imageUrl": "https://affiliate.watch/storage/194/conversions/r0QCHjzs9rLKIVlSZyQDbkXZI-thumb_sm.jpg",
         "description": "50% Commission For 1 Year",
         "website": "https://pixpa.com",
         "keywords": "Hosting, Design"
     },
     {
         "brand": "Scala Hosting",
-        "imageUrl": "https://affiliate.watch/storage/162/conversions/lXf1TnxK3QAhTF1jt0MgyEc0E-thumb_sm.jpg",
         "description": "$50-$200 Per Sale",
         "website": "https://scalahosting.com",
         "keywords": "Hosting, Domains"
     },
     {
         "brand": "Liquid Web",
-        "imageUrl": "https://affiliate.watch/storage/31/conversions/A2RfkXkpIJvbfntbw7H8DZTwK-thumb_sm.jpg",
         "description": "$150-$7,000 Commissions",
         "website": "https://liquidweb.com",
         "keywords": "Hosting"
     },
     {
         "brand": "HostArmada",
-        "imageUrl": "https://affiliate.watch/storage/182/conversions/wNjMkgIJn8VGxtfxUlr2roaNU-thumb_sm.jpg",
         "description": "$50-200 Per Sale",
         "website": "https://hostarmada.com",
         "keywords": "Hosting, Domains"
     },
     {
         "brand": "Coffee Brand Coffee",
-        "imageUrl": "https://affiliate.watch/storage/3138/conversions/wqqLiHmStaSosNSArThZbS5kr-thumb_sm.jpg",
         "description": "5-40% Per Sale",
         "website": "https://coffeebrandcoffee.com",
         "keywords": "Food"
     },
     {
         "brand": "Wallafan",
-        "imageUrl": "https://affiliate.watch/storage/307/conversions/hYJaQFXk60Pee3u723WlcCJKA-thumb_sm.jpg",
         "description": "€100 Per Sale + €1 Per Lead",
         "website": "https://wallafan.com",
         "keywords": "Social Media"
     },
     {
         "brand": "AirVape",
-        "imageUrl": "https://affiliate.watch/storage/70/conversions/sDXJ56YSYdSg9OokmqBMUpVzt-thumb_sm.jpg",
         "description": "Earn Commission For Each Referral",
         "website": "https://airvapeusa.com",
         "keywords": "Vaping"
     },
     {
         "brand": "922S5 Proxy",
-        "imageUrl": "https://affiliate.watch/storage/287/conversions/2tRRSeJYVDV1VPoKSTjuc3NAa-thumb_sm.jpg",
         "description": "Up To 10% Commission",
         "website": "https://922proxy.com",
         "keywords": "Proxy, Privacy"
     },
     {
         "brand": "Dabbl",
-        "imageUrl": "https://affiliate.watch/storage/183/conversions/jn8lRIYI8sITuZ0vClL81Dta9-thumb_sm.jpg",
         "description": "$2 Per New User",
         "website": "https://getdabbl.com",
         "keywords": "Other"
     },
     {
         "brand": "NOWPayments",
-        "imageUrl": "https://affiliate.watch/storage/144/conversions/ulXIAUHlatSOVFd0ccV7oQP69-thumb_sm.jpg",
         "description": "0.2% Each Transaction Forever",
         "website": "https://nowpayments.io",
         "keywords": "Cryptocurrency, Finance"
     },
     {
         "brand": "CartHook",
-        "imageUrl": "https://affiliate.watch/storage/59/conversions/pPbXprXpt4DM9ldCZBD6LDg8q-thumb_sm.jpg",
         "description": "20% Commission For 1 Year",
         "website": "https://carthook.com",
         "keywords": "Sales, Tools"
     },
     {
         "brand": "Pure Hemp CBD",
-        "imageUrl": "https://affiliate.watch/storage/171/conversions/JjmdlIpxHJoEVAQEQmMzSAmF8-thumb_sm.jpg",
         "description": "40% Commission",
         "website": "https://purehempshop.com",
         "keywords": "CBD"
     },
     {
         "brand": "Godex",
-        "imageUrl": "https://affiliate.watch/storage/216/conversions/y7fuGDrdJD8dsKkHvN5YX8OyC-thumb_sm.jpg",
         "description": "0.45%-0.6% Of All Trades",
         "website": "https://godex.io",
         "keywords": "Cryptocurrency, Finance"
     },
     {
         "brand": "BitLaunch",
-        "imageUrl": "https://affiliate.watch/storage/149/conversions/LatLv6yCzMAHTJgbliNPEaIuR-thumb_sm.jpg",
         "description": "20% Recurring Commission",
         "website": "https://bitlaunch.io",
         "keywords": "Hosting, Cryptocurrency"
     },
     {
         "brand": "WebHostingPad",
-        "imageUrl": "https://affiliate.watch/storage/58/conversions/bwtBdrutKul5DL82PoL4699mg-thumb_sm.jpg",
         "description": "$50 Per Sale",
         "website": "https://webhostingpad.com",
         "keywords": "Hosting, Domains"
     },
     {
         "brand": "LogoGarden",
-        "imageUrl": "https://affiliate.watch/storage/61/conversions/VEw9DQjmuxQukfyXCOy6xoJOr-thumb_sm.jpg",
         "description": "$8 or 5%-40%",
         "website": "https://logogarden.com",
         "keywords": "Tools, Design"
     },
     {
         "brand": "Wide Angle Analytics",
-        "imageUrl": "https://affiliate.watch/storage/275/conversions/dXmqrBPDkFkFp8Hpd4Fml5lUd-thumb_sm.jpg",
         "description": "15% Recurring Commission",
         "website": "https://wideangle.co",
         "keywords": "Tools, Privacy"
     },
     {
         "brand": "Draw3D",
-        "imageUrl": "https://affiliate.watch/storage/280/conversions/dVg2gBcp7xzjhi7iWn2KiZvmf-thumb_sm.jpg",
         "description": "Up To $6 Per Sale",
         "website": "https://draw3d.online",
         "keywords": "AI, Design"
     },
     {
         "brand": "Sightseeing Pass",
-        "imageUrl": "https://affiliate.watch/storage/55/conversions/oGwKcZhgbsOoowBr4hO3gvb4s-thumb_sm.jpg",
         "description": "10% Commission",
         "website": "https://sightseeingpass.com",
         "keywords": "Travel"
     },
     {
         "brand": "Shift",
-        "imageUrl": "https://affiliate.watch/storage/47/conversions/2wBFlDhfLUwhAcryda7IanEUV-thumb_sm.jpg",
         "description": "20% Commission",
         "website": "https://tryshift.com",
         "keywords": "Productivity"
     },
     {
         "brand": "AAX",
-        "imageUrl": "https://affiliate.watch/storage/185/conversions/ptB0Z8OJXdAuPcqLPPGut1SVv-thumb_sm.jpg",
         "description": "20-40% Commission + 2 Tier",
         "website": "https://aax.com",
         "keywords": "Cryptocurrency, Finance"
     },
     {
         "brand": "SideShift",
-        "imageUrl": "https://affiliate.watch/storage/240/conversions/pRJxGbZ0HA0Aj4qEgNWLM6Xud-thumb_sm.jpg",
         "description": "0.5% Of All Trades",
         "website": "https://sideshift.ai",
         "keywords": "Cryptocurrency"
     },
     {
         "brand": "BRaustralia",
-        "imageUrl": "https://affiliate.watch/storage/250/conversions/9IxG61Amh5xGMGrISiR7PFmLy-thumb_sm.jpg",
         "description": "50% Recurring Commission",
         "website": "https://braustralia.com",
         "keywords": "Sales"
     },
     {
         "brand": "Host4Geeks",
-        "imageUrl": "https://affiliate.watch/storage/147/conversions/X7VNnhQE2ZVE6zi1YJrUA6kEp-thumb_sm.jpg",
         "description": "$45-$2268 Per Sale",
         "website": "https://host4geeks.com",
         "keywords": "Hosting, Domains"
     },
     {
         "brand": "Anonymous Proxies",
-        "imageUrl": "https://affiliate.watch/storage/298/conversions/fG2mTHzItFEMiAvxhXKzJN1HI-thumb_sm.jpg",
         "description": "White Label Commission Structure",
         "website": "https://anonymous-proxies.net",
         "keywords": "Proxy, Privacy"
     },
     {
         "brand": "Innovative Wellness",
-        "imageUrl": "https://affiliate.watch/storage/108/conversions/sHGR67SN0BA6BPrkhjRcXEHe0-thumb_sm.jpg",
         "description": "$7-$10 Per Sale",
         "website": "https://innovativewell.com",
         "keywords": "CBD"
     },
     {
         "brand": "BaseFEX",
-        "imageUrl": "https://affiliate.watch/storage/139/conversions/Ocria0DrKCFa5ormJpSO61qRD-thumb_sm.jpg",
         "description": "35% Of Trading Fees Forever",
         "website": "https://basefex.com",
         "keywords": "Cryptocurrency, Finance"
     },
     {
         "brand": "CoinHost",
-        "imageUrl": "https://affiliate.watch/storage/73/conversions/7j9tnNjIpg1nWJ1qeba3Zj9fS-thumb_sm.jpg",
         "description": "5% Lifetime Recurring Commissions",
         "website": "https://coin.host/",
         "keywords": "Hosting, Cryptocurrency"
     },
     {
         "brand": "VPN.AC",
-        "imageUrl": "https://affiliate.watch/storage/66/conversions/mMhMh6qmHHUplBlTJKdCkQxYx-thumb_sm.jpg",
         "description": "30% Per Sale And Renewal",
         "website": "https://vpn.ac",
         "keywords": "VPN, Privacy"
     },
     {
         "brand": "DiedinHouse",
-        "imageUrl": "https://affiliate.watch/storage/157/conversions/PLNh5ZaHCgzuaI8dWWr0B1J1Z-thumb_sm.jpg",
         "description": "20% Commission",
         "website": "https://diedinhouse.com",
         "keywords": "Home & Living"
     },
     {
         "brand": "FPM Global",
-        "imageUrl": "https://affiliate.watch/storage/165/conversions/hZDfvrp2O8LNiH5fkh232Wcds-thumb_sm.jpg",
         "description": "Up To $1,200 Per Trader",
         "website": "https://fpm.global",
         "keywords": "Finance, Forex"
     },
     {
         "brand": "Compint",
-        "imageUrl": "https://affiliate.watch/storage/2269/conversions/mVS93CZ72mWVgtxEZ1xnBePH3-thumb_sm.jpg",
         "description": "Up To $163 Per Sale",
         "website": "https://compint.co",
         "keywords": "Sales, SaaS"
     },
     {
         "brand": "Glosclean",
-        "imageUrl": "https://affiliate.watch/storage/286/conversions/N41sWEb94IcXnq4bZ0Ec2S8BF-thumb_sm.jpg",
         "description": "10% Commission",
         "website": "https://glosclean.com",
         "keywords": "Home & Living"
     },
     {
         "brand": "Epik",
-        "imageUrl": "https://affiliate.watch/storage/60/conversions/hFwh44gJexWrFJAqngD4I0DJM-thumb_sm.jpg",
         "description": "20% Commission New Customers",
         "website": "https://epik.com",
         "keywords": "Hosting, Domains"
     },
     {
         "brand": "BlockCard",
-        "imageUrl": "https://affiliate.watch/storage/120/conversions/1d92romOHMCIo2HIee0y3EEab-thumb_sm.jpg",
         "description": "Give $10 - Get $10",
         "website": "https://getblockcard.com",
         "keywords": "Cryptocurrency, Finance"
     },
     {
         "brand": "Hostsoch",
-        "imageUrl": "https://affiliate.watch/storage/65/conversions/t9F21GDW80EUl0I10FyFgGOwO-thumb_sm.jpg",
         "description": "40% For Each Sale",
         "website": "https://hostsoch.in",
         "keywords": "Hosting, Domains"
     },
     {
         "brand": "MouseJiggle",
-        "imageUrl": "https://affiliate.watch/storage/290/conversions/AY8LKJnuRkZ2OYnIRpy82Stua-thumb_sm.jpg",
         "description": "50% Commission",
         "website": "https://mousejiggle.org",
         "keywords": "Productivity"
     },
     {
         "brand": "Bandwagon Host",
-        "imageUrl": "https://affiliate.watch/storage/32/conversions/uDfXQp8I5EZmbx2rREhVGkvSS-thumb_sm.jpg",
         "description": "22% Commission",
         "website": "https://bandwagonhost.com",
         "keywords": "Hosting"
     },
     {
         "brand": "DocuEase",
-        "imageUrl": "https://affiliate.watch/storage/3109/conversions/pl1vQUVKMEpiKM10IxVFsmEqI-thumb_sm.jpg",
         "description": "$17-$699 Per Sale",
         "website": "https://docuease.com",
         "keywords": "AI, Legal"
     },
     {
         "brand": "HeyReach",
-        "imageUrl": "https://affiliate.watch/storage/2378/conversions/6g1VBQ0G2hJBcC4EA6GSmraiA-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://heyreach.io",
         "keywords": "Social Media, Tools"
     },
     {
         "brand": "LunaProxy",
-        "imageUrl": "https://affiliate.watch/storage/296/conversions/4u1BbGhV2F8N83XsrcPXxp3f1-thumb_sm.jpg",
         "description": "Up To 10% Lifetime Commission",
         "website": "https://lunaproxy.com",
         "keywords": "Proxy, Privacy"
     },
     {
         "brand": "Trovelle",
-        "imageUrl": "https://affiliate.watch/storage/210/conversions/m6w6zAowawiBHXnb3gjZ788Gb-thumb_sm.jpg",
         "description": "10% Commission",
         "website": "https://trovelle.com",
         "keywords": "Fashion"
     },
     {
         "brand": "FOCL",
-        "imageUrl": "https://affiliate.watch/storage/170/conversions/VwiMHtfDhzozDXoeijvDA0O0t-thumb_sm.jpg",
         "description": "40% Commission",
         "website": "https://focl.com",
         "keywords": "CBD"
     },
     {
         "brand": "WAATR",
-        "imageUrl": "https://affiliate.watch/storage/277/conversions/5tktN77AuBX7kgfmzgLGNNazY-thumb_sm.jpg",
         "description": "20% Commission",
         "website": "https://waatr.com",
         "keywords": "Health, Home & Living"
     },
     {
         "brand": "STDcheck",
-        "imageUrl": "https://affiliate.watch/storage/53/conversions/atEcDgGEimtY74Y2KMhWHkmnz-thumb_sm.jpg",
         "description": "40% Commission",
         "website": "https://stdcheck.com",
         "keywords": "Other, Dating"
     },
     {
         "brand": "Police Magnum",
-        "imageUrl": "https://affiliate.watch/storage/256/conversions/FSGI8cmJNcaX0AMTfb7CG9EDq-thumb_sm.jpg",
         "description": "10% Commission",
         "website": "https://policemagnum.com",
         "keywords": "Other, Home & Living"
     },
     {
         "brand": "Cart2Cart",
-        "imageUrl": "https://affiliate.watch/storage/253/conversions/GZY7EWZpFIOEy0GMIJuuofbEd-thumb_sm.jpg",
         "description": "20% Commission",
         "website": "https://shopping-cart-migration.com",
         "keywords": "Tools"
     },
     {
         "brand": "for the Ageless",
-        "imageUrl": "https://affiliate.watch/storage/263/conversions/BBPAMK80fvVnSBDyFcV7ikW1p-thumb_sm.jpg",
         "description": "Up To 20% Per Sale",
         "website": "https://fortheageless.com",
         "keywords": "CBD"
     },
     {
         "brand": "Hyax",
-        "imageUrl": "https://affiliate.watch/storage/212/conversions/Gewg11gPAoiOxQQrUMjLL0S5K-thumb_sm.jpg",
         "description": "25% Recurring Commission + 2 Tier",
         "website": "https://hyax.com",
         "keywords": "Tools, SaaS"
     },
     {
         "brand": "Outranking",
-        "imageUrl": "https://affiliate.watch/storage/3021/conversions/7y2s6SUixkYZyvbxkSO8MQd7M-thumb_sm.jpg",
         "description": "25% Recurring Commission",
         "website": "https://www.outranking.io",
         "keywords": "AI, SEO"
     },
     {
         "brand": "RightBlogger",
-        "imageUrl": "https://affiliate.watch/storage/3255/conversions/ZYkhJ9DmueGwNAOvNMaWEscBt-thumb_sm.jpg",
         "description": "50% Commission For 3 Months",
         "website": "https://rightblogger.com",
         "keywords": "AI"
     },
     {
         "brand": "GetGenie",
-        "imageUrl": "https://affiliate.watch/storage/3316/conversions/mVh3fEo14OasUdf4r6KoYZx2E-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://getgenie.ai",
         "keywords": "AI, SEO"
     },
     {
         "brand": "Cryptosteel",
-        "imageUrl": "https://affiliate.watch/storage/209/conversions/hxDwDvrJeb3Nv2jrNzH70IFir-thumb_sm.jpg",
         "description": "10% Commission",
         "website": "https://cryptosteel.com",
         "keywords": "Cryptocurrency"
     },
     {
         "brand": "OrderDive",
-        "imageUrl": "https://affiliate.watch/storage/279/conversions/7FMIsXukdxjNz8oGKSFngvSF2-thumb_sm.jpg",
         "description": "75% Commission For 1 Year",
         "website": "https://get.orderdive.com",
         "keywords": "Food, SaaS"
     },
     {
         "brand": "Schwank Grills",
-        "imageUrl": "https://affiliate.watch/storage/282/conversions/stB4peduTggEdpTouXgfW72ho-thumb_sm.jpg",
         "description": "10% Commission",
         "website": "https://schwankgrills.com",
         "keywords": "Food, Home & Living"
     },
     {
         "brand": "Comrade",
-        "imageUrl": "https://affiliate.watch/storage/272/conversions/Q8FMmjT3KHdusuOhAPP4Fsp5H-thumb_sm.jpg",
         "description": "10% Recurring Commission",
         "website": "https://cmrd.com",
         "keywords": "Other"
     },
     {
         "brand": "CBD Magic",
-        "imageUrl": "https://affiliate.watch/storage/217/conversions/0q1P5XsvMvLtwBGtZi3hvCEAP-thumb_sm.jpg",
         "description": "15% Lifetime Commission + 2 Tier",
         "website": "https://cbdmagic.ca",
         "keywords": "CBD"
     },
     {
         "brand": "Crowdfire",
-        "imageUrl": "https://affiliate.watch/storage/44/conversions/5NBM0YXCzeCrR3kYhIj5gORDU-thumb_sm.jpg",
         "description": "35% Commission For 1 Year",
         "website": "https://crowdfireapp.com",
         "keywords": "Social Media"
     },
     {
         "brand": "Audew",
-        "imageUrl": "https://affiliate.watch/storage/195/conversions/pptAD9U4RGi9EvJjfYfM2kfhh-thumb_sm.jpg",
         "description": "8-12% per sale",
         "website": "https://audew.com",
         "keywords": "Home & Living, Automotive"
     },
     {
         "brand": "LocalMonero",
-        "imageUrl": "https://affiliate.watch/storage/220/conversions/rQuqzk79NfjuMBAYnDmPKFeZA-thumb_sm.jpg",
         "description": "40% Of Trading Fees",
         "website": "https://localmonero.co",
         "keywords": "Cryptocurrency"
     },
     {
         "brand": "Woodpecker",
-        "imageUrl": "https://affiliate.watch/storage/133/conversions/9Bd3FndBUMk9Nl9Oc7NdgZzvP-thumb_sm.jpg",
         "description": "20% Recurring Commission",
         "website": "https://woodpecker.co",
         "keywords": "Email, SaaS"
     },
     {
         "brand": "AltusHost",
-        "imageUrl": "https://affiliate.watch/storage/125/conversions/IZBaAdF5iwzu3OVyCOBN2eyOa-thumb_sm.jpg",
         "description": "10-30% Commission",
         "website": "https://altushost.com",
         "keywords": "Hosting"
     },
     {
         "brand": "TinderProfile.ai",
-        "imageUrl": "https://affiliate.watch/storage/2996/conversions/PSnsOJkVLmFY6bSVtCws8ngII-thumb_sm.jpg",
         "description": "30% Commission",
         "website": "https://tinderprofile.ai",
         "keywords": "AI, Dating"
     },
     {
         "brand": "Talkio AI",
-        "imageUrl": "https://affiliate.watch/storage/2513/conversions/TY9PYvyt6gDYRwZm8v5R58cFy-thumb_sm.jpg",
         "description": "30% Commission For 1 Year",
         "website": "https://talkio.ai",
         "keywords": "AI, Language"
     },
     {
         "brand": "Fluzzle Tube",
-        "imageUrl": "https://affiliate.watch/storage/267/conversions/EtOIIXdl5KO6pVoOCaidyu1gn-thumb_sm.jpg",
         "description": "10% Commission",
         "website": "https://fluzzletube.com",
         "keywords": "Home & Living"
     },
     {
         "brand": "CoinPayments",
-        "imageUrl": "https://affiliate.watch/storage/33/conversions/8F9VqF1DW9C14p8p3AwilnOla-thumb_sm.jpg",
         "description": "25% Transaction Fees For 5 Years",
         "website": "https://coinpayments.net",
         "keywords": "Cryptocurrency, Finance"
     },
     {
         "brand": "Montway Auto Transport",
-        "imageUrl": "https://affiliate.watch/storage/270/conversions/9IBSjhxYNy2iTvC3tOqadab2h-thumb_sm.jpg",
         "description": "Payout structures based on bookings",
         "website": "https://montway.com",
         "keywords": "Automotive"
     },
     {
         "brand": "Elysium Hope",
-        "imageUrl": "https://affiliate.watch/storage/285/conversions/JR550dNCcgG1mLZKE7mbLNm15-thumb_sm.jpg",
         "description": "15% Per Sale",
         "website": "https://elysiumhope.com",
         "keywords": "Fashion"
     },
     {
         "brand": "Stocksift",
-        "imageUrl": "https://affiliate.watch/storage/260/conversions/KbFDunG6C6ZQXuGxUDwotxgNI-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://stocksift.com",
         "keywords": "Finance"
     },
     {
         "brand": "Krater.ai",
-        "imageUrl": "https://affiliate.watch/storage/289/conversions/U3WWR3mxoPj7ULsqwuIoodbbj-thumb_sm.jpg",
         "description": "40% Commission",
         "website": "https://krater.ai",
         "keywords": "Tools, AI"
     },
     {
         "brand": "Poll the People",
-        "imageUrl": "https://affiliate.watch/storage/262/conversions/HANn3bG9k0Kv3zSPZTQFF6Yej-thumb_sm.jpg",
         "description": "20% Recurring Commission",
         "website": "https://pollthepeople.app",
         "keywords": "Tools, AI"
     },
     {
         "brand": "SearchApi",
-        "imageUrl": "https://affiliate.watch/storage/305/conversions/aJpksNUWYkptixPmK2bQOOiFb-thumb_sm.jpg",
         "description": "30% Commission For 1 Year",
         "website": "https://searchapi.io",
         "keywords": "Tools, SEO"
     },
     {
         "brand": "Lahdee",
-        "imageUrl": "https://affiliate.watch/storage/163/conversions/2wSTnzeKoQfYkZ6cPXp4M92lg-thumb_sm.jpg",
         "description": "10-15% Commission",
         "website": "https://lahdeestore.com",
         "keywords": "Fashion"
     },
     {
         "brand": "CheapAir",
-        "imageUrl": "https://affiliate.watch/storage/50/conversions/Tco07x5vTlHC0AhooiQxxdWPY-thumb_sm.jpg",
         "description": "$5-$8 / 5%-8%",
         "website": "https://cheapair.com",
         "keywords": "Travel"
     },
     {
         "brand": "Careerjet",
-        "imageUrl": "https://affiliate.watch/storage/199/conversions/qFS29pa3Xd31uGe4zZzzoYQ1B-thumb_sm.jpg",
         "description": "Earn Per Click + 2 Tier",
         "website": "https://careerjet.com",
         "keywords": "Market Place"
     },
     {
         "brand": "StatusCake",
-        "imageUrl": "https://affiliate.watch/storage/176/conversions/aDSF3xAg1ev1Ib9lTNNS8n0I5-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://statuscake.com",
         "keywords": "Tools, SaaS"
     },
     {
         "brand": "Sedo",
-        "imageUrl": "https://affiliate.watch/storage/29/conversions/K1J2oOBdC9yQ1v4CYCsPkvsvu-thumb_sm.jpg",
         "description": "15% Commission",
         "website": "https://sedo.com",
         "keywords": "Domains"
     },
     {
         "brand": "Koala 360",
-        "imageUrl": "https://affiliate.watch/storage/291/conversions/uF0oUslazLry379WuYu7MVa0o-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://koala360.com",
         "keywords": "Travel"
     },
     {
         "brand": "LinktoLender",
-        "imageUrl": "https://affiliate.watch/storage/288/conversions/P7xH6qSveeoGRxJtLKmLSY6xL-thumb_sm.jpg",
         "description": "$15 Per Lead - $100 Per Funding",
         "website": "https://ai.linktolender.com",
         "keywords": "Finance"
     },
     {
         "brand": "Cryptohopper",
-        "imageUrl": "https://affiliate.watch/storage/140/conversions/pa8B2bbrseBclMtFQt9Ryc9tc-thumb_sm.jpg",
         "description": "10-15% Recurring Commission",
         "website": "https://cryptohopper.com",
         "keywords": "Cryptocurrency, Finance"
     },
     {
         "brand": "Coursebox",
-        "imageUrl": "https://affiliate.watch/storage/300/conversions/RGjD4nYkkBnhQGZGFGVHJReEd-thumb_sm.jpg",
         "description": "50% On 1st Purchase",
         "website": "https://coursebox.ai",
         "keywords": "Tools, AI"
     },
     {
         "brand": "Crystal Travel",
-        "imageUrl": "https://affiliate.watch/storage/2387/conversions/47GQVANEVMoOVjIngmxm4IUrk-thumb_sm.jpg",
         "description": "$9-$18 Per Booking",
         "website": "https://www.crystaltravel.com",
         "keywords": "Travel"
     },
     {
         "brand": "360Proxy",
-        "imageUrl": "https://affiliate.watch/storage/302/conversions/9L43lt0jqOV3vrlcRAekgAooS-thumb_sm.jpg",
         "description": "Up To 5% Commission",
         "website": "https://360proxy.com",
         "keywords": "Proxy, Privacy"
     },
     {
         "brand": "Wallafan",
-        "imageUrl": "https://affiliate.watch/storage/307/conversions/hYJaQFXk60Pee3u723WlcCJKA-thumb_sm.jpg",
         "description": "€100 Per Sale + €1 Per Lead",
         "website": "https://wallafan.com",
         "keywords": "Social Media"
     },
     {
         "brand": "DipSway",
-        "imageUrl": "https://affiliate.watch/storage/301/conversions/uxWqBIq89PYiPc60RFAQbY6uH-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://dipsway.com",
         "keywords": "Cryptocurrency, Finance"
     },
     {
         "brand": "AirVape",
-        "imageUrl": "https://affiliate.watch/storage/70/conversions/sDXJ56YSYdSg9OokmqBMUpVzt-thumb_sm.jpg",
         "description": "Earn Commission For Each Referral",
         "website": "https://airvapeusa.com",
         "keywords": "Vaping"
     },
     {
         "brand": "HighProxies",
-        "imageUrl": "https://affiliate.watch/storage/112/conversions/xW99MqmuCWodyJRS50jEnv5WX-thumb_sm.jpg",
         "description": "20% Recurring Commission",
         "website": "https://highproxies.com",
         "keywords": "VPN, Proxy,  +1"
     },
     {
         "brand": "Coincards",
-        "imageUrl": "https://affiliate.watch/storage/229/conversions/XhYClKLBuwNRecpMfprNo0Pkj-thumb_sm.jpg",
         "description": "0.5-2% Commission For 1 Year",
         "website": "https://coincards.com",
         "keywords": "Cryptocurrency"
     },
     {
         "brand": "Reply",
-        "imageUrl": "https://affiliate.watch/storage/52/conversions/tKN0HtKe03SuhAglbGPF21q9v-thumb_sm.jpg",
         "description": "20% Commission",
         "website": "https://reply.io",
         "keywords": "Tools, AI"
     },
     {
         "brand": "Ledger Wallet",
-        "imageUrl": "https://affiliate.watch/storage/68/conversions/n9lPR63LNiChpiixIcI4Qqt7u-thumb_sm.jpg",
         "description": "10% referral commission",
         "website": "https://www.ledger.com",
         "keywords": "Cryptocurrency"
     },
     {
         "brand": "CustomGPT",
-        "imageUrl": "https://affiliate.watch/storage/3139/conversions/ltL3cfmBiNlroVskg67SCLSZh-thumb_sm.jpg",
         "description": "15% Commission For 2 Years",
         "website": "https://customgpt.ai",
         "keywords": "Productivity, AI"
     },
     {
         "brand": "Changelly",
-        "imageUrl": "https://affiliate.watch/storage/48/conversions/vaA1cSGNiWHkzvyzMejOKQe85-thumb_sm.jpg",
         "description": "Up to 60% Trading Fees",
         "website": "https://changelly.com",
         "keywords": "Cryptocurrency, Finance"
     },
     {
         "brand": "Collect.chat",
-        "imageUrl": "https://affiliate.watch/storage/159/conversions/a4TvWyuk36Gz36uvEunpbJLTp-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://collect.chat",
         "keywords": "Sales, SaaS"
     },
     {
         "brand": "AlignerCo",
-        "imageUrl": "https://affiliate.watch/storage/189/conversions/3lBPsjW7Sf4knnDZP6x31vjnN-thumb_sm.jpg",
         "description": "5% Commission",
         "website": "https://alignerco.com",
         "keywords": "Fashion, Health"
     },
     {
         "brand": "123 Reg",
-        "imageUrl": "https://affiliate.watch/storage/40/conversions/XhmaTwARpVYRO1uYeuXWYR379-thumb_sm.jpg",
         "description": "0.5% - 25% commissions",
         "website": "https://123-reg.co.uk",
         "keywords": "Hosting, Domains"
     },
     {
         "brand": "Weblium",
-        "imageUrl": "https://affiliate.watch/storage/232/conversions/ArG0kX47E8hzb2rUrbWk7L40a-thumb_sm.jpg",
         "description": "35%-50% Commission",
         "website": "https://en.weblium.com",
         "keywords": "AI, Website Builder"
     },
     {
         "brand": "SaaS Manta",
-        "imageUrl": "https://affiliate.watch/storage/187/conversions/2cJfBjcjldt1WRG31Jmjva1mx-thumb_sm.jpg",
         "description": "20% Commission",
         "website": "https://saasmantra.com",
         "keywords": "Market Place, SaaS"
     },
     {
         "brand": "Mixo",
-        "imageUrl": "https://affiliate.watch/storage/2656/conversions/Fei3a6Mbt7qP7wQPOLM2qqJMD-thumb_sm.jpg",
         "description": "50% Commission",
         "website": "https://www.mixo.io",
         "keywords": "AI, Website Builder"
     },
     {
         "brand": "Prop Money",
-        "imageUrl": "https://affiliate.watch/storage/2339/conversions/y76KEAxty9wrVsruUewAihuXF-thumb_sm.jpg",
         "description": "7% Commission",
         "website": "https://propmoney.com",
         "keywords": "Social Media, Other"
     },
     {
         "brand": "MerchantService.com",
-        "imageUrl": "https://affiliate.watch/storage/294/conversions/8QvTifrUR1oTfaMBo38NrWP6y-thumb_sm.jpg",
         "description": "$100 Per Referral + 20% Recurring",
         "website": "https://merchantservice.com",
         "keywords": "Finance"
     },
     {
         "brand": "Figure Home Equity",
-        "imageUrl": "https://affiliate.watch/storage/111/conversions/g7CMFmEcU1m0RAdUhP0ViWieg-thumb_sm.jpg",
         "description": "$0.50 Per Click",
         "website": "https://figure.com",
         "keywords": "Finance"
     },
     {
         "brand": "CBDPure",
-        "imageUrl": "https://affiliate.watch/storage/134/conversions/a8KXICooevmZOhc8z5rzBJZHv-thumb_sm.jpg",
         "description": "40% Commission + 2 Tier",
         "website": "https://cbdpure.com",
         "keywords": "CBD"
     },
     {
         "brand": "Deep Sentinel",
-        "imageUrl": "https://affiliate.watch/storage/197/conversions/obXHlH7bgJsY6erWbX83Bjr8j-thumb_sm.jpg",
         "description": "$100-$350 Per Sale",
         "website": "https://deepsentinel.com",
         "keywords": "AI, Home & Living"
     },
     {
         "brand": "CSVape",
-        "imageUrl": "https://affiliate.watch/storage/67/conversions/oENbAWCvzgbsYTlSYUIuaIMBe-thumb_sm.jpg",
         "description": "25% Commission",
         "website": "https://csvape.com",
         "keywords": "Vaping"
     },
     {
         "brand": "Clay",
-        "imageUrl": "https://affiliate.watch/storage/293/conversions/DOTZzaPXOG9YJTFfZm74g17kJ-thumb_sm.jpg",
         "description": "$50 Per Sale",
         "website": "https://clay.earth",
         "keywords": "Productivity, SaaS"
     },
     {
         "brand": "Koala AI",
-        "imageUrl": "https://affiliate.watch/storage/2684/conversions/oD7aTD9BypbRojJW9fqqKqWj2-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://koala.sh",
         "keywords": "Productivity, AI"
     },
     {
         "brand": "AIML API",
-        "imageUrl": "https://affiliate.watch/storage/2840/conversions/aP88i6gtFOwB507kOc3IvzGVg-thumb_sm.jpg",
         "description": "30% Commission For 6 Months",
         "website": "https://aimlapi.com",
         "keywords": "Tools, AI"
     },
     {
         "brand": "Thinkbuddy",
-        "imageUrl": "https://affiliate.watch/storage/3353/conversions/hEhwmgxGwZWCRHA17b1AXw73S-thumb_sm.jpg",
         "description": "20% Commission For 1 Year",
         "website": "https://thinkbuddy.ai",
         "keywords": "Tools, AI"
     },
     {
         "brand": "HostPapa",
-        "imageUrl": "https://affiliate.watch/storage/49/conversions/Xpx8OMljb9lHVVyoyJvnaLX1u-thumb_sm.jpg",
         "description": "$45 Per Sale / 15% some products",
         "website": "https://hostpapa.com",
         "keywords": "Hosting, Domains"
     },
     {
         "brand": "Thexyz",
-        "imageUrl": "https://affiliate.watch/storage/237/conversions/GgEx8rP3LN6DVtBOopWJhDdBx-thumb_sm.jpg",
         "description": "10% Recurring Commission",
         "website": "https://thexyz.com",
         "keywords": "Hosting, Email"
     },
     {
         "brand": "PromoteKit",
-        "imageUrl": "https://affiliate.watch/storage/2795/conversions/hWqynPslKYaKRNY7C2I3rdX8M-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://www.promotekit.com/",
         "keywords": "Tools, SaaS"
     },
     {
         "brand": "Reditus",
-        "imageUrl": "https://affiliate.watch/storage/2619/conversions/ZXxXn0HFZhePPXcCAiDS9x8Wo-thumb_sm.jpg",
         "description": "30-40% Commission For 2-3 Years",
         "website": "https://www.getreditus.com",
         "keywords": "Tools, SaaS"
     },
     {
         "brand": "Airbnb",
-        "imageUrl": "https://affiliate.watch/storage/109/conversions/Ak2ef6ZNrDyTvcizcrCW8G43U-thumb_sm.jpg",
         "description": "Give $48 - Get $30 Credit",
         "website": "https://airbnb.com",
         "keywords": "Market Place, Travel"
     },
     {
         "brand": "Colossyan",
-        "imageUrl": "https://affiliate.watch/storage/2609/conversions/YyNRBUBVzpMkhYZKhPgPtTmfU-thumb_sm.jpg",
         "description": "25-50% Commission For 1 Year",
         "website": "https://colossyan.com",
         "keywords": "AI, Video"
     },
     {
         "brand": "Infatica",
-        "imageUrl": "https://affiliate.watch/storage/143/conversions/O7LGsVbjcGps2bFm2Is0QAW34-thumb_sm.jpg",
         "description": "10-30% Recurring Commission",
         "website": "https://infatica.io",
         "keywords": "Proxy, Privacy"
     },
     {
         "brand": "CyberGhost VPN",
-        "imageUrl": "https://affiliate.watch/storage/154/conversions/LIkHqdTpOs25Xno3KdSpinIVy-thumb_sm.jpg",
         "description": "Up To 100% In Commisson",
         "website": "https://cyberghostvpn.com",
         "keywords": "VPN, Privacy"
     },
     {
         "brand": "Gmelius",
-        "imageUrl": "https://affiliate.watch/storage/92/conversions/urOcOy4Ix0u7yL7ze2pP0AvJ3-thumb_sm.jpg",
         "description": "33% Recurring Commission",
         "website": "https://gmelius.com",
         "keywords": "Tools, Email"
     },
     {
         "brand": "JivoChat",
-        "imageUrl": "https://affiliate.watch/storage/184/conversions/KdYSbXwjG8hFAlUJVPwFQ7VEH-thumb_sm.jpg",
         "description": "30% Recurring Commission + 2 Tier",
         "website": "https://jivochat.com",
         "keywords": "Sales, SaaS"
     },
     {
         "brand": "Uptimia",
-        "imageUrl": "https://affiliate.watch/storage/297/conversions/48kzxH54hIRxifhTfHQiflyKI-thumb_sm.jpg",
         "description": "30% Lifetime Commission",
         "website": "https://uptimia.com",
         "keywords": "Tools, SaaS"
     },
     {
         "brand": "Ideamap",
-        "imageUrl": "https://affiliate.watch/storage/2754/conversions/Hp2IZx3pNa2CxkdZQKEVLq2dn-thumb_sm.jpg",
         "description": "20-50% Commission For 1 Year",
         "website": "https://ideamap.ai",
         "keywords": "Productivity, AI"
     },
     {
         "brand": "Notevibes",
-        "imageUrl": "https://affiliate.watch/storage/141/conversions/Mp7WVuQpZN5mL39zbAIt2zemf-thumb_sm.jpg",
         "description": "20% Recurring Commission",
         "website": "https://notevibes.com",
         "keywords": "Tools, AI"
     },
     {
         "brand": "AISEO",
-        "imageUrl": "https://affiliate.watch/storage/2701/conversions/Vw4IDZtOgsQwAslhFOfhewOoJ-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://aiseo.ai",
         "keywords": "AI, SEO"
     },
     {
         "brand": "Otio",
-        "imageUrl": "https://affiliate.watch/storage/2941/conversions/bdClSmJ7XLjJmnW4BhHanSgpn-thumb_sm.jpg",
         "description": "50% Recurring Commission",
         "website": "https://otio.ai",
         "keywords": "Productivity, AI"
     },
     {
         "brand": "Receptra",
-        "imageUrl": "https://affiliate.watch/storage/128/conversions/ikuCHNlWfa4FipXuzeBOiY3Gi-thumb_sm.jpg",
         "description": "20% Commission",
         "website": "https://receptra.com/",
         "keywords": "CBD"
     },
     {
         "brand": "Bityard",
-        "imageUrl": "https://affiliate.watch/storage/203/conversions/MmQa7ALkyRTranlmkdeGQMKeJ-thumb_sm.jpg",
         "description": "40% Of Trading Fees + 2 Tier",
         "website": "https://bityard.com",
         "keywords": "Cryptocurrency, Finance"
     },
     {
         "brand": "1&1 Internet",
-        "imageUrl": "https://affiliate.watch/storage/42/conversions/zvIF5nL1Ysku8O9OTjoPyaXNK-thumb_sm.jpg",
         "description": "Up To $300 Per Sale",
         "website": "https://1and1.com",
         "keywords": "Hosting, Domains"
     },
     {
         "brand": "PDFLiner",
-        "imageUrl": "https://affiliate.watch/storage/278/conversions/FIsjPqkA3ywNrHrqXuJ4TZ1SI-thumb_sm.jpg",
         "description": "40% Commission + 20% Recurring",
         "website": "https://pdfliner.com",
         "keywords": "Productivity, Tools"
     },
     {
         "brand": "Plezi",
-        "imageUrl": "https://affiliate.watch/storage/261/conversions/FBIQK2YqpwCx8gOMLi569NlVk-thumb_sm.jpg",
         "description": "40% Commission",
         "website": "https://plezi.co",
         "keywords": "Tools, SaaS"
     },
     {
         "brand": "CurrencyFair",
-        "imageUrl": "https://affiliate.watch/storage/113/conversions/hYMFk89amws3Pqs1alIS9CRdV-thumb_sm.jpg",
         "description": "Earn €20-200 Per Transfer",
         "website": "https://currencyfair.com",
         "keywords": "Finance"
     },
     {
         "brand": "Narrato",
-        "imageUrl": "https://affiliate.watch/storage/2665/conversions/zs8eccAAZe6mBZ43TSmb8eOzS-thumb_sm.jpg",
         "description": "30% Commission For 1 Year",
         "website": "https://narrato.io",
         "keywords": "Productivity, AI"
     },
     {
         "brand": "FatCow",
-        "imageUrl": "https://affiliate.watch/storage/45/conversions/A0lu3VCNSIshe6efkbEmEzTtS-thumb_sm.jpg",
         "description": "Up To $150 Per Sale",
         "website": "https://fatcow.com",
         "keywords": "Hosting, Domains"
     },
     {
         "brand": "Guarda",
-        "imageUrl": "https://affiliate.watch/storage/234/conversions/tguTabFUfsiRuF6AQiNnEHz6C-thumb_sm.jpg",
         "description": "0.5% of your friend's exchange amount",
         "website": "https://guarda.com",
         "keywords": "Cryptocurrency"
     },
     {
         "brand": "Crystals.com",
-        "imageUrl": "https://affiliate.watch/storage/2468/conversions/FJ6jF6KnJNEdwDs97MiRQqPf0-thumb_sm.jpg",
         "description": "10% Commission",
         "website": "https://www.crystals.com",
         "keywords": "Other"
     },
     {
         "brand": "Genki",
-        "imageUrl": "https://affiliate.watch/storage/306/conversions/YVJLGLFHA4sxDNvtGzjgw4Bv9-thumb_sm.jpg",
         "description": "5% Recurring Commission",
         "website": "https://genki.world",
         "keywords": "Travel"
     },
     {
         "brand": "Durable",
-        "imageUrl": "https://affiliate.watch/storage/311/conversions/osjRCjgxshmajZ2EiVhWAUT1r-thumb_sm.jpg",
         "description": "25% Recurring Commission",
         "website": "https://durable.co",
         "keywords": "AI, Website Builder"
     },
     {
         "brand": "IronFX",
-        "imageUrl": "https://affiliate.watch/storage/137/conversions/Fhofya7NnTbVRW8CfxgPtZrgU-thumb_sm.jpg",
         "description": "CPA Commissions up to $1,500",
         "website": "https://affiliates.ironfx.com",
         "keywords": "Finance, Forex"
     },
     {
         "brand": "NanoVMs",
-        "imageUrl": "https://affiliate.watch/storage/211/conversions/he5sQjeh70wED1oqORChagU3t-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://nanovms.com",
         "keywords": "Hosting, Other"
     },
     {
         "brand": "WayAway",
-        "imageUrl": "https://affiliate.watch/storage/257/conversions/2DUAebayum6MM6LUPs3oGDiXC-thumb_sm.jpg",
         "description": "Up To 50% Commission",
         "website": "https://wayaway.io",
         "keywords": "Travel"
     },
     {
         "brand": "Oxylabs",
-        "imageUrl": "https://affiliate.watch/storage/242/conversions/g0sQhXYpAI19uMwWIKC4YS0q0-thumb_sm.jpg",
         "description": "50% Commission + Recurring",
         "website": "https://oxylabs.io",
         "keywords": "Proxy, Privacy"
     },
     {
         "brand": "Provide Support",
-        "imageUrl": "https://affiliate.watch/storage/191/conversions/lBBqJB3KwqfDJcUHFF3EONZvC-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://providesupport.com",
         "keywords": "Sales, SaaS"
     },
     {
         "brand": "Flywheel",
-        "imageUrl": "https://affiliate.watch/storage/99/conversions/QSAw7Qvyvk5tPNXD07tYbSzLv-thumb_sm.jpg",
         "description": "Up To $500 Per Sale",
         "website": "https://getflywheel.com",
         "keywords": "Hosting, WordPress"
     },
     {
         "brand": "Scalenut",
-        "imageUrl": "https://affiliate.watch/storage/2772/conversions/uk3IcjjCgCKwOrFomz3NOWtL2-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://www.scalenut.com",
         "keywords": "AI, SEO"
     },
     {
         "brand": "Photo AI",
-        "imageUrl": "https://affiliate.watch/storage/2638/conversions/OlalooyP0wqyWDIQWGum3LV0O-thumb_sm.jpg",
         "description": "30% Commission For 3 Months",
         "website": "https://photoai.com",
         "keywords": "AI, Design,  +1"
     },
     {
         "brand": "Decktopus",
-        "imageUrl": "https://affiliate.watch/storage/3216/conversions/DR8OMRg2XFuELqNGe1U8DQLmc-thumb_sm.jpg",
         "description": "50% Commision For 3 Months",
         "website": "https://www.decktopus.com",
         "keywords": "Tools, AI"
     },
     {
         "brand": "X-VPN",
-        "imageUrl": "https://affiliate.watch/storage/226/conversions/42IGtxBtGQuKpClJP7emmxAbU-thumb_sm.jpg",
         "description": "30-100% Commission / 30% For Life",
         "website": "https://xvpn.io",
         "keywords": "VPN, Privacy"
     },
     {
         "brand": "Breezy HR",
-        "imageUrl": "https://affiliate.watch/storage/36/conversions/VIR3MJ3YNhDyHV44bvB4OHVf5-thumb_sm.jpg",
         "description": "20% Lifetime Commission",
         "website": "https://breezy.hr",
         "keywords": "Productivity"
     },
     {
         "brand": "Billabong",
-        "imageUrl": "https://affiliate.watch/storage/41/conversions/KYd5Ut69mOgovlTOiJC9aNMOa-thumb_sm.jpg",
         "description": "7% commissions",
         "website": "https://billabong.com",
         "keywords": "Fashion"
     },
     {
         "brand": "Hurley",
-        "imageUrl": "https://affiliate.watch/storage/168/conversions/C7SDXRZ6x8u2UxRUP75eyDWro-thumb_sm.jpg",
         "description": "6% Commission",
         "website": "https://hurley.com",
         "keywords": "Fashion"
     },
     {
         "brand": "Speak Ai",
-        "imageUrl": "https://affiliate.watch/storage/2939/conversions/kdaJkQOAkSF7KsKIfnF7H9LUp-thumb_sm.jpg",
         "description": "30% Commission For 2 Years",
         "website": "https://speakai.co",
         "keywords": "Productivity, AI"
     },
     {
         "brand": "AliDropship",
-        "imageUrl": "https://affiliate.watch/storage/131/conversions/rFZ92j5d3HvIeVVtqqLWR3Chj-thumb_sm.jpg",
         "description": "Up To $284 Per Sale",
         "website": "https://alidropship.com",
         "keywords": "Tools"
     },
     {
         "brand": "Twice Commerce",
-        "imageUrl": "https://affiliate.watch/storage/2388/conversions/4V1NeijGQco6PegdeMA1c0zaL-thumb_sm.jpg",
         "description": "$100 Per Sale + 2 Tier",
         "website": "https://www.twicecommerce.com",
         "keywords": "Sales, Tools"
     },
     {
         "brand": "Bodybuilding.com",
-        "imageUrl": "https://affiliate.watch/storage/95/conversions/5zRd7ZVlIo54kbePfreL8v4xS-thumb_sm.jpg",
         "description": "5-15% Commission",
         "website": "https://bodybuilding.com",
         "keywords": "Health"
     },
     {
         "brand": "PromeAI",
-        "imageUrl": "https://affiliate.watch/storage/3328/conversions/kXAUlTOC70qyAVuF5rdJKUNYb-thumb_sm.jpg",
         "description": "10% Recurring Commission",
         "website": "https://www.promeai.pro",
         "keywords": "AI, SaaS"
     },
     {
         "brand": "StoryChief",
-        "imageUrl": "https://affiliate.watch/storage/3429/conversions/Qp9FVu10wQjw28YNi6BoEmSBG-thumb_sm.jpg",
         "description": "20% Recurring Commission",
         "website": "https://www.storychief.io",
         "keywords": "AI, SEO"
     },
     {
         "brand": "Pixpa",
-        "imageUrl": "https://affiliate.watch/storage/194/conversions/r0QCHjzs9rLKIVlSZyQDbkXZI-thumb_sm.jpg",
         "description": "50% Commission For 1 Year",
         "website": "https://pixpa.com",
         "keywords": "Hosting, Design"
     },
     {
         "brand": "Fansidea",
-        "imageUrl": "https://affiliate.watch/storage/238/conversions/h16V8tslNjhpxN7WwHlfyML9Z-thumb_sm.jpg",
         "description": "10% Commission",
         "website": "https://fansidea.com",
         "keywords": "Fashion, Sports"
     },
     {
         "brand": "VideoGen",
-        "imageUrl": "https://affiliate.watch/storage/3393/conversions/4frJitwNAWNkP4XVNUHhx1oQU-thumb_sm.jpg",
         "description": "30% Commission For 1 Year",
         "website": "https://videogen.io",
         "keywords": "AI, Video"
     },
     {
         "brand": "TorGuard",
-        "imageUrl": "https://affiliate.watch/storage/222/conversions/u27cOcJeTcZJklkCdRCPNu0TE-thumb_sm.jpg",
         "description": "30% Recurring Commissions",
         "website": "https://torguard.net",
         "keywords": "VPN, Proxy,  +1"
     },
     {
         "brand": "Proxy-Seller",
-        "imageUrl": "https://affiliate.watch/storage/236/conversions/LxcMHLBfaDq2WxIAsSXLtYYUi-thumb_sm.jpg",
         "description": "30% Commission / 10% For Life",
         "website": "https://proxy-seller.com",
         "keywords": "Proxy, Privacy"
     },
     {
         "brand": "Trezor",
-        "imageUrl": "https://affiliate.watch/storage/172/conversions/wKjLFQLnJj4gSISfg4dZYjB2b-thumb_sm.jpg",
         "description": "12-15% Commission",
         "website": "https://trezor.io",
         "keywords": "Cryptocurrency"
     },
     {
         "brand": "Scala Hosting",
-        "imageUrl": "https://affiliate.watch/storage/162/conversions/lXf1TnxK3QAhTF1jt0MgyEc0E-thumb_sm.jpg",
         "description": "$50-$200 Per Sale",
         "website": "https://scalahosting.com",
         "keywords": "Hosting, Domains"
     },
     {
         "brand": "Poloniex",
-        "imageUrl": "https://affiliate.watch/storage/2739/conversions/aKUdzY4UtsEkY5saJb8ZnicDq-thumb_sm.jpg",
         "description": "20-60% Of Trading Fees",
         "website": "https://poloniex.com",
         "keywords": "Cryptocurrency, Finance"
     },
     {
         "brand": "VYPER",
-        "imageUrl": "https://affiliate.watch/storage/126/conversions/mdQMJd4EVljHFVbwBPZvMWT8z-thumb_sm.jpg",
         "description": "25% Recurring Commission + 2 Tier",
         "website": "https://vyper.io",
         "keywords": "Social Media, SaaS"
     },
     {
         "brand": "PlushBeds",
-        "imageUrl": "https://affiliate.watch/storage/175/conversions/mIjkvJmRG2X7F2RNtYX34UZoK-thumb_sm.jpg",
         "description": "15% Commission",
         "website": "https://plushbeds.com",
         "keywords": "Home & Living"
     },
     {
         "brand": "CoinRule",
-        "imageUrl": "https://affiliate.watch/storage/2539/conversions/h47cnxLipd97dMdK2Np7P35kV-thumb_sm.jpg",
         "description": "25-30% Recurring Commission",
         "website": "https://coinrule.com",
         "keywords": "Cryptocurrency, Finance"
     },
     {
         "brand": "Taiga",
-        "imageUrl": "https://affiliate.watch/storage/206/conversions/mv0E3kK58I6XjRrarXycc8oac-thumb_sm.jpg",
         "description": "30% Recurring Commission For 1 Year",
         "website": "https://taiga.io",
         "keywords": "Productivity"
     },
     {
         "brand": "ChangeNOW",
-        "imageUrl": "https://affiliate.watch/storage/215/conversions/2QTjYSlKLOD5UZPEOQXwCZ52W-thumb_sm.jpg",
         "description": "0.4% Of All Trades",
         "website": "https://changenow.io",
         "keywords": "Cryptocurrency, Finance"
     },
     {
         "brand": "Pia s5 Proxy",
-        "imageUrl": "https://affiliate.watch/storage/295/conversions/0znSc41fcJvg9gu77unU3qxgH-thumb_sm.jpg",
         "description": "Up To 10% Lifetime Commission",
         "website": "https://piaproxy.com",
         "keywords": "Proxy, Privacy"
     },
     {
         "brand": "Born To Sell",
-        "imageUrl": "https://affiliate.watch/storage/214/conversions/tORYb9hcuqd60LHNr46JH4Gq4-thumb_sm.jpg",
         "description": "$5 Per Lead - $40 Sale + 2 Tier",
         "website": "https://borntosell.com",
         "keywords": "Finance"
     },
     {
         "brand": "Uber",
-        "imageUrl": "https://affiliate.watch/storage/8/conversions/ia9S6uxsnXPJhWB7cAvMLM2XM-thumb_sm.jpg",
         "description": "$5 User / $30-$50 Driver",
         "website": "https://uber.com",
         "keywords": "Market Place"
     },
     {
         "brand": "Browse AI",
-        "imageUrl": "https://affiliate.watch/storage/310/conversions/ANhEoLejFoEHJ2H8zAiTP98pE-thumb_sm.jpg",
         "description": "20% Recurring Commission",
         "website": "https://browse.ai",
         "keywords": "Tools, AI"
     },
     {
         "brand": "ShareASale",
-        "imageUrl": "https://affiliate.watch/storage/138/conversions/bKRshdTEYrrlHcIYbFN2Wm0mH-thumb_sm.jpg",
         "description": "$30 Per Lead - $150 Per Sale",
         "website": "https://shareasale.com",
         "keywords": "Market Place, Other"
     },
     {
         "brand": "AmeriCommerce",
-        "imageUrl": "https://affiliate.watch/storage/239/conversions/nMAGOlVxJQ0AmOPOgcf0jE3XH-thumb_sm.jpg",
         "description": "300% Commission 1st Sale",
         "website": "https://americommerce.com",
         "keywords": "Tools, SaaS"
     },
     {
         "brand": "CBDMEDIC",
-        "imageUrl": "https://affiliate.watch/storage/127/conversions/eR83sntzxtMGjH9kF0SzXLKYZ-thumb_sm.jpg",
         "description": "40% Commission",
         "website": "https://cbd-medic.com",
         "keywords": "CBD"
     },
     {
         "brand": "SubscribeStar",
-        "imageUrl": "https://affiliate.watch/storage/51/conversions/mLxkz6tZDGdkiZ3eURpa6QmkY-thumb_sm.jpg",
         "description": "20-50% Platform Fees For Life",
         "website": "https://subscribestar.com",
         "keywords": "Tools, Other"
     },
     {
         "brand": "Insightful",
-        "imageUrl": "https://affiliate.watch/storage/266/conversions/9syaqVgHE3q5jbjfWJ1NaQ32G-thumb_sm.jpg",
         "description": "15% Recurring Commission",
         "website": "https://insightful.io",
         "keywords": "Productivity, SaaS"
     },
     {
         "brand": "Liquid Web",
-        "imageUrl": "https://affiliate.watch/storage/31/conversions/A2RfkXkpIJvbfntbw7H8DZTwK-thumb_sm.jpg",
         "description": "$150-$7,000 Commissions",
         "website": "https://liquidweb.com",
         "keywords": "Hosting"
     },
     {
         "brand": "CogniFit",
-        "imageUrl": "https://affiliate.watch/storage/265/conversions/Fbh5RYWDnu8sXc6aqudlUYWv9-thumb_sm.jpg",
         "description": "15% Per Sale",
         "website": "https://cognifit.com",
         "keywords": "Productivity, Health"
     },
     {
         "brand": "Trackdesk",
-        "imageUrl": "https://affiliate.watch/storage/2910/conversions/sBTx56UHt3ZQpjdT5xAHHHUBy-thumb_sm.jpg",
         "description": "25-30% Recurring Commission",
         "website": "https://trackdesk.com",
         "keywords": "Tools, SaaS"
     },
     {
         "brand": "Delta Exchange",
-        "imageUrl": "https://affiliate.watch/storage/155/conversions/kGgncX6btRp0IjLImYxMf77Lr-thumb_sm.jpg",
         "description": "10-15% Of Trading Fees Forever",
         "website": "https://delta.exchange",
         "keywords": "Cryptocurrency, Finance"
     },
     {
         "brand": "Sellfy",
-        "imageUrl": "https://affiliate.watch/storage/23/conversions/AuoiRk0KQCJL2PYMX12swH8Nn-thumb_sm.jpg",
         "description": "25% Commission For 1 Year",
         "website": "https://sellfy.com",
         "keywords": "Sales, SaaS"
     },
     {
         "brand": "Tolt",
-        "imageUrl": "https://affiliate.watch/storage/2901/conversions/5Cm5HHAZzLinNzRbx0hAMV4tW-thumb_sm.jpg",
         "description": "25% Recurring Commission",
         "website": "https://tolt.io",
         "keywords": "Tools, SaaS"
     },
     {
         "brand": "Anytime Mailbox",
-        "imageUrl": "https://affiliate.watch/storage/208/conversions/9cSI3PoHL8sfSeF5OTwBTyOmu-thumb_sm.jpg",
         "description": "$25 Per Sale",
         "website": "https://anytimemailbox.com",
         "keywords": "Other, Legal"
     },
     {
         "brand": "PrivateVPN",
-        "imageUrl": "https://affiliate.watch/storage/118/conversions/N44EJkEF1pMoGvmt1VgVTgE1i-thumb_sm.jpg",
         "description": "Up to 50% Commission",
         "website": "https://privatevpn.com",
         "keywords": "VPN, Privacy"
     },
     {
         "brand": "SMASHINGLOGO",
-        "imageUrl": "https://affiliate.watch/storage/89/conversions/WSwkQQV5MVYpldLC4lgw7ecgr-thumb_sm.jpg",
         "description": "30% Commission",
         "website": "https://smashinglogo.com",
         "keywords": "Tools, Design"
     },
     {
         "brand": "Nifty",
-        "imageUrl": "https://affiliate.watch/storage/192/conversions/Iiyb8qTt6l9zOxQ4eItDv8TBZ-thumb_sm.jpg",
         "description": "20% Recurring Commission",
         "website": "https://niftypm.com",
         "keywords": "Productivity, SaaS"
     },
     {
         "brand": "aThemes",
-        "imageUrl": "https://affiliate.watch/storage/179/conversions/xT7AR92gc4rPqbhpCUdk0JxD5-thumb_sm.jpg",
         "description": "50% Commission",
         "website": "https://athemes.com",
         "keywords": "WordPress"
     },
     {
         "brand": "HostArmada",
-        "imageUrl": "https://affiliate.watch/storage/182/conversions/wNjMkgIJn8VGxtfxUlr2roaNU-thumb_sm.jpg",
         "description": "$50-200 Per Sale",
         "website": "https://hostarmada.com",
         "keywords": "Hosting, Domains"
     },
     {
         "brand": "ReferralCandy",
-        "imageUrl": "https://affiliate.watch/storage/2977/conversions/xpWH4lAkLVHIE4W6xCSxQuIh0-thumb_sm.jpg",
         "description": "$50 Per Sale",
         "website": "https://www.referralcandy.com",
         "keywords": "Tools, SaaS"
     },
     {
         "brand": "Wise",
-        "imageUrl": "https://affiliate.watch/storage/2818/conversions/jnCUxbD8LpNnjnGrplVYv5tE5-thumb_sm.jpg",
         "description": "Earn £50 Every Time 3 Friends Send Over £200",
         "website": "https://wise.com",
         "keywords": "Finance"
     },
     {
         "brand": "LALAL.AI",
-        "imageUrl": "https://affiliate.watch/storage/273/conversions/OVcp2eE3Y08Ads3VmO4n5IUlB-thumb_sm.jpg",
         "description": "30% Commission",
         "website": "https://lalal.ai",
         "keywords": "AI, Music"
     },
     {
         "brand": "EasyDMARC",
-        "imageUrl": "https://affiliate.watch/storage/268/conversions/yjjtzNyUIzPBtTmxXg7fEHOMI-thumb_sm.jpg",
         "description": "15% Commission For 1 Year",
         "website": "https://easydmarc.com",
         "keywords": "Tools, Email"
     },
     {
         "brand": "Hostinger",
-        "imageUrl": "https://affiliate.watch/storage/101/conversions/F4qDQhBDpXVKEUWT6Xbe1Lhg2-thumb_sm.jpg",
         "description": "Up To 60% Commission",
         "website": "https://hostinger.com",
         "keywords": "Hosting, Domains,  +1"
     },
     {
         "brand": "CIT Bank",
-        "imageUrl": "https://affiliate.watch/storage/72/conversions/nH6h9yjw2FJuKGYPp4VgzJ5E4-thumb_sm.jpg",
         "description": "Up To $125 Per App",
         "website": "https://www.cit.com",
         "keywords": "Finance"
     },
     {
         "brand": "Fiverr",
-        "imageUrl": "https://affiliate.watch/storage/3/conversions/kr2G4Af3VnfW4ZelrSxA6NM83-thumb_sm.jpg",
         "description": "Get up to $150 Per New Customer",
         "website": "https://fiverr.com",
         "keywords": "Market Place"
     },
     {
         "brand": "Sitechecker",
-        "imageUrl": "https://affiliate.watch/storage/3411/conversions/ti1I8OtPKTwsnoeNGB6716UZH-thumb_sm.jpg",
         "description": "30% Commission",
         "website": "https://sitechecker.pro",
         "keywords": "SEO"
     },
     {
         "brand": "cutout.pro",
-        "imageUrl": "https://affiliate.watch/storage/3327/conversions/Bp2KSnXiVNhSqEWqmbA11L3yA-thumb_sm.jpg",
         "description": "10% Recurring Commission",
         "website": "https://www.cutout.pro",
         "keywords": "AI, SaaS"
     },
     {
         "brand": "Way",
-        "imageUrl": "https://affiliate.watch/storage/2438/conversions/pQgby1jhZBBSoDmflzPTCNE7c-thumb_sm.jpg",
         "description": "4-7% Commission",
         "website": "https://www.way.com/",
         "keywords": "Market Place, Travel"
     },
     {
         "brand": "Videvo",
-        "imageUrl": "https://affiliate.watch/storage/193/conversions/v1xbcVCHBP8mVJgrWDw3REiTF-thumb_sm.jpg",
         "description": "20-100% Commission",
         "website": "https://videvo.net",
         "keywords": "Tools, Video"
     },
     {
         "brand": "Ooni Pizza Ovens",
-        "imageUrl": "https://affiliate.watch/storage/180/conversions/ock9nw9Wx4GI72J0Zk12F1UNi-thumb_sm.jpg",
         "description": "9% Commission",
         "website": "https://ooni.com",
         "keywords": "Food, Home & Living"
     },
     {
         "brand": "Easyship",
-        "imageUrl": "https://affiliate.watch/storage/198/conversions/XzKPo0KpW8tFmNvQjHZ8hFuXu-thumb_sm.jpg",
         "description": "25-100% Then 2.5% For 1 Year",
         "website": "https://easyship.com",
         "keywords": "Sales, SaaS"
     },
     {
         "brand": "DesignCrowd",
-        "imageUrl": "https://affiliate.watch/storage/38/conversions/t8JhiCXdFPSFaETxG8BfGhcpx-thumb_sm.jpg",
         "description": "$35 Per Sale",
         "website": "https://designcrowd.com",
         "keywords": "Market Place, Design"
     },
     {
         "brand": "Rakuten",
-        "imageUrl": "https://affiliate.watch/storage/135/conversions/RfZwdaEgDmiFOAp1ZIML0kuqa-thumb_sm.jpg",
         "description": "Give $10 - Get $25",
         "website": "https://rakuten.com",
         "keywords": "Tools, Finance"
     },
     {
         "brand": "Clean Email",
-        "imageUrl": "https://affiliate.watch/storage/241/conversions/sRyOdJvNkQnJp0NAp0tE6Ylrg-thumb_sm.jpg",
         "description": "40% Commission On 1st Purchase",
         "website": "https://clean.email",
         "keywords": "Email, SaaS"
     },
     {
         "brand": "Tapfiliate",
-        "imageUrl": "https://affiliate.watch/storage/2557/conversions/U7dRIpzpNZVaHza6KkZD4hbkB-thumb_sm.jpg",
         "description": "$178 or 20% Recurring Commission",
         "website": "https://tapfiliate.com",
         "keywords": "Tools, SaaS"
     },
     {
         "brand": "Webshare",
-        "imageUrl": "https://affiliate.watch/storage/2600/conversions/AMM0n3AU9CjvqO4UBu01VX93O-thumb_sm.jpg",
         "description": "25% Recurring Commission",
         "website": "https://webshare.io",
         "keywords": "Proxy, Privacy"
     },
     {
         "brand": "Brand24",
-        "imageUrl": "https://affiliate.watch/storage/2278/conversions/NkeHwfqzbeYMoL7SGK4wdhenw-thumb_sm.jpg",
         "description": "20%-30% Commission",
         "website": "https://brand24.com/",
         "keywords": "Tools, AI"
     },
     {
         "brand": "Frase",
-        "imageUrl": "https://affiliate.watch/storage/2827/conversions/yw1KfCG07CWbmXQGrv816yT2e-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://www.frase.io",
         "keywords": "AI, SEO"
     },
     {
         "brand": "Vizard",
-        "imageUrl": "https://affiliate.watch/storage/3388/conversions/0NgAlPpfTgiSG0sIdDwoC39AW-thumb_sm.jpg",
         "description": "25% Commission For 1 Year",
         "website": "https://vizard.ai",
         "keywords": "AI, Video"
     },
     {
         "brand": "Grammarly",
-        "imageUrl": "https://affiliate.watch/storage/4/conversions/pkUFS8rWA3AgXAn6zT1qcCZew-thumb_sm.jpg",
         "description": "$0.20 a download / $20 for premium",
         "website": "https://grammarly.com",
         "keywords": "Tools, AI"
     },
     {
         "brand": "Merlin",
-        "imageUrl": "https://affiliate.watch/storage/3284/conversions/fKZry4ErFUhJPlMGjpCJgL5sk-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://www.getmerlin.in",
         "keywords": "Tools, AI"
     },
     {
         "brand": "HeyGen",
-        "imageUrl": "https://affiliate.watch/storage/309/conversions/KQdvm2sB1no6FNRG2xxgSpXxT-thumb_sm.jpg",
         "description": "25% Recurring Commission",
         "website": "https://heygen.com",
         "keywords": "AI, Video"
     },
     {
         "brand": "TeamViewer",
-        "imageUrl": "https://affiliate.watch/storage/6/conversions/MTNfTZkeWUp2LXrg2Xf2ghRbH-thumb_sm.jpg",
         "description": "$20-$405.96 commissions",
         "website": "https://teamviewer.com",
         "keywords": "Tools"
     },
     {
         "brand": "Submagic",
-        "imageUrl": "https://affiliate.watch/storage/3464/conversions/yzUOFbgH4isxKiurXJ5JY109P-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://www.submagic.co",
         "keywords": "AI, Video"
     },
     {
         "brand": "italki",
-        "imageUrl": "https://affiliate.watch/storage/145/conversions/M3TQoQSOUynAeq36jmD1ElfC9-thumb_sm.jpg",
         "description": "$15 Per New Student",
         "website": "https://italki.com",
         "keywords": "Market Place, Language"
     },
     {
         "brand": "Atlas VPN",
-        "imageUrl": "https://affiliate.watch/storage/190/conversions/By54p1ZoIQeBmQfQpP6vtpo2I-thumb_sm.jpg",
         "description": "50% Recurring Commission",
         "website": "https://atlasvpn.com",
         "keywords": "VPN, Privacy"
     },
     {
         "brand": "Instacart",
-        "imageUrl": "https://affiliate.watch/storage/93/conversions/gEur1SpIS71sp15crBNvPHRqC-thumb_sm.jpg",
         "description": "$10 Per Customer",
         "website": "https://instacart.com",
         "keywords": "Market Place, Food"
     },
     {
         "brand": "DreamHost",
-        "imageUrl": "https://affiliate.watch/storage/25/conversions/bHPv50pZgO8g6P6gmAkIbmCTs-thumb_sm.jpg",
         "description": "Earn $15-$200 Per Sale",
         "website": "https://dreamhost.com",
         "keywords": "Hosting, Domains,  +1"
     },
     {
         "brand": "Deepbrain AI",
-        "imageUrl": "https://affiliate.watch/storage/2494/conversions/hrO0xKcNdXLWDhmjHrS4ZzyWu-thumb_sm.jpg",
         "description": "30% Commission",
         "website": "https://www.deepbrain.io",
         "keywords": "AI, Video"
     },
     {
         "brand": "Routine",
-        "imageUrl": "https://affiliate.watch/storage/2755/conversions/ltw4Bi4ROUmg8B08Wuu4lBPYJ-thumb_sm.jpg",
         "description": "40% Commission For 1 Year",
         "website": "https://routine.co",
         "keywords": "Productivity"
     },
     {
         "brand": "Bitsgap",
-        "imageUrl": "https://affiliate.watch/storage/274/conversions/c7MloNwrEICcIUOS2u9gshuZF-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://bitsgap.com",
         "keywords": "Cryptocurrency"
     },
     {
         "brand": "Watermarkly",
-        "imageUrl": "https://affiliate.watch/storage/303/conversions/4aulS0fulJCOQAXoYS996jrvv-thumb_sm.jpg",
         "description": "30% Commission + Residuals",
         "website": "https://watermarkly.com",
         "keywords": "Tools, Design"
     },
     {
         "brand": "Smartproxy",
-        "imageUrl": "https://affiliate.watch/storage/243/conversions/akaG9FpMUYL8zSTeFx1tdcNEA-thumb_sm.jpg",
         "description": "Up to 50% Per Sale",
         "website": "https://smartproxy.com",
         "keywords": "Proxy, Privacy"
     },
     {
         "brand": "Charlotte's Web",
-        "imageUrl": "https://affiliate.watch/storage/129/conversions/dheZ9yr9DiNhIj4dGFLhghw5S-thumb_sm.jpg",
         "description": "Up To 20% Commission",
         "website": "https://charlottesweb.com",
         "keywords": "CBD"
     },
     {
         "brand": "BasedLabs",
-        "imageUrl": "https://affiliate.watch/storage/2721/conversions/MUXjuvVd82e0M9Zo0Vdp2LlUM-thumb_sm.jpg",
         "description": "40% Recurring Commission",
         "website": "https://www.basedlabs.ai",
         "keywords": "AI, Design,  +1"
     },
     {
         "brand": "EngageBay",
-        "imageUrl": "https://affiliate.watch/storage/269/conversions/pIDY74GJIvf7SPgEtbni7geb6-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://engagebay.com",
         "keywords": "Sales, Email"
     },
     {
         "brand": "Selzy",
-        "imageUrl": "https://affiliate.watch/storage/2816/conversions/YQqT3tS6mH9I3zh1euo93pjQy-thumb_sm.jpg",
         "description": "30-60% Commission For 1 Year + 3 Tier",
         "website": "https://selzy.com",
         "keywords": "Email, SaaS"
     },
     {
         "brand": "Dorik",
-        "imageUrl": "https://affiliate.watch/storage/271/conversions/jcHJdIsdqOMV6WL2SOaYAGLWo-thumb_sm.jpg",
         "description": "40% 1st Sale + 10% Recurring + 2 Tier",
         "website": "https://dorik.com",
         "keywords": "AI, Website Builder"
     },
     {
         "brand": "Proxy-Sale",
-        "imageUrl": "https://affiliate.watch/storage/264/conversions/YcyLmpI14knTivDHHyqfTiqus-thumb_sm.jpg",
         "description": "30% Commission",
         "website": "https://proxy-sale.com",
         "keywords": "Proxy, Privacy"
     },
     {
         "brand": "FastComet",
-        "imageUrl": "https://affiliate.watch/storage/136/conversions/T2vi2tKcdbiJsJkNLo3SRXbO3-thumb_sm.jpg",
         "description": "$50-$200 Per Sale",
         "website": "https://fastcomet.com",
         "keywords": "Hosting, Domains"
     },
     {
         "brand": "Postmates",
-        "imageUrl": "https://affiliate.watch/storage/110/conversions/oXa78PxrA5LxmZAGmvZYvdqpw-thumb_sm.jpg",
         "description": "Earn $10 Per Customer",
         "website": "https://postmates.com",
         "keywords": "Market Place, Food"
     },
     {
         "brand": "Kinsta",
-        "imageUrl": "https://affiliate.watch/storage/30/conversions/JJUQiprNN1kseHK5MgMOKYqnq-thumb_sm.jpg",
         "description": "$50 to $500 Per Sale + 10% Lifetime",
         "website": "https://kinsta.com",
         "keywords": "Hosting, WordPress"
     },
     {
         "brand": "PrimeXBT",
-        "imageUrl": "https://affiliate.watch/storage/177/conversions/UNWibtxAQK8AmP8R7CpwN0Kxd-thumb_sm.jpg",
         "description": "20% Of Trading Fees + 4 Tier",
         "website": "https://primexbt.com",
         "keywords": "Cryptocurrency, Finance,  +1"
     },
     {
         "brand": "Agoda",
-        "imageUrl": "https://affiliate.watch/storage/98/conversions/EPNFxB0YAmpont6KHiJQeWlg2-thumb_sm.jpg",
         "description": "7% Commission",
         "website": "https://agoda.com",
         "keywords": "Travel"
     },
     {
         "brand": "vidyo.ai",
-        "imageUrl": "https://affiliate.watch/storage/3366/conversions/HABwxyeOlrzZImXjEY6x5vrsE-thumb_sm.jpg",
         "description": "20% Commission For 1 Year",
         "website": "https://vidyo.ai",
         "keywords": "AI, Video"
     },
     {
         "brand": "PPCmate",
-        "imageUrl": "https://affiliate.watch/storage/233/conversions/Wcqe8tG3DeFyMkI4WxDIgEMqj-thumb_sm.jpg",
         "description": "20% Lifetime Commissions",
         "website": "https://ppcmate.com",
         "keywords": "Tools, SEO"
     },
     {
         "brand": "RSVPify",
-        "imageUrl": "https://affiliate.watch/storage/292/conversions/yF9Gvke56bU2HIrnJOfAQjqAZ-thumb_sm.jpg",
         "description": "Up To $900 Per Referral",
         "website": "https://rsvpify.com",
         "keywords": "Tools"
     },
     {
         "brand": "BitMEX",
-        "imageUrl": "https://affiliate.watch/storage/117/conversions/ehgwPaxN5WW5JDWOjbohTJWGe-thumb_sm.jpg",
         "description": "10-20% Of Trading Fees Forever",
         "website": "https://bitmex.com",
         "keywords": "Cryptocurrency, Finance"
     },
     {
         "brand": "Amazon",
-        "imageUrl": "https://affiliate.watch/storage/1/conversions/XBp8yKsZtVX3qDmELMAXKgiGK-thumb_sm.jpg",
         "description": "1-10% Per Sale",
         "website": "https://amazon.com",
         "keywords": "Market Place"
     },
     {
         "brand": "Spocket",
-        "imageUrl": "https://affiliate.watch/storage/123/conversions/Oy259gEJB3sD3EH7mFE3iobWS-thumb_sm.jpg",
         "description": "Earn up to $450 per customer",
         "website": "https://spocket.co",
         "keywords": "Tools, SaaS"
     },
     {
         "brand": "AppSumo",
-        "imageUrl": "https://affiliate.watch/storage/94/conversions/OPNYyyNuVaiKTmzvE6SEUdgMb-thumb_sm.jpg",
         "description": "12-30% Commission",
         "website": "https://appsumo.com",
         "keywords": "Market Place, Tools"
     },
     {
         "brand": "Leonardo Ai",
-        "imageUrl": "https://affiliate.watch/storage/2530/conversions/Hi3NjGCknqabcvqtjX9HYr0KN-thumb_sm.jpg",
         "description": "25% Commission For 6 Months",
         "website": "https://leonardo.ai",
         "keywords": "AI, Design"
     },
     {
         "brand": "SurveySparrow",
-        "imageUrl": "https://affiliate.watch/storage/146/conversions/mUD9nLAzar7ScRHsFlv72JGgu-thumb_sm.jpg",
         "description": "25% Recurring Commission",
         "website": "https://surveysparrow.com",
         "keywords": "Tools, SaaS"
     },
     {
         "brand": "PlayHT",
-        "imageUrl": "https://affiliate.watch/storage/3245/conversions/0lKlkpv3A87cpUZ7gIMOOZ95D-thumb_sm.jpg",
         "description": "25% Recurring Commission",
         "website": "https://play.ht",
         "keywords": "Tools, AI"
     },
     {
         "brand": "Kittl",
-        "imageUrl": "https://affiliate.watch/storage/3226/conversions/nitNN71c0jxZbhgjVHuxR5hMW-thumb_sm.jpg",
         "description": "20% Commission For 3 Months",
         "website": "https://www.kittl.com",
         "keywords": "AI, Design"
     },
     {
         "brand": "10Web",
-        "imageUrl": "https://affiliate.watch/storage/3188/conversions/kFi9OiH2J39MWtg3xKQ61RcSX-thumb_sm.jpg",
         "description": "30% Commission For 1 Year",
         "website": "https://10web.io",
         "keywords": "AI, Website Builder"
     },
     {
         "brand": "Filemail",
-        "imageUrl": "https://affiliate.watch/storage/258/conversions/tOu5Z580goUcRm0iMnNuJEG0f-thumb_sm.jpg",
         "description": "20% Recurring Commission",
         "website": "https://filemail.com",
         "keywords": "Tools"
     },
     {
         "brand": "Domain.com",
-        "imageUrl": "https://affiliate.watch/storage/132/conversions/9BWXbyE4tz0xNL9igDG6hBMeY-thumb_sm.jpg",
         "description": "$85-$110 Hosting / 30% Domain",
         "website": "https://domain.com",
         "keywords": "Hosting, Domains"
     },
     {
         "brand": "Bybit",
-        "imageUrl": "https://affiliate.watch/storage/164/conversions/sNRjYHZs7o3Gjc3BT21relUhW-thumb_sm.jpg",
         "description": "Up To 45% Of Trading Fees + 2 Tier",
         "website": "https://bybit.com",
         "keywords": "Cryptocurrency, Finance"
     },
     {
         "brand": "Bright Data",
-        "imageUrl": "https://affiliate.watch/storage/276/conversions/40YqsUYiOtp4cF4xurAgeL3jL-thumb_sm.jpg",
         "description": "50% Revenue Share",
         "website": "https://brightdata.com",
         "keywords": "Tools, Proxy"
     },
     {
         "brand": "Robinhood",
-        "imageUrl": "https://affiliate.watch/storage/150/conversions/Jeijp7XnrlmWNrq5gtpSFE9sz-thumb_sm.jpg",
         "description": "Earn $500 In Free Stocks",
         "website": "https://robinhood.com",
         "keywords": "Finance"
     },
     {
         "brand": "Synthesia",
-        "imageUrl": "https://affiliate.watch/storage/304/conversions/joTKCYNSOqYXfYDq5hfOecP1T-thumb_sm.jpg",
         "description": "20% Commission For 1 Year",
         "website": "https://synthesia.io",
         "keywords": "AI, Video"
     },
     {
         "brand": "Rytr",
-        "imageUrl": "https://affiliate.watch/storage/2647/conversions/iw72WOkeLNoOvS62EhRGRI7qf-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://rytr.me",
         "keywords": "Productivity, AI"
     },
     {
         "brand": "Walgreens",
-        "imageUrl": "https://affiliate.watch/storage/16/conversions/i1NiJqT30gN4S4CKZKwItXXax-thumb_sm.jpg",
         "description": "4% - 8% commissions",
         "website": "https://walgreens.com",
         "keywords": "Market Place, Health"
     },
     {
         "brand": "Writesonic",
-        "imageUrl": "https://affiliate.watch/storage/2720/conversions/EShEve6ffgeYDdg2m8t5onMh0-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://writesonic.com",
         "keywords": "Productivity, AI"
     },
     {
         "brand": "Expedia UK",
-        "imageUrl": "https://affiliate.watch/storage/246/conversions/3BIG9HeV4z0buXcnNEOnHN3KP-thumb_sm.jpg",
         "description": "3.5-7% Commission",
         "website": "https://expedia.co.uk",
         "keywords": "Travel"
     },
     {
         "brand": "Taskade",
-        "imageUrl": "https://affiliate.watch/storage/255/conversions/Ii5ZRGRFe6U2dHwmuCfG3SIU9-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://taskade.com",
         "keywords": "Productivity, AI"
     },
     {
         "brand": "LanguageTool",
-        "imageUrl": "https://affiliate.watch/storage/283/conversions/K4RUB654vHqz6PlIbmNljF8xm-thumb_sm.jpg",
         "description": "$1.10 Per Lead - 50% Commission",
         "website": "https://languagetool.org",
         "keywords": "Productivity, Language"
     },
     {
         "brand": "Elegant Themes",
-        "imageUrl": "https://affiliate.watch/storage/122/conversions/3yvoUroOqhLUd91fOFm2TSlL6-thumb_sm.jpg",
         "description": "50% Commission + Residuals",
         "website": "https://elegantthemes.com",
         "keywords": "WordPress"
     },
     {
         "brand": "ActiveCampaign",
-        "imageUrl": "https://affiliate.watch/storage/231/conversions/GpuTUeUkpjzCMWceGyBsWGxnC-thumb_sm.jpg",
         "description": "$1,350 Per Customer on Average",
         "website": "https://activecampaign.com",
         "keywords": "Email, SaaS"
     },
     {
         "brand": "DoorDash",
-        "imageUrl": "https://affiliate.watch/storage/114/conversions/PRuFEPNf5KgcXTN2CQPzs15BG-thumb_sm.jpg",
         "description": "$50.00 Per Driver",
         "website": "https://doordash.com",
         "keywords": "Market Place, Food"
     },
     {
         "brand": "Ivacy",
-        "imageUrl": "https://affiliate.watch/storage/196/conversions/Ak88BG6RzhtbaXQIqsihrRUmY-thumb_sm.jpg",
         "description": "40%-100% 1st Month / 35% Life",
         "website": "https://ivacy.com",
         "keywords": "VPN, Privacy"
     },
     {
         "brand": "Jasper",
-        "imageUrl": "https://affiliate.watch/storage/2675/conversions/awVipZHSYh01Z6lGSHXaq29vj-thumb_sm.jpg",
         "description": "25-30% Commission For 1 Year",
         "website": "https://www.jasper.ai",
         "keywords": "AI, SaaS"
     },
     {
         "brand": "Bonsai",
-        "imageUrl": "https://affiliate.watch/storage/2582/conversions/OQEWs8HV8BSNiC8HBVhTGKZhW-thumb_sm.jpg",
         "description": "$50-200 Per Sale + 2 Tier",
         "website": "https://www.hellobonsai.com",
         "keywords": "Productivity, Tools"
     },
     {
         "brand": "Sendcloud",
-        "imageUrl": "https://affiliate.watch/storage/249/conversions/W3P8CEuXqFqafhO0Qh5V0qh27-thumb_sm.jpg",
         "description": "35€ Per Sale or 10% Recurring",
         "website": "https://sendcloud.com",
         "keywords": "Tools, SaaS"
     },
     {
         "brand": "HostGator",
-        "imageUrl": "https://affiliate.watch/storage/14/conversions/0v2Kqb25XOG8b6uAlmpvsiUdo-thumb_sm.jpg",
         "description": "$50-125 Per Sale",
         "website": "https://hostgator.com",
         "keywords": "Hosting, Domains,  +1"
     },
     {
         "brand": "Otter",
-        "imageUrl": "https://affiliate.watch/storage/3264/conversions/YEIAIJeMa1sLb4Xj80isVcdHc-thumb_sm.jpg",
         "description": "15-60% Commission",
         "website": "https://otter.ai",
         "keywords": "Productivity, AI"
     },
     {
         "brand": "Lovo",
-        "imageUrl": "https://affiliate.watch/storage/3003/conversions/HulqAzGPN32TUU26mKvbwzCEf-thumb_sm.jpg",
         "description": "20% Commission For 2 Years",
         "website": "https://lovo.ai",
         "keywords": "Tools, AI"
     },
     {
         "brand": "Vultr",
-        "imageUrl": "https://affiliate.watch/storage/15/conversions/a0W22RPtdecIN0Yw4AtyCgzOm-thumb_sm.jpg",
         "description": "Give $100, Get $35",
         "website": "https://vultr.com",
         "keywords": "Hosting"
     },
     {
         "brand": "Thumbtack",
-        "imageUrl": "https://affiliate.watch/storage/158/conversions/saffplbK5yx3NZ1j7DzU3F4MV-thumb_sm.jpg",
         "description": "30% Commission",
         "website": "https://thumbtack.com",
         "keywords": "Market Place"
     },
     {
         "brand": "TailorBrands",
-        "imageUrl": "https://affiliate.watch/storage/186/conversions/6tJAl4B3l6h5o5yuVLmXIlNWu-thumb_sm.jpg",
         "description": "Up To $500 Per Sale",
         "website": "https://tailorbrands.com",
         "keywords": "Design, Legal"
     },
     {
         "brand": "Tidio",
-        "imageUrl": "https://affiliate.watch/storage/299/conversions/taZPO6ON41LfobDo67fWsnSEI-thumb_sm.jpg",
         "description": "30% recurring commission",
         "website": "https://tidio.com",
         "keywords": "Tools, SaaS"
     },
     {
         "brand": "Imagine AI Art",
-        "imageUrl": "https://affiliate.watch/storage/2495/conversions/NJsQusOBMojWSvNzPSwwtoMCg-thumb_sm.jpg",
         "description": "15-35% Commision",
         "website": "https://imagine.art",
         "keywords": "AI, Design"
     },
     {
         "brand": "TextMagic",
-        "imageUrl": "https://affiliate.watch/storage/235/conversions/DXMjfP2hmTbBRWVYoYm8MQe9g-thumb_sm.jpg",
         "description": "20-30% Commission",
         "website": "https://textmagic.com",
         "keywords": "Other, SaaS"
     },
     {
         "brand": "Linode",
-        "imageUrl": "https://affiliate.watch/storage/252/conversions/VfY2m5qrPh4ZQgNtFZep5XqaE-thumb_sm.jpg",
         "description": "Give $100 - Get $25 Credit",
         "website": "https://linode.com",
         "keywords": "Hosting"
     },
     {
         "brand": "IP2Location",
-        "imageUrl": "https://affiliate.watch/storage/201/conversions/aUxZjI6JluYiXQOpd1lNlBD6U-thumb_sm.jpg",
         "description": "10% Recurring Commission",
         "website": "https://ip2location.com",
         "keywords": "SaaS"
     },
     {
         "brand": "ShipBob",
-        "imageUrl": "https://affiliate.watch/storage/251/conversions/cvOR0AKE5fbStFZ127Yng61UQ-thumb_sm.jpg",
         "description": "$15 Per Lead Submission",
         "website": "https://shipbob.com",
         "keywords": "Sales"
     },
     {
         "brand": "Performance Lab®",
-        "imageUrl": "https://affiliate.watch/storage/284/conversions/Ajckkupt0v2EH4SDBgi9FaqPE-thumb_sm.jpg",
         "description": "Up To 30% Per Sale + 2 Tier",
         "website": "https://performancelab.com",
         "keywords": "Other, Health"
     },
     {
         "brand": "Crocs",
-        "imageUrl": "https://affiliate.watch/storage/97/conversions/W0USNaPIxnJ4TIXv9cfF7rHnK-thumb_sm.jpg",
         "description": "8% Commission",
         "website": "https://crocs.com",
         "keywords": "Fashion"
     },
     {
         "brand": "Landr",
-        "imageUrl": "https://affiliate.watch/storage/3275/conversions/6S1KXmFW4S5yAVsmtWvFkgFcU-thumb_sm.jpg",
         "description": "$15 Per Sale",
         "website": "https://www.landr.com",
         "keywords": "AI, Music"
     },
     {
         "brand": "Proton",
-        "imageUrl": "https://affiliate.watch/storage/281/conversions/de08W7US08YmLfTV9q77tShCk-thumb_sm.jpg",
         "description": "18-100% Commission",
         "website": "https://proton.me",
         "keywords": "VPN, Email,  +1"
     },
     {
         "brand": "eHarmony",
-        "imageUrl": "https://affiliate.watch/storage/34/conversions/vLui6A04STXqENGYUs3UATspE-thumb_sm.jpg",
         "description": "20%  Commissions",
         "website": "https://eharmony.com",
         "keywords": "Dating"
     },
     {
         "brand": "Simplified",
-        "imageUrl": "https://affiliate.watch/storage/3473/conversions/5PVPRR1LE2vAUQJpZ0vchjnG5-thumb_sm.jpg",
         "description": "40% Recurring Commission",
         "website": "https://simplified.com",
         "keywords": "Tools, AI"
     },
     {
         "brand": "Binance",
-        "imageUrl": "https://affiliate.watch/storage/7/conversions/pyi52k1MPs6dsFdvZ3Ez9OWzW-thumb_sm.jpg",
         "description": "10-40% Of Trading Fees Forever",
         "website": "https://binance.com",
         "keywords": "Cryptocurrency, Finance"
     },
     {
         "brand": "Podcastle",
-        "imageUrl": "https://affiliate.watch/storage/2948/conversions/4t2p0POZD4rHosg9z092vLoJ9-thumb_sm.jpg",
         "description": "20% Commission For 1 Year",
         "website": "https://podcastle.ai",
         "keywords": "AI, Video"
     },
     {
         "brand": "Fliki",
-        "imageUrl": "https://affiliate.watch/storage/3490/conversions/EpVAPsxNJI0GuEPhRaRrQ2xOe-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://fliki.ai",
         "keywords": "AI, Video"
     },
     {
         "brand": "TubeBuddy",
-        "imageUrl": "https://affiliate.watch/storage/221/conversions/Nu8Ixh1Pg0U4p5jaLjlppvwba-thumb_sm.jpg",
         "description": "30-50% Recurring Commission",
         "website": "https://tubebuddy.com",
         "keywords": "Social Media, Video"
     },
     {
         "brand": "AdCreative",
-        "imageUrl": "https://affiliate.watch/storage/3317/conversions/ehF3CoEggTQJcyrG7NAEVJQ95-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://www.adcreative.ai",
         "keywords": "Social Media, AI"
     },
     {
         "brand": "NordVPN",
-        "imageUrl": "https://affiliate.watch/storage/19/conversions/EgSFkiO8qEgQSdcE5kxRBRkqX-thumb_sm.jpg",
         "description": "Up To $50 Per Sale + Residuals",
         "website": "https://nordvpn.com",
         "keywords": "VPN, Privacy"
     },
     {
         "brand": "Notion",
-        "imageUrl": "https://affiliate.watch/storage/2703/conversions/3jWskmpvZXsNrBvPZN1sLRUIq-thumb_sm.jpg",
         "description": "50% Commission For 1 Year",
         "website": "https://www.notion.so",
         "keywords": "Productivity, AI"
     },
     {
         "brand": "A2 Hosting",
-        "imageUrl": "https://affiliate.watch/storage/90/conversions/MlQy14pPHnDvlMaK4OfmxAe10-thumb_sm.jpg",
         "description": "$55-$125 Per Sale + 2 Tier",
         "website": "https://a2hosting.com",
         "keywords": "Hosting, Domains,  +1"
     },
     {
         "brand": "Bluehost",
-        "imageUrl": "https://affiliate.watch/storage/9/conversions/b84IgcLaQr07OjVfIwqiGJRss-thumb_sm.jpg",
         "description": "$65 Per Sale",
         "website": "https://bluehost.com",
         "keywords": "Hosting, Domains,  +1"
     },
     {
         "brand": "Brevo",
-        "imageUrl": "https://affiliate.watch/storage/3052/conversions/ZKOQBbJqXzYdtOjDXauzUmHBX-thumb_sm.jpg",
         "description": "$100 Per Paid Client",
         "website": "https://www.brevo.com",
         "keywords": "Email, SaaS"
     },
     {
         "brand": "Box",
-        "imageUrl": "https://affiliate.watch/storage/2447/conversions/i4vw6CYOBXOZnuRgZshyVvcwN-thumb_sm.jpg",
         "description": "$20-$150 Per Sale",
         "website": "https://www.box.com",
         "keywords": "Productivity"
     },
     {
         "brand": "VEED",
-        "imageUrl": "https://affiliate.watch/storage/3206/conversions/Ho7PpmGW0EvK1Ok0fPtpspAXD-thumb_sm.jpg",
         "description": "30% Commission For 1 Year",
         "website": "https://www.veed.io",
         "keywords": "AI, Video"
     },
     {
         "brand": "Namecheap",
-        "imageUrl": "https://affiliate.watch/storage/12/conversions/TLcVkiOONXwimxvPitar37SQA-thumb_sm.jpg",
         "description": "20%-50% Commission",
         "website": "https://namecheap.com",
         "keywords": "Hosting, Domains,  +1"
     },
     {
         "brand": "Weebly",
-        "imageUrl": "https://affiliate.watch/storage/169/conversions/PHKuQqGm7qtDtcwj4nuyxBRhj-thumb_sm.jpg",
         "description": "30% Commission",
         "website": "https://weebly.com",
         "keywords": "SaaS, Website Builder"
     },
     {
         "brand": "LiveChat",
-        "imageUrl": "https://affiliate.watch/storage/22/conversions/n8qxD2FFGAFqJqbzCktPvYbIU-thumb_sm.jpg",
         "description": "20% Recurring Commission + 2 Tier",
         "website": "https://livechatinc.com",
         "keywords": "Sales, Tools"
     },
     {
         "brand": "ExpressVPN",
-        "imageUrl": "https://affiliate.watch/storage/3160/conversions/MfxmQXdN8V4j6K9VdkDGg7kbo-thumb_sm.jpg",
         "description": "$13-$36 Per Sale",
         "website": "https://www.expressvpn.com",
         "keywords": "VPN, Privacy"
     },
     {
         "brand": "FreshBooks",
-        "imageUrl": "https://affiliate.watch/storage/167/conversions/W0yaDcRNSXvk3T9LfBWsy6xrF-thumb_sm.jpg",
         "description": "$5 Per Lead / $55 Commission",
         "website": "https://freshbooks.com",
         "keywords": "Finance, SaaS"
     },
     {
         "brand": "Fotor",
-        "imageUrl": "https://affiliate.watch/storage/121/conversions/uhTkz0GmuYkNy2OuS0atyYBau-thumb_sm.jpg",
         "description": "35% Per Sale + Residuals",
         "website": "https://fotor.com",
         "keywords": "AI, Design"
     },
     {
         "brand": "Semrush",
-        "imageUrl": "https://affiliate.watch/storage/3071/conversions/lx8uHVicCD1qUBty0q4mMxyw3-thumb_sm.jpg",
         "description": "Up To $200 Per Sale + $.01/Signup",
         "website": "https://www.semrush.com",
         "keywords": "AI, SEO"
     },
     {
         "brand": "FlexClip",
-        "imageUrl": "https://affiliate.watch/storage/2994/conversions/x2QExox1PEZZZ90iftk68zpHC-thumb_sm.jpg",
         "description": "30-35% Per Sale",
         "website": "https://www.flexclip.com",
         "keywords": "AI, Video"
     },
     {
         "brand": "Mondly",
-        "imageUrl": "https://affiliate.watch/storage/3118/conversions/NW9CeWopi8ZPSsjxPGCKIotEq-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://www.mondly.com",
         "keywords": "Language"
     },
     {
         "brand": "Impact",
-        "imageUrl": "https://affiliate.watch/storage/3171/conversions/A2pan2MtOKatEAnfCmBxjECFy-thumb_sm.jpg",
         "description": "10% Commission + $25 Per Account Completion",
         "website": "https://impact.com",
         "keywords": "Market Place, Sales"
     },
     {
         "brand": "Bizee",
-        "imageUrl": "https://affiliate.watch/storage/3088/conversions/k8RGPvo9urt4qEbbXHexNYnI2-thumb_sm.jpg",
         "description": "Up To $175 Per Sale",
         "website": "https://bizee.com",
         "keywords": "Legal"
     },
     {
         "brand": "Invideo AI",
-        "imageUrl": "https://affiliate.watch/storage/3236/conversions/vNqfPllvZ3wXV6rZwN9Btjmz8-thumb_sm.jpg",
         "description": "25%-50% Commission",
         "website": "https://invideo.io",
         "keywords": "AI, Video"
     },
     {
         "brand": "SiteGround",
-        "imageUrl": "https://affiliate.watch/storage/20/conversions/dumuQUnq0OJ19UDh9pKgUeQcb-thumb_sm.jpg",
         "description": "$50-$100 Per Sale",
         "website": "https://siteground.com",
         "keywords": "Hosting, Domains"
     },
     {
         "brand": "Kraken",
-        "imageUrl": "https://affiliate.watch/storage/223/conversions/fm30YNr4V7eRsF6Tt64yOSBd6-thumb_sm.jpg",
         "description": "20% Recurring Commission",
         "website": "https://kraken.com",
         "keywords": "Cryptocurrency, Finance"
     },
     {
         "brand": "Constant Contact",
-        "imageUrl": "https://affiliate.watch/storage/10/conversions/yG3jpCUewfCJEknV39ilHdNeM-thumb_sm.jpg",
         "description": "$5 Per Lead / $105 Commission",
         "website": "https://constantcontact.com",
         "keywords": "Email"
     },
     {
         "brand": "Viator",
-        "imageUrl": "https://affiliate.watch/storage/247/conversions/IPKZnI79JJJygI24BtalR2uuK-thumb_sm.jpg",
         "description": "8% Commission",
         "website": "https://viator.com",
         "keywords": "Travel"
     },
     {
         "brand": "PureVPN",
-        "imageUrl": "https://affiliate.watch/storage/39/conversions/uNjwd5NZHnM1s2KMspdbIib7S-thumb_sm.jpg",
         "description": "40%-100% 1st Month / 35% Life",
         "website": "https://purevpn.com",
         "keywords": "VPN, Privacy"
     },
     {
         "brand": "Descript",
-        "imageUrl": "https://affiliate.watch/storage/2841/conversions/R98G0EVMCmt7rh5Ls9eInIs2y-thumb_sm.jpg",
         "description": "15% Recurring Commission",
         "website": "https://www.descript.com",
         "keywords": "AI, Video"
     },
     {
         "brand": "Murf AI",
-        "imageUrl": "https://affiliate.watch/storage/2583/conversions/nAZlnEKJ4JeowTFuU27SMbsO4-thumb_sm.jpg",
         "description": "20% Commission For 2 Years",
         "website": "https://murf.ai",
         "keywords": "Tools, AI"
     },
     {
         "brand": "GoDaddy",
-        "imageUrl": "https://affiliate.watch/storage/2259/conversions/xPvBVnrhOSdLDzmLmLghUlBTQ-thumb_sm.jpg",
         "description": "Up To 30% Commission",
         "website": "https://godaddy.com",
         "keywords": "Hosting, Domains,  +1"
     },
     {
         "brand": "ElevenLabs",
-        "imageUrl": "https://affiliate.watch/storage/3375/conversions/qzvgPtWvWCr3XRYVWXw9NRFJM-thumb_sm.jpg",
         "description": "22% Commission For 1 Year",
         "website": "https://elevenlabs.io",
         "keywords": "AI"
     },
     {
         "brand": "Envato",
-        "imageUrl": "https://affiliate.watch/storage/5/conversions/VwFvhnq8l3H4HWs9E6QNGfhLk-thumb_sm.jpg",
         "description": "30% Commission On 1st Purchase",
         "website": "https://envato.com",
         "keywords": "Market Place, WordPress"
     },
     {
         "brand": "Reclaim AI",
-        "imageUrl": "https://affiliate.watch/storage/2504/conversions/38NqD8zYg4PmV5lEXc5EFCvmK-thumb_sm.jpg",
         "description": "25% Recurring Commission + $0.25/Signup",
         "website": "https://reclaim.ai",
         "keywords": "Productivity, AI"
     },
     {
         "brand": "Coinbase",
-        "imageUrl": "https://affiliate.watch/storage/13/conversions/PSUHWepqCA7PI1pDJ0XXk1DgO-thumb_sm.jpg",
         "description": "Give $10 BTC - Get $10 BTC",
         "website": "https://coinbase.com",
         "keywords": "Cryptocurrency, Finance"
     },
     {
         "brand": "GetYourGuide",
-        "imageUrl": "https://affiliate.watch/storage/248/conversions/T6sI2wopuPFQOGUcJlAy4f4Wq-thumb_sm.jpg",
         "description": "8-10% Commission",
         "website": "https://getyourguide.com",
         "keywords": "Travel"
     },
     {
         "brand": "AWeber",
-        "imageUrl": "https://affiliate.watch/storage/17/conversions/MTsNVZ30dROaN6oPjzi0QgmCN-thumb_sm.jpg",
         "description": "30% Recurring Commission",
         "website": "https://aweber.com",
         "keywords": "Email"
     },
     {
         "brand": "1Password",
-        "imageUrl": "https://affiliate.watch/storage/26/conversions/eilxhwyj0cCZcVynY5iKPRyoa-thumb_sm.jpg",
         "description": "$2 Per Signup / 25% First Payment",
         "website": "https://1password.com",
         "keywords": "Tools, Privacy"
     },
     {
         "brand": "Kiwi.com",
-        "imageUrl": "https://affiliate.watch/storage/244/conversions/uUDayBKRI6ykec9GvU2y3wMc3-thumb_sm.jpg",
         "description": "3% of Flight Ticket Price",
         "website": "https://kiwi.com",
         "keywords": "Travel"
     },
     {
         "brand": "Shopify",
-        "imageUrl": "https://affiliate.watch/storage/2/conversions/oYMABY2D4WA4cBpngJDO7qvgA-thumb_sm.jpg",
         "description": "$58-$2,000 Per Sale",
         "website": "https://shopify.com",
         "keywords": "Tools, SaaS"
     },
     {
         "brand": "Tripadvisor",
-        "imageUrl": "https://affiliate.watch/storage/245/conversions/pQ7pDMoLwpIT4YeAJUyHfiX3I-thumb_sm.jpg",
         "description": "8-50% Commission",
         "website": "https://tripadvisor.com",
         "keywords": "Travel"
     },
     {
         "brand": "Canva",
-        "imageUrl": "https://affiliate.watch/storage/178/conversions/POwmWT9M8DJAGUEh7hGIaSbrr-thumb_sm.jpg",
         "description": "Up To $36 Per Subscriber",
         "website": "https://canva.com",
         "keywords": "Tools, Design"
     },
     {
         "brand": "Fireflies.ai",
-        "imageUrl": "https://affiliate.watch/storage/3189/conversions/ywwt7wwRzqEj1E6lIBoZIF6wM-thumb_sm.jpg",
         "description": "30% Commission For 1 Year",
         "website": "https://fireflies.ai",
         "keywords": "Productivity, AI"
     },
     {
         "brand": "RedBubble",
-        "imageUrl": "https://affiliate.watch/storage/166/conversions/qkJwUnT1VDxNdeIQjMIE5Loss-thumb_sm.jpg",
         "description": "2% Commission",
         "website": "https://redbubble.com",
         "keywords": "Market Place, Design"
     },
     {
         "brand": "GetResponse",
-        "imageUrl": "https://affiliate.watch/storage/21/conversions/WLWNwoTB8UOKLlgtQwB8AikqC-thumb_sm.jpg",
         "description": "$100 or 33% recurring commission",
         "website": "https://getresponse.com",
         "keywords": "Email"
     },
     {
         "brand": "iubenda",
-        "imageUrl": "https://affiliate.watch/storage/2959/conversions/nBytFNtTgLFmH3KyRS1kV0USN-thumb_sm.jpg",
         "description": "35-40% Commission",
         "website": "https://www.iubenda.com",
         "keywords": "Tools, Legal"
     },
     {
         "brand": "Cloudways",
-        "imageUrl": "https://affiliate.watch/storage/119/conversions/CX4PX35YiXPtaqhDzzKGGgfYe-thumb_sm.jpg",
         "description": "$50-125 Per Sale",
         "website": "https://cloudways.com",
         "keywords": "Hosting, WordPress"
     },
     {
         "brand": "Sprout Social",
-        "imageUrl": "https://affiliate.watch/storage/3420/conversions/oA0a4EfLAtdPuR8gwjlbMQGTc-thumb_sm.jpg",
         "description": "20% Commission",
         "website": "https://sproutsocial.com",
         "keywords": "Social Media"
     },
     {
         "brand": "Surfshark",
-        "imageUrl": "https://affiliate.watch/storage/151/conversions/3Rg7qr5iWFMjwHmU8VYE27K7q-thumb_sm.jpg",
         "description": "40% Commission",
         "website": "https://surfshark.com",
         "keywords": "VPN, Privacy"
     },
     {
         "brand": "Remove.bg",
-        "imageUrl": "https://affiliate.watch/storage/3217/conversions/8FCjpbIDyzxPoK8oGvZf61XRg-thumb_sm.jpg",
         "description": "15% Recurring Commission",
         "website": "https://www.remove.bg",
         "keywords": "Tools, AI,  +1"
     },
     {
         "brand": "Looka",
-        "imageUrl": "https://affiliate.watch/storage/28/conversions/zfTxaf9N0vGZMRn0VeEjW3xTZ-thumb_sm.jpg",
         "description": "Up To $30 Per Sale",
         "website": "https://looka.com",
         "keywords": "AI, Design"
     },
     {
         "brand": "DigitalOcean",
-        "imageUrl": "https://affiliate.watch/storage/11/conversions/qk5TloSnfN8hMacSAPYRkMHRE-thumb_sm.jpg",
         "description": "Give $100 - Get $25 Credit",
         "website": "https://digitalocean.com",
         "keywords": "Hosting"
     },
     {
         "brand": "Pictory",
-        "imageUrl": "https://affiliate.watch/storage/308/conversions/Gl1C4ej8HIWdk65gRMGt7JuAY-thumb_sm.jpg",
         "description": "20-50% Recurring Commission + 2 Tier",
         "website": "https://pictory.ai",
         "keywords": "AI, Video"
     },
     {
         "brand": "Wave.video",
-        "imageUrl": "https://affiliate.watch/storage/3297/conversions/YSgDQ24QsnPri5c5b1UmJCNCZ-thumb_sm.jpg",
         "description": "20% Commission For 1 Year",
         "website": "https://wave.video",
         "keywords": "Video"
