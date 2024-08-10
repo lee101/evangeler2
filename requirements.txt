@@ -1,6 +1,6 @@
 Pillow==10.3.0
 requests==2.31.0
 fastapi==0.111.0
-uvicorn==0.29.1
+uvicorn==0.29.0
 gunicorn==22.0.0
 jinja2==3.1.4
