@@ -1,6 +1,7 @@
 import json
 import os
 from pathlib import Path
+import re
 
 from fastapi import FastAPI
 from fastapi.middleware.gzip import GZipMiddleware
@@ -42,6 +43,11 @@ debug = (
         or Path(current_dir / "models/debug.env").exists()
 )
 
+def slugify(name: str) -> str:
+    """Simple slugify helper for brand names."""
+    slug = re.sub(r"[^a-z0-9]+", "-", name.lower())
+    return slug.strip("-")
+
 static_url = "/static"
 # load json
 if not debug:
@@ -50,8 +56,27 @@ if not debug:
 with open('affiliates.json') as f:
     affiliates = json.load(f)
 
+for site in affiliates:
+    if 'slug' not in site:
+        site['slug'] = slugify(site['brand'])
+
 
 @app.get("/")
 async def home(request: Request):
     return templates.TemplateResponse("templates/index.jinja2",
                                       {"request": request, "affiliates": affiliates, "static_url": static_url})
+
+
+@app.get("/affiliate/{slug}")
+async def affiliate_detail(slug: str, request: Request):
+    for site in affiliates:
+        if site.get('slug') == slug:
+            return templates.TemplateResponse(
+                "templates/detail.jinja2",
+                {
+                    "request": request,
+                    "site": site,
+                    "static_url": static_url,
+                },
+            )
+    return {"error": "Affiliate not found"}
