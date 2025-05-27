@@ -13,5 +13,11 @@ to boost your ranking in the list beyond being added to the end.
 
 Site and code for evangeler.
 
+## Generating Affiliate Details
+
+Run `generate_details.py` to enrich `affiliates.json` with long form
+descriptions fetched from each website and generated via Claude 4. Set
+`CLAUDE_API_KEY` in your environment before running the script.
+
 
 Also see the YT video on [How to Make A Directory Business Like Evangeler.com](https://www.youtube.com/watch?v=OgZZumVhEH0&ab_channel=LeePenkman)

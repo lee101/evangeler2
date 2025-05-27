@@ -1,0 +1,24 @@
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site.brand }} - Details</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <a href="/">Back to list</a>
+            <h1>{{ site.brand }}</h1>
+        </div>
+    </header>
+    <div class="container">
+        <img src="{{ static_url }}/evimg/{{ site.brand }}.webp" alt="{{ site.brand }}" width="144" height="144">
+        <p>{{ site.description }}</p>
+        {% if site.detail %}
+        <p>{{ site.detail }}</p>
+        {% endif %}
+        <p><a href="{{ site.website }}" target="_blank">Visit Website</a></p>
+    </div>
+</body>
+</html>
