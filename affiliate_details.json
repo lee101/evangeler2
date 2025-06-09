@@ -1,0 +1,6902 @@
+[
+  {
+    "brand": "ClarityAI",
+    "slug": "clarityai",
+    "description": "high commission rate at 30%, long cookie length of 60 days, and a low minimum payout of $100",
+    "website": "https://clarityai.co/",
+    "faq": [
+      {
+        "q": "What is ClarityAI?",
+        "a": "high commission rate at 30%, long cookie length of 60 days, and a low minimum payout of $100"
+      },
+      {
+        "q": "How do I join the ClarityAI affiliate program?",
+        "a": "Visit https://clarityai.co/ to sign up."
+      },
+      {
+        "q": "What commission does ClarityAI offer?",
+        "a": "high commission rate at 30%, long cookie length of 60 days, and a low minimum payout of $100"
+      }
+    ]
+  },
+  {
+    "brand": "Linode",
+    "slug": "linode",
+    "description": "Give $100 - Get $25 Credit",
+    "website": "https://linode.com",
+    "faq": [
+      {
+        "q": "What is Linode?",
+        "a": "Give $100 - Get $25 Credit"
+      },
+      {
+        "q": "How do I join the Linode affiliate program?",
+        "a": "Visit https://linode.com to sign up."
+      },
+      {
+        "q": "What commission does Linode offer?",
+        "a": "Give $100 - Get $25 Credit"
+      }
+    ]
+  },
+  {
+    "brand": "Hostinger",
+    "slug": "hostinger",
+    "description": "Up To 60% Commission",
+    "website": "https://hostinger.com",
+    "faq": [
+      {
+        "q": "What is Hostinger?",
+        "a": "Up To 60% Commission"
+      },
+      {
+        "q": "How do I join the Hostinger affiliate program?",
+        "a": "Visit https://hostinger.com to sign up."
+      },
+      {
+        "q": "What commission does Hostinger offer?",
+        "a": "Up To 60% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "DreamHost",
+    "slug": "dreamhost",
+    "description": "Earn $15-$200 Per Sale",
+    "website": "https://dreamhost.com",
+    "faq": [
+      {
+        "q": "What is DreamHost?",
+        "a": "Earn $15-$200 Per Sale"
+      },
+      {
+        "q": "How do I join the DreamHost affiliate program?",
+        "a": "Visit https://dreamhost.com to sign up."
+      },
+      {
+        "q": "What commission does DreamHost offer?",
+        "a": "Earn $15-$200 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "FastComet",
+    "slug": "fastcomet",
+    "description": "$50-$200 Per Sale",
+    "website": "https://fastcomet.com",
+    "faq": [
+      {
+        "q": "What is FastComet?",
+        "a": "$50-$200 Per Sale"
+      },
+      {
+        "q": "How do I join the FastComet affiliate program?",
+        "a": "Visit https://fastcomet.com to sign up."
+      },
+      {
+        "q": "What commission does FastComet offer?",
+        "a": "$50-$200 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Kinsta",
+    "slug": "kinsta",
+    "description": "$50 to $500 Per Sale + 10% Lifetime",
+    "website": "https://kinsta.com",
+    "faq": [
+      {
+        "q": "What is Kinsta?",
+        "a": "$50 to $500 Per Sale + 10% Lifetime"
+      },
+      {
+        "q": "How do I join the Kinsta affiliate program?",
+        "a": "Visit https://kinsta.com to sign up."
+      },
+      {
+        "q": "What commission does Kinsta offer?",
+        "a": "$50 to $500 Per Sale + 10% Lifetime"
+      }
+    ]
+  },
+  {
+    "brand": "Flywheel",
+    "slug": "flywheel",
+    "description": "Up To $500 Per Sale",
+    "website": "https://getflywheel.com",
+    "faq": [
+      {
+        "q": "What is Flywheel?",
+        "a": "Up To $500 Per Sale"
+      },
+      {
+        "q": "How do I join the Flywheel affiliate program?",
+        "a": "Visit https://getflywheel.com to sign up."
+      },
+      {
+        "q": "What commission does Flywheel offer?",
+        "a": "Up To $500 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Pixpa",
+    "slug": "pixpa",
+    "description": "50% Commission For 1 Year",
+    "website": "https://pixpa.com",
+    "faq": [
+      {
+        "q": "What is Pixpa?",
+        "a": "50% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the Pixpa affiliate program?",
+        "a": "Visit https://pixpa.com to sign up."
+      },
+      {
+        "q": "What commission does Pixpa offer?",
+        "a": "50% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "Scala Hosting",
+    "slug": "scala-hosting",
+    "description": "$50-$200 Per Sale",
+    "website": "https://scalahosting.com",
+    "faq": [
+      {
+        "q": "What is Scala Hosting?",
+        "a": "$50-$200 Per Sale"
+      },
+      {
+        "q": "How do I join the Scala Hosting affiliate program?",
+        "a": "Visit https://scalahosting.com to sign up."
+      },
+      {
+        "q": "What commission does Scala Hosting offer?",
+        "a": "$50-$200 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Liquid Web",
+    "slug": "liquid-web",
+    "description": "$150-$7,000 Commissions",
+    "website": "https://liquidweb.com",
+    "faq": [
+      {
+        "q": "What is Liquid Web?",
+        "a": "$150-$7,000 Commissions"
+      },
+      {
+        "q": "How do I join the Liquid Web affiliate program?",
+        "a": "Visit https://liquidweb.com to sign up."
+      },
+      {
+        "q": "What commission does Liquid Web offer?",
+        "a": "$150-$7,000 Commissions"
+      }
+    ]
+  },
+  {
+    "brand": "HostArmada",
+    "slug": "hostarmada",
+    "description": "$50-200 Per Sale",
+    "website": "https://hostarmada.com",
+    "faq": [
+      {
+        "q": "What is HostArmada?",
+        "a": "$50-200 Per Sale"
+      },
+      {
+        "q": "How do I join the HostArmada affiliate program?",
+        "a": "Visit https://hostarmada.com to sign up."
+      },
+      {
+        "q": "What commission does HostArmada offer?",
+        "a": "$50-200 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Coffee Brand Coffee",
+    "slug": "coffee-brand-coffee",
+    "description": "5-40% Per Sale",
+    "website": "https://coffeebrandcoffee.com",
+    "faq": [
+      {
+        "q": "What is Coffee Brand Coffee?",
+        "a": "5-40% Per Sale"
+      },
+      {
+        "q": "How do I join the Coffee Brand Coffee affiliate program?",
+        "a": "Visit https://coffeebrandcoffee.com to sign up."
+      },
+      {
+        "q": "What commission does Coffee Brand Coffee offer?",
+        "a": "5-40% Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Wallafan",
+    "slug": "wallafan",
+    "description": "\u20ac100 Per Sale + \u20ac1 Per Lead",
+    "website": "https://wallafan.com",
+    "faq": [
+      {
+        "q": "What is Wallafan?",
+        "a": "\u20ac100 Per Sale + \u20ac1 Per Lead"
+      },
+      {
+        "q": "How do I join the Wallafan affiliate program?",
+        "a": "Visit https://wallafan.com to sign up."
+      },
+      {
+        "q": "What commission does Wallafan offer?",
+        "a": "\u20ac100 Per Sale + \u20ac1 Per Lead"
+      }
+    ]
+  },
+  {
+    "brand": "AirVape",
+    "slug": "airvape",
+    "description": "Earn Commission For Each Referral",
+    "website": "https://airvapeusa.com",
+    "faq": [
+      {
+        "q": "What is AirVape?",
+        "a": "Earn Commission For Each Referral"
+      },
+      {
+        "q": "How do I join the AirVape affiliate program?",
+        "a": "Visit https://airvapeusa.com to sign up."
+      },
+      {
+        "q": "What commission does AirVape offer?",
+        "a": "Earn Commission For Each Referral"
+      }
+    ]
+  },
+  {
+    "brand": "922S5 Proxy",
+    "slug": "922s5-proxy",
+    "description": "Up To 10% Commission",
+    "website": "https://922proxy.com",
+    "faq": [
+      {
+        "q": "What is 922S5 Proxy?",
+        "a": "Up To 10% Commission"
+      },
+      {
+        "q": "How do I join the 922S5 Proxy affiliate program?",
+        "a": "Visit https://922proxy.com to sign up."
+      },
+      {
+        "q": "What commission does 922S5 Proxy offer?",
+        "a": "Up To 10% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Dabbl",
+    "slug": "dabbl",
+    "description": "$2 Per New User",
+    "website": "https://getdabbl.com",
+    "faq": [
+      {
+        "q": "What is Dabbl?",
+        "a": "$2 Per New User"
+      },
+      {
+        "q": "How do I join the Dabbl affiliate program?",
+        "a": "Visit https://getdabbl.com to sign up."
+      },
+      {
+        "q": "What commission does Dabbl offer?",
+        "a": "$2 Per New User"
+      }
+    ]
+  },
+  {
+    "brand": "NOWPayments",
+    "slug": "nowpayments",
+    "description": "0.2% Each Transaction Forever",
+    "website": "https://nowpayments.io",
+    "faq": [
+      {
+        "q": "What is NOWPayments?",
+        "a": "0.2% Each Transaction Forever"
+      },
+      {
+        "q": "How do I join the NOWPayments affiliate program?",
+        "a": "Visit https://nowpayments.io to sign up."
+      },
+      {
+        "q": "What commission does NOWPayments offer?",
+        "a": "0.2% Each Transaction Forever"
+      }
+    ]
+  },
+  {
+    "brand": "CartHook",
+    "slug": "carthook",
+    "description": "20% Commission For 1 Year",
+    "website": "https://carthook.com",
+    "faq": [
+      {
+        "q": "What is CartHook?",
+        "a": "20% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the CartHook affiliate program?",
+        "a": "Visit https://carthook.com to sign up."
+      },
+      {
+        "q": "What commission does CartHook offer?",
+        "a": "20% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "Pure Hemp CBD",
+    "slug": "pure-hemp-cbd",
+    "description": "40% Commission",
+    "website": "https://purehempshop.com",
+    "faq": [
+      {
+        "q": "What is Pure Hemp CBD?",
+        "a": "40% Commission"
+      },
+      {
+        "q": "How do I join the Pure Hemp CBD affiliate program?",
+        "a": "Visit https://purehempshop.com to sign up."
+      },
+      {
+        "q": "What commission does Pure Hemp CBD offer?",
+        "a": "40% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Godex",
+    "slug": "godex",
+    "description": "0.45%-0.6% Of All Trades",
+    "website": "https://godex.io",
+    "faq": [
+      {
+        "q": "What is Godex?",
+        "a": "0.45%-0.6% Of All Trades"
+      },
+      {
+        "q": "How do I join the Godex affiliate program?",
+        "a": "Visit https://godex.io to sign up."
+      },
+      {
+        "q": "What commission does Godex offer?",
+        "a": "0.45%-0.6% Of All Trades"
+      }
+    ]
+  },
+  {
+    "brand": "BitLaunch",
+    "slug": "bitlaunch",
+    "description": "20% Recurring Commission",
+    "website": "https://bitlaunch.io",
+    "faq": [
+      {
+        "q": "What is BitLaunch?",
+        "a": "20% Recurring Commission"
+      },
+      {
+        "q": "How do I join the BitLaunch affiliate program?",
+        "a": "Visit https://bitlaunch.io to sign up."
+      },
+      {
+        "q": "What commission does BitLaunch offer?",
+        "a": "20% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "WebHostingPad",
+    "slug": "webhostingpad",
+    "description": "$50 Per Sale",
+    "website": "https://webhostingpad.com",
+    "faq": [
+      {
+        "q": "What is WebHostingPad?",
+        "a": "$50 Per Sale"
+      },
+      {
+        "q": "How do I join the WebHostingPad affiliate program?",
+        "a": "Visit https://webhostingpad.com to sign up."
+      },
+      {
+        "q": "What commission does WebHostingPad offer?",
+        "a": "$50 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "LogoGarden",
+    "slug": "logogarden",
+    "description": "$8 or 5%-40%",
+    "website": "https://logogarden.com",
+    "faq": [
+      {
+        "q": "What is LogoGarden?",
+        "a": "$8 or 5%-40%"
+      },
+      {
+        "q": "How do I join the LogoGarden affiliate program?",
+        "a": "Visit https://logogarden.com to sign up."
+      },
+      {
+        "q": "What commission does LogoGarden offer?",
+        "a": "$8 or 5%-40%"
+      }
+    ]
+  },
+  {
+    "brand": "Wide Angle Analytics",
+    "slug": "wide-angle-analytics",
+    "description": "15% Recurring Commission",
+    "website": "https://wideangle.co",
+    "faq": [
+      {
+        "q": "What is Wide Angle Analytics?",
+        "a": "15% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Wide Angle Analytics affiliate program?",
+        "a": "Visit https://wideangle.co to sign up."
+      },
+      {
+        "q": "What commission does Wide Angle Analytics offer?",
+        "a": "15% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Draw3D",
+    "slug": "draw3d",
+    "description": "Up To $6 Per Sale",
+    "website": "https://draw3d.online",
+    "faq": [
+      {
+        "q": "What is Draw3D?",
+        "a": "Up To $6 Per Sale"
+      },
+      {
+        "q": "How do I join the Draw3D affiliate program?",
+        "a": "Visit https://draw3d.online to sign up."
+      },
+      {
+        "q": "What commission does Draw3D offer?",
+        "a": "Up To $6 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Sightseeing Pass",
+    "slug": "sightseeing-pass",
+    "description": "10% Commission",
+    "website": "https://sightseeingpass.com",
+    "faq": [
+      {
+        "q": "What is Sightseeing Pass?",
+        "a": "10% Commission"
+      },
+      {
+        "q": "How do I join the Sightseeing Pass affiliate program?",
+        "a": "Visit https://sightseeingpass.com to sign up."
+      },
+      {
+        "q": "What commission does Sightseeing Pass offer?",
+        "a": "10% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Shift",
+    "slug": "shift",
+    "description": "20% Commission",
+    "website": "https://tryshift.com",
+    "faq": [
+      {
+        "q": "What is Shift?",
+        "a": "20% Commission"
+      },
+      {
+        "q": "How do I join the Shift affiliate program?",
+        "a": "Visit https://tryshift.com to sign up."
+      },
+      {
+        "q": "What commission does Shift offer?",
+        "a": "20% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "AAX",
+    "slug": "aax",
+    "description": "20-40% Commission + 2 Tier",
+    "website": "https://aax.com",
+    "faq": [
+      {
+        "q": "What is AAX?",
+        "a": "20-40% Commission + 2 Tier"
+      },
+      {
+        "q": "How do I join the AAX affiliate program?",
+        "a": "Visit https://aax.com to sign up."
+      },
+      {
+        "q": "What commission does AAX offer?",
+        "a": "20-40% Commission + 2 Tier"
+      }
+    ]
+  },
+  {
+    "brand": "SideShift",
+    "slug": "sideshift",
+    "description": "0.5% Of All Trades",
+    "website": "https://sideshift.ai",
+    "faq": [
+      {
+        "q": "What is SideShift?",
+        "a": "0.5% Of All Trades"
+      },
+      {
+        "q": "How do I join the SideShift affiliate program?",
+        "a": "Visit https://sideshift.ai to sign up."
+      },
+      {
+        "q": "What commission does SideShift offer?",
+        "a": "0.5% Of All Trades"
+      }
+    ]
+  },
+  {
+    "brand": "BRaustralia",
+    "slug": "braustralia",
+    "description": "50% Recurring Commission",
+    "website": "https://braustralia.com",
+    "faq": [
+      {
+        "q": "What is BRaustralia?",
+        "a": "50% Recurring Commission"
+      },
+      {
+        "q": "How do I join the BRaustralia affiliate program?",
+        "a": "Visit https://braustralia.com to sign up."
+      },
+      {
+        "q": "What commission does BRaustralia offer?",
+        "a": "50% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Host4Geeks",
+    "slug": "host4geeks",
+    "description": "$45-$2268 Per Sale",
+    "website": "https://host4geeks.com",
+    "faq": [
+      {
+        "q": "What is Host4Geeks?",
+        "a": "$45-$2268 Per Sale"
+      },
+      {
+        "q": "How do I join the Host4Geeks affiliate program?",
+        "a": "Visit https://host4geeks.com to sign up."
+      },
+      {
+        "q": "What commission does Host4Geeks offer?",
+        "a": "$45-$2268 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Anonymous Proxies",
+    "slug": "anonymous-proxies",
+    "description": "White Label Commission Structure",
+    "website": "https://anonymous-proxies.net",
+    "faq": [
+      {
+        "q": "What is Anonymous Proxies?",
+        "a": "White Label Commission Structure"
+      },
+      {
+        "q": "How do I join the Anonymous Proxies affiliate program?",
+        "a": "Visit https://anonymous-proxies.net to sign up."
+      },
+      {
+        "q": "What commission does Anonymous Proxies offer?",
+        "a": "White Label Commission Structure"
+      }
+    ]
+  },
+  {
+    "brand": "Innovative Wellness",
+    "slug": "innovative-wellness",
+    "description": "$7-$10 Per Sale",
+    "website": "https://innovativewell.com",
+    "faq": [
+      {
+        "q": "What is Innovative Wellness?",
+        "a": "$7-$10 Per Sale"
+      },
+      {
+        "q": "How do I join the Innovative Wellness affiliate program?",
+        "a": "Visit https://innovativewell.com to sign up."
+      },
+      {
+        "q": "What commission does Innovative Wellness offer?",
+        "a": "$7-$10 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "BaseFEX",
+    "slug": "basefex",
+    "description": "35% Of Trading Fees Forever",
+    "website": "https://basefex.com",
+    "faq": [
+      {
+        "q": "What is BaseFEX?",
+        "a": "35% Of Trading Fees Forever"
+      },
+      {
+        "q": "How do I join the BaseFEX affiliate program?",
+        "a": "Visit https://basefex.com to sign up."
+      },
+      {
+        "q": "What commission does BaseFEX offer?",
+        "a": "35% Of Trading Fees Forever"
+      }
+    ]
+  },
+  {
+    "brand": "CoinHost",
+    "slug": "coinhost",
+    "description": "5% Lifetime Recurring Commissions",
+    "website": "https://coin.host/",
+    "faq": [
+      {
+        "q": "What is CoinHost?",
+        "a": "5% Lifetime Recurring Commissions"
+      },
+      {
+        "q": "How do I join the CoinHost affiliate program?",
+        "a": "Visit https://coin.host/ to sign up."
+      },
+      {
+        "q": "What commission does CoinHost offer?",
+        "a": "5% Lifetime Recurring Commissions"
+      }
+    ]
+  },
+  {
+    "brand": "VPN.AC",
+    "slug": "vpn-ac",
+    "description": "30% Per Sale And Renewal",
+    "website": "https://vpn.ac",
+    "faq": [
+      {
+        "q": "What is VPN.AC?",
+        "a": "30% Per Sale And Renewal"
+      },
+      {
+        "q": "How do I join the VPN.AC affiliate program?",
+        "a": "Visit https://vpn.ac to sign up."
+      },
+      {
+        "q": "What commission does VPN.AC offer?",
+        "a": "30% Per Sale And Renewal"
+      }
+    ]
+  },
+  {
+    "brand": "DiedinHouse",
+    "slug": "diedinhouse",
+    "description": "20% Commission",
+    "website": "https://diedinhouse.com",
+    "faq": [
+      {
+        "q": "What is DiedinHouse?",
+        "a": "20% Commission"
+      },
+      {
+        "q": "How do I join the DiedinHouse affiliate program?",
+        "a": "Visit https://diedinhouse.com to sign up."
+      },
+      {
+        "q": "What commission does DiedinHouse offer?",
+        "a": "20% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "FPM Global",
+    "slug": "fpm-global",
+    "description": "Up To $1,200 Per Trader",
+    "website": "https://fpm.global",
+    "faq": [
+      {
+        "q": "What is FPM Global?",
+        "a": "Up To $1,200 Per Trader"
+      },
+      {
+        "q": "How do I join the FPM Global affiliate program?",
+        "a": "Visit https://fpm.global to sign up."
+      },
+      {
+        "q": "What commission does FPM Global offer?",
+        "a": "Up To $1,200 Per Trader"
+      }
+    ]
+  },
+  {
+    "brand": "Compint",
+    "slug": "compint",
+    "description": "Up To $163 Per Sale",
+    "website": "https://compint.co",
+    "faq": [
+      {
+        "q": "What is Compint?",
+        "a": "Up To $163 Per Sale"
+      },
+      {
+        "q": "How do I join the Compint affiliate program?",
+        "a": "Visit https://compint.co to sign up."
+      },
+      {
+        "q": "What commission does Compint offer?",
+        "a": "Up To $163 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Glosclean",
+    "slug": "glosclean",
+    "description": "10% Commission",
+    "website": "https://glosclean.com",
+    "faq": [
+      {
+        "q": "What is Glosclean?",
+        "a": "10% Commission"
+      },
+      {
+        "q": "How do I join the Glosclean affiliate program?",
+        "a": "Visit https://glosclean.com to sign up."
+      },
+      {
+        "q": "What commission does Glosclean offer?",
+        "a": "10% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Epik",
+    "slug": "epik",
+    "description": "20% Commission New Customers",
+    "website": "https://epik.com",
+    "faq": [
+      {
+        "q": "What is Epik?",
+        "a": "20% Commission New Customers"
+      },
+      {
+        "q": "How do I join the Epik affiliate program?",
+        "a": "Visit https://epik.com to sign up."
+      },
+      {
+        "q": "What commission does Epik offer?",
+        "a": "20% Commission New Customers"
+      }
+    ]
+  },
+  {
+    "brand": "BlockCard",
+    "slug": "blockcard",
+    "description": "Give $10 - Get $10",
+    "website": "https://getblockcard.com",
+    "faq": [
+      {
+        "q": "What is BlockCard?",
+        "a": "Give $10 - Get $10"
+      },
+      {
+        "q": "How do I join the BlockCard affiliate program?",
+        "a": "Visit https://getblockcard.com to sign up."
+      },
+      {
+        "q": "What commission does BlockCard offer?",
+        "a": "Give $10 - Get $10"
+      }
+    ]
+  },
+  {
+    "brand": "Hostsoch",
+    "slug": "hostsoch",
+    "description": "40% For Each Sale",
+    "website": "https://hostsoch.in",
+    "faq": [
+      {
+        "q": "What is Hostsoch?",
+        "a": "40% For Each Sale"
+      },
+      {
+        "q": "How do I join the Hostsoch affiliate program?",
+        "a": "Visit https://hostsoch.in to sign up."
+      },
+      {
+        "q": "What commission does Hostsoch offer?",
+        "a": "40% For Each Sale"
+      }
+    ]
+  },
+  {
+    "brand": "MouseJiggle",
+    "slug": "mousejiggle",
+    "description": "50% Commission",
+    "website": "https://mousejiggle.org",
+    "faq": [
+      {
+        "q": "What is MouseJiggle?",
+        "a": "50% Commission"
+      },
+      {
+        "q": "How do I join the MouseJiggle affiliate program?",
+        "a": "Visit https://mousejiggle.org to sign up."
+      },
+      {
+        "q": "What commission does MouseJiggle offer?",
+        "a": "50% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Bandwagon Host",
+    "slug": "bandwagon-host",
+    "description": "22% Commission",
+    "website": "https://bandwagonhost.com",
+    "faq": [
+      {
+        "q": "What is Bandwagon Host?",
+        "a": "22% Commission"
+      },
+      {
+        "q": "How do I join the Bandwagon Host affiliate program?",
+        "a": "Visit https://bandwagonhost.com to sign up."
+      },
+      {
+        "q": "What commission does Bandwagon Host offer?",
+        "a": "22% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "DocuEase",
+    "slug": "docuease",
+    "description": "$17-$699 Per Sale",
+    "website": "https://docuease.com",
+    "faq": [
+      {
+        "q": "What is DocuEase?",
+        "a": "$17-$699 Per Sale"
+      },
+      {
+        "q": "How do I join the DocuEase affiliate program?",
+        "a": "Visit https://docuease.com to sign up."
+      },
+      {
+        "q": "What commission does DocuEase offer?",
+        "a": "$17-$699 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "HeyReach",
+    "slug": "heyreach",
+    "description": "30% Recurring Commission",
+    "website": "https://heyreach.io",
+    "faq": [
+      {
+        "q": "What is HeyReach?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the HeyReach affiliate program?",
+        "a": "Visit https://heyreach.io to sign up."
+      },
+      {
+        "q": "What commission does HeyReach offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "LunaProxy",
+    "slug": "lunaproxy",
+    "description": "Up To 10% Lifetime Commission",
+    "website": "https://lunaproxy.com",
+    "faq": [
+      {
+        "q": "What is LunaProxy?",
+        "a": "Up To 10% Lifetime Commission"
+      },
+      {
+        "q": "How do I join the LunaProxy affiliate program?",
+        "a": "Visit https://lunaproxy.com to sign up."
+      },
+      {
+        "q": "What commission does LunaProxy offer?",
+        "a": "Up To 10% Lifetime Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Trovelle",
+    "slug": "trovelle",
+    "description": "10% Commission",
+    "website": "https://trovelle.com",
+    "faq": [
+      {
+        "q": "What is Trovelle?",
+        "a": "10% Commission"
+      },
+      {
+        "q": "How do I join the Trovelle affiliate program?",
+        "a": "Visit https://trovelle.com to sign up."
+      },
+      {
+        "q": "What commission does Trovelle offer?",
+        "a": "10% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "FOCL",
+    "slug": "focl",
+    "description": "40% Commission",
+    "website": "https://focl.com",
+    "faq": [
+      {
+        "q": "What is FOCL?",
+        "a": "40% Commission"
+      },
+      {
+        "q": "How do I join the FOCL affiliate program?",
+        "a": "Visit https://focl.com to sign up."
+      },
+      {
+        "q": "What commission does FOCL offer?",
+        "a": "40% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "WAATR",
+    "slug": "waatr",
+    "description": "20% Commission",
+    "website": "https://waatr.com",
+    "faq": [
+      {
+        "q": "What is WAATR?",
+        "a": "20% Commission"
+      },
+      {
+        "q": "How do I join the WAATR affiliate program?",
+        "a": "Visit https://waatr.com to sign up."
+      },
+      {
+        "q": "What commission does WAATR offer?",
+        "a": "20% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "STDcheck",
+    "slug": "stdcheck",
+    "description": "40% Commission",
+    "website": "https://stdcheck.com",
+    "faq": [
+      {
+        "q": "What is STDcheck?",
+        "a": "40% Commission"
+      },
+      {
+        "q": "How do I join the STDcheck affiliate program?",
+        "a": "Visit https://stdcheck.com to sign up."
+      },
+      {
+        "q": "What commission does STDcheck offer?",
+        "a": "40% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Police Magnum",
+    "slug": "police-magnum",
+    "description": "10% Commission",
+    "website": "https://policemagnum.com",
+    "faq": [
+      {
+        "q": "What is Police Magnum?",
+        "a": "10% Commission"
+      },
+      {
+        "q": "How do I join the Police Magnum affiliate program?",
+        "a": "Visit https://policemagnum.com to sign up."
+      },
+      {
+        "q": "What commission does Police Magnum offer?",
+        "a": "10% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Cart2Cart",
+    "slug": "cart2cart",
+    "description": "20% Commission",
+    "website": "https://shopping-cart-migration.com",
+    "faq": [
+      {
+        "q": "What is Cart2Cart?",
+        "a": "20% Commission"
+      },
+      {
+        "q": "How do I join the Cart2Cart affiliate program?",
+        "a": "Visit https://shopping-cart-migration.com to sign up."
+      },
+      {
+        "q": "What commission does Cart2Cart offer?",
+        "a": "20% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "for the Ageless",
+    "slug": "for-the-ageless",
+    "description": "Up To 20% Per Sale",
+    "website": "https://fortheageless.com",
+    "faq": [
+      {
+        "q": "What is for the Ageless?",
+        "a": "Up To 20% Per Sale"
+      },
+      {
+        "q": "How do I join the for the Ageless affiliate program?",
+        "a": "Visit https://fortheageless.com to sign up."
+      },
+      {
+        "q": "What commission does for the Ageless offer?",
+        "a": "Up To 20% Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Hyax",
+    "slug": "hyax",
+    "description": "25% Recurring Commission + 2 Tier",
+    "website": "https://hyax.com",
+    "faq": [
+      {
+        "q": "What is Hyax?",
+        "a": "25% Recurring Commission + 2 Tier"
+      },
+      {
+        "q": "How do I join the Hyax affiliate program?",
+        "a": "Visit https://hyax.com to sign up."
+      },
+      {
+        "q": "What commission does Hyax offer?",
+        "a": "25% Recurring Commission + 2 Tier"
+      }
+    ]
+  },
+  {
+    "brand": "Outranking",
+    "slug": "outranking",
+    "description": "25% Recurring Commission",
+    "website": "https://www.outranking.io",
+    "faq": [
+      {
+        "q": "What is Outranking?",
+        "a": "25% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Outranking affiliate program?",
+        "a": "Visit https://www.outranking.io to sign up."
+      },
+      {
+        "q": "What commission does Outranking offer?",
+        "a": "25% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "RightBlogger",
+    "slug": "rightblogger",
+    "description": "50% Commission For 3 Months",
+    "website": "https://rightblogger.com",
+    "faq": [
+      {
+        "q": "What is RightBlogger?",
+        "a": "50% Commission For 3 Months"
+      },
+      {
+        "q": "How do I join the RightBlogger affiliate program?",
+        "a": "Visit https://rightblogger.com to sign up."
+      },
+      {
+        "q": "What commission does RightBlogger offer?",
+        "a": "50% Commission For 3 Months"
+      }
+    ]
+  },
+  {
+    "brand": "GetGenie",
+    "slug": "getgenie",
+    "description": "30% Recurring Commission",
+    "website": "https://getgenie.ai",
+    "faq": [
+      {
+        "q": "What is GetGenie?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the GetGenie affiliate program?",
+        "a": "Visit https://getgenie.ai to sign up."
+      },
+      {
+        "q": "What commission does GetGenie offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Cryptosteel",
+    "slug": "cryptosteel",
+    "description": "10% Commission",
+    "website": "https://cryptosteel.com",
+    "faq": [
+      {
+        "q": "What is Cryptosteel?",
+        "a": "10% Commission"
+      },
+      {
+        "q": "How do I join the Cryptosteel affiliate program?",
+        "a": "Visit https://cryptosteel.com to sign up."
+      },
+      {
+        "q": "What commission does Cryptosteel offer?",
+        "a": "10% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "OrderDive",
+    "slug": "orderdive",
+    "description": "75% Commission For 1 Year",
+    "website": "https://get.orderdive.com",
+    "faq": [
+      {
+        "q": "What is OrderDive?",
+        "a": "75% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the OrderDive affiliate program?",
+        "a": "Visit https://get.orderdive.com to sign up."
+      },
+      {
+        "q": "What commission does OrderDive offer?",
+        "a": "75% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "Schwank Grills",
+    "slug": "schwank-grills",
+    "description": "10% Commission",
+    "website": "https://schwankgrills.com",
+    "faq": [
+      {
+        "q": "What is Schwank Grills?",
+        "a": "10% Commission"
+      },
+      {
+        "q": "How do I join the Schwank Grills affiliate program?",
+        "a": "Visit https://schwankgrills.com to sign up."
+      },
+      {
+        "q": "What commission does Schwank Grills offer?",
+        "a": "10% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Comrade",
+    "slug": "comrade",
+    "description": "10% Recurring Commission",
+    "website": "https://cmrd.com",
+    "faq": [
+      {
+        "q": "What is Comrade?",
+        "a": "10% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Comrade affiliate program?",
+        "a": "Visit https://cmrd.com to sign up."
+      },
+      {
+        "q": "What commission does Comrade offer?",
+        "a": "10% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "CBD Magic",
+    "slug": "cbd-magic",
+    "description": "15% Lifetime Commission + 2 Tier",
+    "website": "https://cbdmagic.ca",
+    "faq": [
+      {
+        "q": "What is CBD Magic?",
+        "a": "15% Lifetime Commission + 2 Tier"
+      },
+      {
+        "q": "How do I join the CBD Magic affiliate program?",
+        "a": "Visit https://cbdmagic.ca to sign up."
+      },
+      {
+        "q": "What commission does CBD Magic offer?",
+        "a": "15% Lifetime Commission + 2 Tier"
+      }
+    ]
+  },
+  {
+    "brand": "Crowdfire",
+    "slug": "crowdfire",
+    "description": "35% Commission For 1 Year",
+    "website": "https://crowdfireapp.com",
+    "faq": [
+      {
+        "q": "What is Crowdfire?",
+        "a": "35% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the Crowdfire affiliate program?",
+        "a": "Visit https://crowdfireapp.com to sign up."
+      },
+      {
+        "q": "What commission does Crowdfire offer?",
+        "a": "35% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "Audew",
+    "slug": "audew",
+    "description": "8-12% per sale",
+    "website": "https://audew.com",
+    "faq": [
+      {
+        "q": "What is Audew?",
+        "a": "8-12% per sale"
+      },
+      {
+        "q": "How do I join the Audew affiliate program?",
+        "a": "Visit https://audew.com to sign up."
+      },
+      {
+        "q": "What commission does Audew offer?",
+        "a": "8-12% per sale"
+      }
+    ]
+  },
+  {
+    "brand": "LocalMonero",
+    "slug": "localmonero",
+    "description": "40% Of Trading Fees",
+    "website": "https://localmonero.co",
+    "faq": [
+      {
+        "q": "What is LocalMonero?",
+        "a": "40% Of Trading Fees"
+      },
+      {
+        "q": "How do I join the LocalMonero affiliate program?",
+        "a": "Visit https://localmonero.co to sign up."
+      },
+      {
+        "q": "What commission does LocalMonero offer?",
+        "a": "40% Of Trading Fees"
+      }
+    ]
+  },
+  {
+    "brand": "Woodpecker",
+    "slug": "woodpecker",
+    "description": "20% Recurring Commission",
+    "website": "https://woodpecker.co",
+    "faq": [
+      {
+        "q": "What is Woodpecker?",
+        "a": "20% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Woodpecker affiliate program?",
+        "a": "Visit https://woodpecker.co to sign up."
+      },
+      {
+        "q": "What commission does Woodpecker offer?",
+        "a": "20% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "AltusHost",
+    "slug": "altushost",
+    "description": "10-30% Commission",
+    "website": "https://altushost.com",
+    "faq": [
+      {
+        "q": "What is AltusHost?",
+        "a": "10-30% Commission"
+      },
+      {
+        "q": "How do I join the AltusHost affiliate program?",
+        "a": "Visit https://altushost.com to sign up."
+      },
+      {
+        "q": "What commission does AltusHost offer?",
+        "a": "10-30% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "TinderProfile.ai",
+    "slug": "tinderprofile-ai",
+    "description": "30% Commission",
+    "website": "https://tinderprofile.ai",
+    "faq": [
+      {
+        "q": "What is TinderProfile.ai?",
+        "a": "30% Commission"
+      },
+      {
+        "q": "How do I join the TinderProfile.ai affiliate program?",
+        "a": "Visit https://tinderprofile.ai to sign up."
+      },
+      {
+        "q": "What commission does TinderProfile.ai offer?",
+        "a": "30% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Talkio AI",
+    "slug": "talkio-ai",
+    "description": "30% Commission For 1 Year",
+    "website": "https://talkio.ai",
+    "faq": [
+      {
+        "q": "What is Talkio AI?",
+        "a": "30% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the Talkio AI affiliate program?",
+        "a": "Visit https://talkio.ai to sign up."
+      },
+      {
+        "q": "What commission does Talkio AI offer?",
+        "a": "30% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "Fluzzle Tube",
+    "slug": "fluzzle-tube",
+    "description": "10% Commission",
+    "website": "https://fluzzletube.com",
+    "faq": [
+      {
+        "q": "What is Fluzzle Tube?",
+        "a": "10% Commission"
+      },
+      {
+        "q": "How do I join the Fluzzle Tube affiliate program?",
+        "a": "Visit https://fluzzletube.com to sign up."
+      },
+      {
+        "q": "What commission does Fluzzle Tube offer?",
+        "a": "10% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "CoinPayments",
+    "slug": "coinpayments",
+    "description": "25% Transaction Fees For 5 Years",
+    "website": "https://coinpayments.net",
+    "faq": [
+      {
+        "q": "What is CoinPayments?",
+        "a": "25% Transaction Fees For 5 Years"
+      },
+      {
+        "q": "How do I join the CoinPayments affiliate program?",
+        "a": "Visit https://coinpayments.net to sign up."
+      },
+      {
+        "q": "What commission does CoinPayments offer?",
+        "a": "25% Transaction Fees For 5 Years"
+      }
+    ]
+  },
+  {
+    "brand": "Montway Auto Transport",
+    "slug": "montway-auto-transport",
+    "description": "Payout structures based on bookings",
+    "website": "https://montway.com",
+    "faq": [
+      {
+        "q": "What is Montway Auto Transport?",
+        "a": "Payout structures based on bookings"
+      },
+      {
+        "q": "How do I join the Montway Auto Transport affiliate program?",
+        "a": "Visit https://montway.com to sign up."
+      },
+      {
+        "q": "What commission does Montway Auto Transport offer?",
+        "a": "Payout structures based on bookings"
+      }
+    ]
+  },
+  {
+    "brand": "Elysium Hope",
+    "slug": "elysium-hope",
+    "description": "15% Per Sale",
+    "website": "https://elysiumhope.com",
+    "faq": [
+      {
+        "q": "What is Elysium Hope?",
+        "a": "15% Per Sale"
+      },
+      {
+        "q": "How do I join the Elysium Hope affiliate program?",
+        "a": "Visit https://elysiumhope.com to sign up."
+      },
+      {
+        "q": "What commission does Elysium Hope offer?",
+        "a": "15% Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Stocksift",
+    "slug": "stocksift",
+    "description": "30% Recurring Commission",
+    "website": "https://stocksift.com",
+    "faq": [
+      {
+        "q": "What is Stocksift?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Stocksift affiliate program?",
+        "a": "Visit https://stocksift.com to sign up."
+      },
+      {
+        "q": "What commission does Stocksift offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Krater.ai",
+    "slug": "krater-ai",
+    "description": "40% Commission",
+    "website": "https://krater.ai",
+    "faq": [
+      {
+        "q": "What is Krater.ai?",
+        "a": "40% Commission"
+      },
+      {
+        "q": "How do I join the Krater.ai affiliate program?",
+        "a": "Visit https://krater.ai to sign up."
+      },
+      {
+        "q": "What commission does Krater.ai offer?",
+        "a": "40% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Poll the People",
+    "slug": "poll-the-people",
+    "description": "20% Recurring Commission",
+    "website": "https://pollthepeople.app",
+    "faq": [
+      {
+        "q": "What is Poll the People?",
+        "a": "20% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Poll the People affiliate program?",
+        "a": "Visit https://pollthepeople.app to sign up."
+      },
+      {
+        "q": "What commission does Poll the People offer?",
+        "a": "20% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "SearchApi",
+    "slug": "searchapi",
+    "description": "30% Commission For 1 Year",
+    "website": "https://searchapi.io",
+    "faq": [
+      {
+        "q": "What is SearchApi?",
+        "a": "30% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the SearchApi affiliate program?",
+        "a": "Visit https://searchapi.io to sign up."
+      },
+      {
+        "q": "What commission does SearchApi offer?",
+        "a": "30% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "Lahdee",
+    "slug": "lahdee",
+    "description": "10-15% Commission",
+    "website": "https://lahdeestore.com",
+    "faq": [
+      {
+        "q": "What is Lahdee?",
+        "a": "10-15% Commission"
+      },
+      {
+        "q": "How do I join the Lahdee affiliate program?",
+        "a": "Visit https://lahdeestore.com to sign up."
+      },
+      {
+        "q": "What commission does Lahdee offer?",
+        "a": "10-15% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "CheapAir",
+    "slug": "cheapair",
+    "description": "$5-$8 / 5%-8%",
+    "website": "https://cheapair.com",
+    "faq": [
+      {
+        "q": "What is CheapAir?",
+        "a": "$5-$8 / 5%-8%"
+      },
+      {
+        "q": "How do I join the CheapAir affiliate program?",
+        "a": "Visit https://cheapair.com to sign up."
+      },
+      {
+        "q": "What commission does CheapAir offer?",
+        "a": "$5-$8 / 5%-8%"
+      }
+    ]
+  },
+  {
+    "brand": "Careerjet",
+    "slug": "careerjet",
+    "description": "Earn Per Click + 2 Tier",
+    "website": "https://careerjet.com",
+    "faq": [
+      {
+        "q": "What is Careerjet?",
+        "a": "Earn Per Click + 2 Tier"
+      },
+      {
+        "q": "How do I join the Careerjet affiliate program?",
+        "a": "Visit https://careerjet.com to sign up."
+      },
+      {
+        "q": "What commission does Careerjet offer?",
+        "a": "Earn Per Click + 2 Tier"
+      }
+    ]
+  },
+  {
+    "brand": "StatusCake",
+    "slug": "statuscake",
+    "description": "30% Recurring Commission",
+    "website": "https://statuscake.com",
+    "faq": [
+      {
+        "q": "What is StatusCake?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the StatusCake affiliate program?",
+        "a": "Visit https://statuscake.com to sign up."
+      },
+      {
+        "q": "What commission does StatusCake offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Sedo",
+    "slug": "sedo",
+    "description": "15% Commission",
+    "website": "https://sedo.com",
+    "faq": [
+      {
+        "q": "What is Sedo?",
+        "a": "15% Commission"
+      },
+      {
+        "q": "How do I join the Sedo affiliate program?",
+        "a": "Visit https://sedo.com to sign up."
+      },
+      {
+        "q": "What commission does Sedo offer?",
+        "a": "15% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Koala 360",
+    "slug": "koala-360",
+    "description": "30% Recurring Commission",
+    "website": "https://koala360.com",
+    "faq": [
+      {
+        "q": "What is Koala 360?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Koala 360 affiliate program?",
+        "a": "Visit https://koala360.com to sign up."
+      },
+      {
+        "q": "What commission does Koala 360 offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "LinktoLender",
+    "slug": "linktolender",
+    "description": "$15 Per Lead - $100 Per Funding",
+    "website": "https://ai.linktolender.com",
+    "faq": [
+      {
+        "q": "What is LinktoLender?",
+        "a": "$15 Per Lead - $100 Per Funding"
+      },
+      {
+        "q": "How do I join the LinktoLender affiliate program?",
+        "a": "Visit https://ai.linktolender.com to sign up."
+      },
+      {
+        "q": "What commission does LinktoLender offer?",
+        "a": "$15 Per Lead - $100 Per Funding"
+      }
+    ]
+  },
+  {
+    "brand": "Cryptohopper",
+    "slug": "cryptohopper",
+    "description": "10-15% Recurring Commission",
+    "website": "https://cryptohopper.com",
+    "faq": [
+      {
+        "q": "What is Cryptohopper?",
+        "a": "10-15% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Cryptohopper affiliate program?",
+        "a": "Visit https://cryptohopper.com to sign up."
+      },
+      {
+        "q": "What commission does Cryptohopper offer?",
+        "a": "10-15% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Coursebox",
+    "slug": "coursebox",
+    "description": "50% On 1st Purchase",
+    "website": "https://coursebox.ai",
+    "faq": [
+      {
+        "q": "What is Coursebox?",
+        "a": "50% On 1st Purchase"
+      },
+      {
+        "q": "How do I join the Coursebox affiliate program?",
+        "a": "Visit https://coursebox.ai to sign up."
+      },
+      {
+        "q": "What commission does Coursebox offer?",
+        "a": "50% On 1st Purchase"
+      }
+    ]
+  },
+  {
+    "brand": "Crystal Travel",
+    "slug": "crystal-travel",
+    "description": "$9-$18 Per Booking",
+    "website": "https://www.crystaltravel.com",
+    "faq": [
+      {
+        "q": "What is Crystal Travel?",
+        "a": "$9-$18 Per Booking"
+      },
+      {
+        "q": "How do I join the Crystal Travel affiliate program?",
+        "a": "Visit https://www.crystaltravel.com to sign up."
+      },
+      {
+        "q": "What commission does Crystal Travel offer?",
+        "a": "$9-$18 Per Booking"
+      }
+    ]
+  },
+  {
+    "brand": "360Proxy",
+    "slug": "360proxy",
+    "description": "Up To 5% Commission",
+    "website": "https://360proxy.com",
+    "faq": [
+      {
+        "q": "What is 360Proxy?",
+        "a": "Up To 5% Commission"
+      },
+      {
+        "q": "How do I join the 360Proxy affiliate program?",
+        "a": "Visit https://360proxy.com to sign up."
+      },
+      {
+        "q": "What commission does 360Proxy offer?",
+        "a": "Up To 5% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Wallafan",
+    "slug": "wallafan",
+    "description": "\u20ac100 Per Sale + \u20ac1 Per Lead",
+    "website": "https://wallafan.com",
+    "faq": [
+      {
+        "q": "What is Wallafan?",
+        "a": "\u20ac100 Per Sale + \u20ac1 Per Lead"
+      },
+      {
+        "q": "How do I join the Wallafan affiliate program?",
+        "a": "Visit https://wallafan.com to sign up."
+      },
+      {
+        "q": "What commission does Wallafan offer?",
+        "a": "\u20ac100 Per Sale + \u20ac1 Per Lead"
+      }
+    ]
+  },
+  {
+    "brand": "DipSway",
+    "slug": "dipsway",
+    "description": "30% Recurring Commission",
+    "website": "https://dipsway.com",
+    "faq": [
+      {
+        "q": "What is DipSway?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the DipSway affiliate program?",
+        "a": "Visit https://dipsway.com to sign up."
+      },
+      {
+        "q": "What commission does DipSway offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "AirVape",
+    "slug": "airvape",
+    "description": "Earn Commission For Each Referral",
+    "website": "https://airvapeusa.com",
+    "faq": [
+      {
+        "q": "What is AirVape?",
+        "a": "Earn Commission For Each Referral"
+      },
+      {
+        "q": "How do I join the AirVape affiliate program?",
+        "a": "Visit https://airvapeusa.com to sign up."
+      },
+      {
+        "q": "What commission does AirVape offer?",
+        "a": "Earn Commission For Each Referral"
+      }
+    ]
+  },
+  {
+    "brand": "HighProxies",
+    "slug": "highproxies",
+    "description": "20% Recurring Commission",
+    "website": "https://highproxies.com",
+    "faq": [
+      {
+        "q": "What is HighProxies?",
+        "a": "20% Recurring Commission"
+      },
+      {
+        "q": "How do I join the HighProxies affiliate program?",
+        "a": "Visit https://highproxies.com to sign up."
+      },
+      {
+        "q": "What commission does HighProxies offer?",
+        "a": "20% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Coincards",
+    "slug": "coincards",
+    "description": "0.5-2% Commission For 1 Year",
+    "website": "https://coincards.com",
+    "faq": [
+      {
+        "q": "What is Coincards?",
+        "a": "0.5-2% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the Coincards affiliate program?",
+        "a": "Visit https://coincards.com to sign up."
+      },
+      {
+        "q": "What commission does Coincards offer?",
+        "a": "0.5-2% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "Reply",
+    "slug": "reply",
+    "description": "20% Commission",
+    "website": "https://reply.io",
+    "faq": [
+      {
+        "q": "What is Reply?",
+        "a": "20% Commission"
+      },
+      {
+        "q": "How do I join the Reply affiliate program?",
+        "a": "Visit https://reply.io to sign up."
+      },
+      {
+        "q": "What commission does Reply offer?",
+        "a": "20% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Ledger Wallet",
+    "slug": "ledger-wallet",
+    "description": "10% referral commission",
+    "website": "https://www.ledger.com",
+    "faq": [
+      {
+        "q": "What is Ledger Wallet?",
+        "a": "10% referral commission"
+      },
+      {
+        "q": "How do I join the Ledger Wallet affiliate program?",
+        "a": "Visit https://www.ledger.com to sign up."
+      },
+      {
+        "q": "What commission does Ledger Wallet offer?",
+        "a": "10% referral commission"
+      }
+    ]
+  },
+  {
+    "brand": "CustomGPT",
+    "slug": "customgpt",
+    "description": "15% Commission For 2 Years",
+    "website": "https://customgpt.ai",
+    "faq": [
+      {
+        "q": "What is CustomGPT?",
+        "a": "15% Commission For 2 Years"
+      },
+      {
+        "q": "How do I join the CustomGPT affiliate program?",
+        "a": "Visit https://customgpt.ai to sign up."
+      },
+      {
+        "q": "What commission does CustomGPT offer?",
+        "a": "15% Commission For 2 Years"
+      }
+    ]
+  },
+  {
+    "brand": "Changelly",
+    "slug": "changelly",
+    "description": "Up to 60% Trading Fees",
+    "website": "https://changelly.com",
+    "faq": [
+      {
+        "q": "What is Changelly?",
+        "a": "Up to 60% Trading Fees"
+      },
+      {
+        "q": "How do I join the Changelly affiliate program?",
+        "a": "Visit https://changelly.com to sign up."
+      },
+      {
+        "q": "What commission does Changelly offer?",
+        "a": "Up to 60% Trading Fees"
+      }
+    ]
+  },
+  {
+    "brand": "Collect.chat",
+    "slug": "collect-chat",
+    "description": "30% Recurring Commission",
+    "website": "https://collect.chat",
+    "faq": [
+      {
+        "q": "What is Collect.chat?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Collect.chat affiliate program?",
+        "a": "Visit https://collect.chat to sign up."
+      },
+      {
+        "q": "What commission does Collect.chat offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "AlignerCo",
+    "slug": "alignerco",
+    "description": "5% Commission",
+    "website": "https://alignerco.com",
+    "faq": [
+      {
+        "q": "What is AlignerCo?",
+        "a": "5% Commission"
+      },
+      {
+        "q": "How do I join the AlignerCo affiliate program?",
+        "a": "Visit https://alignerco.com to sign up."
+      },
+      {
+        "q": "What commission does AlignerCo offer?",
+        "a": "5% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "123 Reg",
+    "slug": "123-reg",
+    "description": "0.5% - 25% commissions",
+    "website": "https://123-reg.co.uk",
+    "faq": [
+      {
+        "q": "What is 123 Reg?",
+        "a": "0.5% - 25% commissions"
+      },
+      {
+        "q": "How do I join the 123 Reg affiliate program?",
+        "a": "Visit https://123-reg.co.uk to sign up."
+      },
+      {
+        "q": "What commission does 123 Reg offer?",
+        "a": "0.5% - 25% commissions"
+      }
+    ]
+  },
+  {
+    "brand": "Weblium",
+    "slug": "weblium",
+    "description": "35%-50% Commission",
+    "website": "https://en.weblium.com",
+    "faq": [
+      {
+        "q": "What is Weblium?",
+        "a": "35%-50% Commission"
+      },
+      {
+        "q": "How do I join the Weblium affiliate program?",
+        "a": "Visit https://en.weblium.com to sign up."
+      },
+      {
+        "q": "What commission does Weblium offer?",
+        "a": "35%-50% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "SaaS Manta",
+    "slug": "saas-manta",
+    "description": "20% Commission",
+    "website": "https://saasmantra.com",
+    "faq": [
+      {
+        "q": "What is SaaS Manta?",
+        "a": "20% Commission"
+      },
+      {
+        "q": "How do I join the SaaS Manta affiliate program?",
+        "a": "Visit https://saasmantra.com to sign up."
+      },
+      {
+        "q": "What commission does SaaS Manta offer?",
+        "a": "20% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Mixo",
+    "slug": "mixo",
+    "description": "50% Commission",
+    "website": "https://www.mixo.io",
+    "faq": [
+      {
+        "q": "What is Mixo?",
+        "a": "50% Commission"
+      },
+      {
+        "q": "How do I join the Mixo affiliate program?",
+        "a": "Visit https://www.mixo.io to sign up."
+      },
+      {
+        "q": "What commission does Mixo offer?",
+        "a": "50% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Prop Money",
+    "slug": "prop-money",
+    "description": "7% Commission",
+    "website": "https://propmoney.com",
+    "faq": [
+      {
+        "q": "What is Prop Money?",
+        "a": "7% Commission"
+      },
+      {
+        "q": "How do I join the Prop Money affiliate program?",
+        "a": "Visit https://propmoney.com to sign up."
+      },
+      {
+        "q": "What commission does Prop Money offer?",
+        "a": "7% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "MerchantService.com",
+    "slug": "merchantservice-com",
+    "description": "$100 Per Referral + 20% Recurring",
+    "website": "https://merchantservice.com",
+    "faq": [
+      {
+        "q": "What is MerchantService.com?",
+        "a": "$100 Per Referral + 20% Recurring"
+      },
+      {
+        "q": "How do I join the MerchantService.com affiliate program?",
+        "a": "Visit https://merchantservice.com to sign up."
+      },
+      {
+        "q": "What commission does MerchantService.com offer?",
+        "a": "$100 Per Referral + 20% Recurring"
+      }
+    ]
+  },
+  {
+    "brand": "Figure Home Equity",
+    "slug": "figure-home-equity",
+    "description": "$0.50 Per Click",
+    "website": "https://figure.com",
+    "faq": [
+      {
+        "q": "What is Figure Home Equity?",
+        "a": "$0.50 Per Click"
+      },
+      {
+        "q": "How do I join the Figure Home Equity affiliate program?",
+        "a": "Visit https://figure.com to sign up."
+      },
+      {
+        "q": "What commission does Figure Home Equity offer?",
+        "a": "$0.50 Per Click"
+      }
+    ]
+  },
+  {
+    "brand": "CBDPure",
+    "slug": "cbdpure",
+    "description": "40% Commission + 2 Tier",
+    "website": "https://cbdpure.com",
+    "faq": [
+      {
+        "q": "What is CBDPure?",
+        "a": "40% Commission + 2 Tier"
+      },
+      {
+        "q": "How do I join the CBDPure affiliate program?",
+        "a": "Visit https://cbdpure.com to sign up."
+      },
+      {
+        "q": "What commission does CBDPure offer?",
+        "a": "40% Commission + 2 Tier"
+      }
+    ]
+  },
+  {
+    "brand": "Deep Sentinel",
+    "slug": "deep-sentinel",
+    "description": "$100-$350 Per Sale",
+    "website": "https://deepsentinel.com",
+    "faq": [
+      {
+        "q": "What is Deep Sentinel?",
+        "a": "$100-$350 Per Sale"
+      },
+      {
+        "q": "How do I join the Deep Sentinel affiliate program?",
+        "a": "Visit https://deepsentinel.com to sign up."
+      },
+      {
+        "q": "What commission does Deep Sentinel offer?",
+        "a": "$100-$350 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "CSVape",
+    "slug": "csvape",
+    "description": "25% Commission",
+    "website": "https://csvape.com",
+    "faq": [
+      {
+        "q": "What is CSVape?",
+        "a": "25% Commission"
+      },
+      {
+        "q": "How do I join the CSVape affiliate program?",
+        "a": "Visit https://csvape.com to sign up."
+      },
+      {
+        "q": "What commission does CSVape offer?",
+        "a": "25% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Clay",
+    "slug": "clay",
+    "description": "$50 Per Sale",
+    "website": "https://clay.earth",
+    "faq": [
+      {
+        "q": "What is Clay?",
+        "a": "$50 Per Sale"
+      },
+      {
+        "q": "How do I join the Clay affiliate program?",
+        "a": "Visit https://clay.earth to sign up."
+      },
+      {
+        "q": "What commission does Clay offer?",
+        "a": "$50 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Koala AI",
+    "slug": "koala-ai",
+    "description": "30% Recurring Commission",
+    "website": "https://koala.sh",
+    "faq": [
+      {
+        "q": "What is Koala AI?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Koala AI affiliate program?",
+        "a": "Visit https://koala.sh to sign up."
+      },
+      {
+        "q": "What commission does Koala AI offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "AIML API",
+    "slug": "aiml-api",
+    "description": "30% Commission For 6 Months",
+    "website": "https://aimlapi.com",
+    "faq": [
+      {
+        "q": "What is AIML API?",
+        "a": "30% Commission For 6 Months"
+      },
+      {
+        "q": "How do I join the AIML API affiliate program?",
+        "a": "Visit https://aimlapi.com to sign up."
+      },
+      {
+        "q": "What commission does AIML API offer?",
+        "a": "30% Commission For 6 Months"
+      }
+    ]
+  },
+  {
+    "brand": "Thinkbuddy",
+    "slug": "thinkbuddy",
+    "description": "20% Commission For 1 Year",
+    "website": "https://thinkbuddy.ai",
+    "faq": [
+      {
+        "q": "What is Thinkbuddy?",
+        "a": "20% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the Thinkbuddy affiliate program?",
+        "a": "Visit https://thinkbuddy.ai to sign up."
+      },
+      {
+        "q": "What commission does Thinkbuddy offer?",
+        "a": "20% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "HostPapa",
+    "slug": "hostpapa",
+    "description": "$45 Per Sale / 15% some products",
+    "website": "https://hostpapa.com",
+    "faq": [
+      {
+        "q": "What is HostPapa?",
+        "a": "$45 Per Sale / 15% some products"
+      },
+      {
+        "q": "How do I join the HostPapa affiliate program?",
+        "a": "Visit https://hostpapa.com to sign up."
+      },
+      {
+        "q": "What commission does HostPapa offer?",
+        "a": "$45 Per Sale / 15% some products"
+      }
+    ]
+  },
+  {
+    "brand": "Thexyz",
+    "slug": "thexyz",
+    "description": "10% Recurring Commission",
+    "website": "https://thexyz.com",
+    "faq": [
+      {
+        "q": "What is Thexyz?",
+        "a": "10% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Thexyz affiliate program?",
+        "a": "Visit https://thexyz.com to sign up."
+      },
+      {
+        "q": "What commission does Thexyz offer?",
+        "a": "10% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "PromoteKit",
+    "slug": "promotekit",
+    "description": "30% Recurring Commission",
+    "website": "https://www.promotekit.com/",
+    "faq": [
+      {
+        "q": "What is PromoteKit?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the PromoteKit affiliate program?",
+        "a": "Visit https://www.promotekit.com/ to sign up."
+      },
+      {
+        "q": "What commission does PromoteKit offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Reditus",
+    "slug": "reditus",
+    "description": "30-40% Commission For 2-3 Years",
+    "website": "https://www.getreditus.com",
+    "faq": [
+      {
+        "q": "What is Reditus?",
+        "a": "30-40% Commission For 2-3 Years"
+      },
+      {
+        "q": "How do I join the Reditus affiliate program?",
+        "a": "Visit https://www.getreditus.com to sign up."
+      },
+      {
+        "q": "What commission does Reditus offer?",
+        "a": "30-40% Commission For 2-3 Years"
+      }
+    ]
+  },
+  {
+    "brand": "Airbnb",
+    "slug": "airbnb",
+    "description": "Give $48 - Get $30 Credit",
+    "website": "https://airbnb.com",
+    "faq": [
+      {
+        "q": "What is Airbnb?",
+        "a": "Give $48 - Get $30 Credit"
+      },
+      {
+        "q": "How do I join the Airbnb affiliate program?",
+        "a": "Visit https://airbnb.com to sign up."
+      },
+      {
+        "q": "What commission does Airbnb offer?",
+        "a": "Give $48 - Get $30 Credit"
+      }
+    ]
+  },
+  {
+    "brand": "Colossyan",
+    "slug": "colossyan",
+    "description": "25-50% Commission For 1 Year",
+    "website": "https://colossyan.com",
+    "faq": [
+      {
+        "q": "What is Colossyan?",
+        "a": "25-50% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the Colossyan affiliate program?",
+        "a": "Visit https://colossyan.com to sign up."
+      },
+      {
+        "q": "What commission does Colossyan offer?",
+        "a": "25-50% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "Infatica",
+    "slug": "infatica",
+    "description": "10-30% Recurring Commission",
+    "website": "https://infatica.io",
+    "faq": [
+      {
+        "q": "What is Infatica?",
+        "a": "10-30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Infatica affiliate program?",
+        "a": "Visit https://infatica.io to sign up."
+      },
+      {
+        "q": "What commission does Infatica offer?",
+        "a": "10-30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "CyberGhost VPN",
+    "slug": "cyberghost-vpn",
+    "description": "Up To 100% In Commisson",
+    "website": "https://cyberghostvpn.com",
+    "faq": [
+      {
+        "q": "What is CyberGhost VPN?",
+        "a": "Up To 100% In Commisson"
+      },
+      {
+        "q": "How do I join the CyberGhost VPN affiliate program?",
+        "a": "Visit https://cyberghostvpn.com to sign up."
+      },
+      {
+        "q": "What commission does CyberGhost VPN offer?",
+        "a": "Up To 100% In Commisson"
+      }
+    ]
+  },
+  {
+    "brand": "Gmelius",
+    "slug": "gmelius",
+    "description": "33% Recurring Commission",
+    "website": "https://gmelius.com",
+    "faq": [
+      {
+        "q": "What is Gmelius?",
+        "a": "33% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Gmelius affiliate program?",
+        "a": "Visit https://gmelius.com to sign up."
+      },
+      {
+        "q": "What commission does Gmelius offer?",
+        "a": "33% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "JivoChat",
+    "slug": "jivochat",
+    "description": "30% Recurring Commission + 2 Tier",
+    "website": "https://jivochat.com",
+    "faq": [
+      {
+        "q": "What is JivoChat?",
+        "a": "30% Recurring Commission + 2 Tier"
+      },
+      {
+        "q": "How do I join the JivoChat affiliate program?",
+        "a": "Visit https://jivochat.com to sign up."
+      },
+      {
+        "q": "What commission does JivoChat offer?",
+        "a": "30% Recurring Commission + 2 Tier"
+      }
+    ]
+  },
+  {
+    "brand": "Uptimia",
+    "slug": "uptimia",
+    "description": "30% Lifetime Commission",
+    "website": "https://uptimia.com",
+    "faq": [
+      {
+        "q": "What is Uptimia?",
+        "a": "30% Lifetime Commission"
+      },
+      {
+        "q": "How do I join the Uptimia affiliate program?",
+        "a": "Visit https://uptimia.com to sign up."
+      },
+      {
+        "q": "What commission does Uptimia offer?",
+        "a": "30% Lifetime Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Ideamap",
+    "slug": "ideamap",
+    "description": "20-50% Commission For 1 Year",
+    "website": "https://ideamap.ai",
+    "faq": [
+      {
+        "q": "What is Ideamap?",
+        "a": "20-50% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the Ideamap affiliate program?",
+        "a": "Visit https://ideamap.ai to sign up."
+      },
+      {
+        "q": "What commission does Ideamap offer?",
+        "a": "20-50% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "Notevibes",
+    "slug": "notevibes",
+    "description": "20% Recurring Commission",
+    "website": "https://notevibes.com",
+    "faq": [
+      {
+        "q": "What is Notevibes?",
+        "a": "20% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Notevibes affiliate program?",
+        "a": "Visit https://notevibes.com to sign up."
+      },
+      {
+        "q": "What commission does Notevibes offer?",
+        "a": "20% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "AISEO",
+    "slug": "aiseo",
+    "description": "30% Recurring Commission",
+    "website": "https://aiseo.ai",
+    "faq": [
+      {
+        "q": "What is AISEO?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the AISEO affiliate program?",
+        "a": "Visit https://aiseo.ai to sign up."
+      },
+      {
+        "q": "What commission does AISEO offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Otio",
+    "slug": "otio",
+    "description": "50% Recurring Commission",
+    "website": "https://otio.ai",
+    "faq": [
+      {
+        "q": "What is Otio?",
+        "a": "50% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Otio affiliate program?",
+        "a": "Visit https://otio.ai to sign up."
+      },
+      {
+        "q": "What commission does Otio offer?",
+        "a": "50% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Receptra",
+    "slug": "receptra",
+    "description": "20% Commission",
+    "website": "https://receptra.com/",
+    "faq": [
+      {
+        "q": "What is Receptra?",
+        "a": "20% Commission"
+      },
+      {
+        "q": "How do I join the Receptra affiliate program?",
+        "a": "Visit https://receptra.com/ to sign up."
+      },
+      {
+        "q": "What commission does Receptra offer?",
+        "a": "20% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Bityard",
+    "slug": "bityard",
+    "description": "40% Of Trading Fees + 2 Tier",
+    "website": "https://bityard.com",
+    "faq": [
+      {
+        "q": "What is Bityard?",
+        "a": "40% Of Trading Fees + 2 Tier"
+      },
+      {
+        "q": "How do I join the Bityard affiliate program?",
+        "a": "Visit https://bityard.com to sign up."
+      },
+      {
+        "q": "What commission does Bityard offer?",
+        "a": "40% Of Trading Fees + 2 Tier"
+      }
+    ]
+  },
+  {
+    "brand": "1&1 Internet",
+    "slug": "1-1-internet",
+    "description": "Up To $300 Per Sale",
+    "website": "https://1and1.com",
+    "faq": [
+      {
+        "q": "What is 1&1 Internet?",
+        "a": "Up To $300 Per Sale"
+      },
+      {
+        "q": "How do I join the 1&1 Internet affiliate program?",
+        "a": "Visit https://1and1.com to sign up."
+      },
+      {
+        "q": "What commission does 1&1 Internet offer?",
+        "a": "Up To $300 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "PDFLiner",
+    "slug": "pdfliner",
+    "description": "40% Commission + 20% Recurring",
+    "website": "https://pdfliner.com",
+    "faq": [
+      {
+        "q": "What is PDFLiner?",
+        "a": "40% Commission + 20% Recurring"
+      },
+      {
+        "q": "How do I join the PDFLiner affiliate program?",
+        "a": "Visit https://pdfliner.com to sign up."
+      },
+      {
+        "q": "What commission does PDFLiner offer?",
+        "a": "40% Commission + 20% Recurring"
+      }
+    ]
+  },
+  {
+    "brand": "Plezi",
+    "slug": "plezi",
+    "description": "40% Commission",
+    "website": "https://plezi.co",
+    "faq": [
+      {
+        "q": "What is Plezi?",
+        "a": "40% Commission"
+      },
+      {
+        "q": "How do I join the Plezi affiliate program?",
+        "a": "Visit https://plezi.co to sign up."
+      },
+      {
+        "q": "What commission does Plezi offer?",
+        "a": "40% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "CurrencyFair",
+    "slug": "currencyfair",
+    "description": "Earn \u20ac20-200 Per Transfer",
+    "website": "https://currencyfair.com",
+    "faq": [
+      {
+        "q": "What is CurrencyFair?",
+        "a": "Earn \u20ac20-200 Per Transfer"
+      },
+      {
+        "q": "How do I join the CurrencyFair affiliate program?",
+        "a": "Visit https://currencyfair.com to sign up."
+      },
+      {
+        "q": "What commission does CurrencyFair offer?",
+        "a": "Earn \u20ac20-200 Per Transfer"
+      }
+    ]
+  },
+  {
+    "brand": "Narrato",
+    "slug": "narrato",
+    "description": "30% Commission For 1 Year",
+    "website": "https://narrato.io",
+    "faq": [
+      {
+        "q": "What is Narrato?",
+        "a": "30% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the Narrato affiliate program?",
+        "a": "Visit https://narrato.io to sign up."
+      },
+      {
+        "q": "What commission does Narrato offer?",
+        "a": "30% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "FatCow",
+    "slug": "fatcow",
+    "description": "Up To $150 Per Sale",
+    "website": "https://fatcow.com",
+    "faq": [
+      {
+        "q": "What is FatCow?",
+        "a": "Up To $150 Per Sale"
+      },
+      {
+        "q": "How do I join the FatCow affiliate program?",
+        "a": "Visit https://fatcow.com to sign up."
+      },
+      {
+        "q": "What commission does FatCow offer?",
+        "a": "Up To $150 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Guarda",
+    "slug": "guarda",
+    "description": "0.5% of your friend's exchange amount",
+    "website": "https://guarda.com",
+    "faq": [
+      {
+        "q": "What is Guarda?",
+        "a": "0.5% of your friend's exchange amount"
+      },
+      {
+        "q": "How do I join the Guarda affiliate program?",
+        "a": "Visit https://guarda.com to sign up."
+      },
+      {
+        "q": "What commission does Guarda offer?",
+        "a": "0.5% of your friend's exchange amount"
+      }
+    ]
+  },
+  {
+    "brand": "Crystals.com",
+    "slug": "crystals-com",
+    "description": "10% Commission",
+    "website": "https://www.crystals.com",
+    "faq": [
+      {
+        "q": "What is Crystals.com?",
+        "a": "10% Commission"
+      },
+      {
+        "q": "How do I join the Crystals.com affiliate program?",
+        "a": "Visit https://www.crystals.com to sign up."
+      },
+      {
+        "q": "What commission does Crystals.com offer?",
+        "a": "10% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Genki",
+    "slug": "genki",
+    "description": "5% Recurring Commission",
+    "website": "https://genki.world",
+    "faq": [
+      {
+        "q": "What is Genki?",
+        "a": "5% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Genki affiliate program?",
+        "a": "Visit https://genki.world to sign up."
+      },
+      {
+        "q": "What commission does Genki offer?",
+        "a": "5% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Durable",
+    "slug": "durable",
+    "description": "25% Recurring Commission",
+    "website": "https://durable.co",
+    "faq": [
+      {
+        "q": "What is Durable?",
+        "a": "25% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Durable affiliate program?",
+        "a": "Visit https://durable.co to sign up."
+      },
+      {
+        "q": "What commission does Durable offer?",
+        "a": "25% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "IronFX",
+    "slug": "ironfx",
+    "description": "CPA Commissions up to $1,500",
+    "website": "https://affiliates.ironfx.com",
+    "faq": [
+      {
+        "q": "What is IronFX?",
+        "a": "CPA Commissions up to $1,500"
+      },
+      {
+        "q": "How do I join the IronFX affiliate program?",
+        "a": "Visit https://affiliates.ironfx.com to sign up."
+      },
+      {
+        "q": "What commission does IronFX offer?",
+        "a": "CPA Commissions up to $1,500"
+      }
+    ]
+  },
+  {
+    "brand": "NanoVMs",
+    "slug": "nanovms",
+    "description": "30% Recurring Commission",
+    "website": "https://nanovms.com",
+    "faq": [
+      {
+        "q": "What is NanoVMs?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the NanoVMs affiliate program?",
+        "a": "Visit https://nanovms.com to sign up."
+      },
+      {
+        "q": "What commission does NanoVMs offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "WayAway",
+    "slug": "wayaway",
+    "description": "Up To 50% Commission",
+    "website": "https://wayaway.io",
+    "faq": [
+      {
+        "q": "What is WayAway?",
+        "a": "Up To 50% Commission"
+      },
+      {
+        "q": "How do I join the WayAway affiliate program?",
+        "a": "Visit https://wayaway.io to sign up."
+      },
+      {
+        "q": "What commission does WayAway offer?",
+        "a": "Up To 50% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Oxylabs",
+    "slug": "oxylabs",
+    "description": "50% Commission + Recurring",
+    "website": "https://oxylabs.io",
+    "faq": [
+      {
+        "q": "What is Oxylabs?",
+        "a": "50% Commission + Recurring"
+      },
+      {
+        "q": "How do I join the Oxylabs affiliate program?",
+        "a": "Visit https://oxylabs.io to sign up."
+      },
+      {
+        "q": "What commission does Oxylabs offer?",
+        "a": "50% Commission + Recurring"
+      }
+    ]
+  },
+  {
+    "brand": "Provide Support",
+    "slug": "provide-support",
+    "description": "30% Recurring Commission",
+    "website": "https://providesupport.com",
+    "faq": [
+      {
+        "q": "What is Provide Support?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Provide Support affiliate program?",
+        "a": "Visit https://providesupport.com to sign up."
+      },
+      {
+        "q": "What commission does Provide Support offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Flywheel",
+    "slug": "flywheel",
+    "description": "Up To $500 Per Sale",
+    "website": "https://getflywheel.com",
+    "faq": [
+      {
+        "q": "What is Flywheel?",
+        "a": "Up To $500 Per Sale"
+      },
+      {
+        "q": "How do I join the Flywheel affiliate program?",
+        "a": "Visit https://getflywheel.com to sign up."
+      },
+      {
+        "q": "What commission does Flywheel offer?",
+        "a": "Up To $500 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Scalenut",
+    "slug": "scalenut",
+    "description": "30% Recurring Commission",
+    "website": "https://www.scalenut.com",
+    "faq": [
+      {
+        "q": "What is Scalenut?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Scalenut affiliate program?",
+        "a": "Visit https://www.scalenut.com to sign up."
+      },
+      {
+        "q": "What commission does Scalenut offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Photo AI",
+    "slug": "photo-ai",
+    "description": "30% Commission For 3 Months",
+    "website": "https://photoai.com",
+    "faq": [
+      {
+        "q": "What is Photo AI?",
+        "a": "30% Commission For 3 Months"
+      },
+      {
+        "q": "How do I join the Photo AI affiliate program?",
+        "a": "Visit https://photoai.com to sign up."
+      },
+      {
+        "q": "What commission does Photo AI offer?",
+        "a": "30% Commission For 3 Months"
+      }
+    ]
+  },
+  {
+    "brand": "Decktopus",
+    "slug": "decktopus",
+    "description": "50% Commision For 3 Months",
+    "website": "https://www.decktopus.com",
+    "faq": [
+      {
+        "q": "What is Decktopus?",
+        "a": "50% Commision For 3 Months"
+      },
+      {
+        "q": "How do I join the Decktopus affiliate program?",
+        "a": "Visit https://www.decktopus.com to sign up."
+      },
+      {
+        "q": "What commission does Decktopus offer?",
+        "a": "50% Commision For 3 Months"
+      }
+    ]
+  },
+  {
+    "brand": "X-VPN",
+    "slug": "x-vpn",
+    "description": "30-100% Commission / 30% For Life",
+    "website": "https://xvpn.io",
+    "faq": [
+      {
+        "q": "What is X-VPN?",
+        "a": "30-100% Commission / 30% For Life"
+      },
+      {
+        "q": "How do I join the X-VPN affiliate program?",
+        "a": "Visit https://xvpn.io to sign up."
+      },
+      {
+        "q": "What commission does X-VPN offer?",
+        "a": "30-100% Commission / 30% For Life"
+      }
+    ]
+  },
+  {
+    "brand": "Breezy HR",
+    "slug": "breezy-hr",
+    "description": "20% Lifetime Commission",
+    "website": "https://breezy.hr",
+    "faq": [
+      {
+        "q": "What is Breezy HR?",
+        "a": "20% Lifetime Commission"
+      },
+      {
+        "q": "How do I join the Breezy HR affiliate program?",
+        "a": "Visit https://breezy.hr to sign up."
+      },
+      {
+        "q": "What commission does Breezy HR offer?",
+        "a": "20% Lifetime Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Billabong",
+    "slug": "billabong",
+    "description": "7% commissions",
+    "website": "https://billabong.com",
+    "faq": [
+      {
+        "q": "What is Billabong?",
+        "a": "7% commissions"
+      },
+      {
+        "q": "How do I join the Billabong affiliate program?",
+        "a": "Visit https://billabong.com to sign up."
+      },
+      {
+        "q": "What commission does Billabong offer?",
+        "a": "7% commissions"
+      }
+    ]
+  },
+  {
+    "brand": "Hurley",
+    "slug": "hurley",
+    "description": "6% Commission",
+    "website": "https://hurley.com",
+    "faq": [
+      {
+        "q": "What is Hurley?",
+        "a": "6% Commission"
+      },
+      {
+        "q": "How do I join the Hurley affiliate program?",
+        "a": "Visit https://hurley.com to sign up."
+      },
+      {
+        "q": "What commission does Hurley offer?",
+        "a": "6% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Speak Ai",
+    "slug": "speak-ai",
+    "description": "30% Commission For 2 Years",
+    "website": "https://speakai.co",
+    "faq": [
+      {
+        "q": "What is Speak Ai?",
+        "a": "30% Commission For 2 Years"
+      },
+      {
+        "q": "How do I join the Speak Ai affiliate program?",
+        "a": "Visit https://speakai.co to sign up."
+      },
+      {
+        "q": "What commission does Speak Ai offer?",
+        "a": "30% Commission For 2 Years"
+      }
+    ]
+  },
+  {
+    "brand": "AliDropship",
+    "slug": "alidropship",
+    "description": "Up To $284 Per Sale",
+    "website": "https://alidropship.com",
+    "faq": [
+      {
+        "q": "What is AliDropship?",
+        "a": "Up To $284 Per Sale"
+      },
+      {
+        "q": "How do I join the AliDropship affiliate program?",
+        "a": "Visit https://alidropship.com to sign up."
+      },
+      {
+        "q": "What commission does AliDropship offer?",
+        "a": "Up To $284 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Twice Commerce",
+    "slug": "twice-commerce",
+    "description": "$100 Per Sale + 2 Tier",
+    "website": "https://www.twicecommerce.com",
+    "faq": [
+      {
+        "q": "What is Twice Commerce?",
+        "a": "$100 Per Sale + 2 Tier"
+      },
+      {
+        "q": "How do I join the Twice Commerce affiliate program?",
+        "a": "Visit https://www.twicecommerce.com to sign up."
+      },
+      {
+        "q": "What commission does Twice Commerce offer?",
+        "a": "$100 Per Sale + 2 Tier"
+      }
+    ]
+  },
+  {
+    "brand": "Bodybuilding.com",
+    "slug": "bodybuilding-com",
+    "description": "5-15% Commission",
+    "website": "https://bodybuilding.com",
+    "faq": [
+      {
+        "q": "What is Bodybuilding.com?",
+        "a": "5-15% Commission"
+      },
+      {
+        "q": "How do I join the Bodybuilding.com affiliate program?",
+        "a": "Visit https://bodybuilding.com to sign up."
+      },
+      {
+        "q": "What commission does Bodybuilding.com offer?",
+        "a": "5-15% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "PromeAI",
+    "slug": "promeai",
+    "description": "10% Recurring Commission",
+    "website": "https://www.promeai.pro",
+    "faq": [
+      {
+        "q": "What is PromeAI?",
+        "a": "10% Recurring Commission"
+      },
+      {
+        "q": "How do I join the PromeAI affiliate program?",
+        "a": "Visit https://www.promeai.pro to sign up."
+      },
+      {
+        "q": "What commission does PromeAI offer?",
+        "a": "10% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "StoryChief",
+    "slug": "storychief",
+    "description": "20% Recurring Commission",
+    "website": "https://www.storychief.io",
+    "faq": [
+      {
+        "q": "What is StoryChief?",
+        "a": "20% Recurring Commission"
+      },
+      {
+        "q": "How do I join the StoryChief affiliate program?",
+        "a": "Visit https://www.storychief.io to sign up."
+      },
+      {
+        "q": "What commission does StoryChief offer?",
+        "a": "20% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Pixpa",
+    "slug": "pixpa",
+    "description": "50% Commission For 1 Year",
+    "website": "https://pixpa.com",
+    "faq": [
+      {
+        "q": "What is Pixpa?",
+        "a": "50% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the Pixpa affiliate program?",
+        "a": "Visit https://pixpa.com to sign up."
+      },
+      {
+        "q": "What commission does Pixpa offer?",
+        "a": "50% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "Fansidea",
+    "slug": "fansidea",
+    "description": "10% Commission",
+    "website": "https://fansidea.com",
+    "faq": [
+      {
+        "q": "What is Fansidea?",
+        "a": "10% Commission"
+      },
+      {
+        "q": "How do I join the Fansidea affiliate program?",
+        "a": "Visit https://fansidea.com to sign up."
+      },
+      {
+        "q": "What commission does Fansidea offer?",
+        "a": "10% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "VideoGen",
+    "slug": "videogen",
+    "description": "30% Commission For 1 Year",
+    "website": "https://videogen.io",
+    "faq": [
+      {
+        "q": "What is VideoGen?",
+        "a": "30% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the VideoGen affiliate program?",
+        "a": "Visit https://videogen.io to sign up."
+      },
+      {
+        "q": "What commission does VideoGen offer?",
+        "a": "30% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "TorGuard",
+    "slug": "torguard",
+    "description": "30% Recurring Commissions",
+    "website": "https://torguard.net",
+    "faq": [
+      {
+        "q": "What is TorGuard?",
+        "a": "30% Recurring Commissions"
+      },
+      {
+        "q": "How do I join the TorGuard affiliate program?",
+        "a": "Visit https://torguard.net to sign up."
+      },
+      {
+        "q": "What commission does TorGuard offer?",
+        "a": "30% Recurring Commissions"
+      }
+    ]
+  },
+  {
+    "brand": "Proxy-Seller",
+    "slug": "proxy-seller",
+    "description": "30% Commission / 10% For Life",
+    "website": "https://proxy-seller.com",
+    "faq": [
+      {
+        "q": "What is Proxy-Seller?",
+        "a": "30% Commission / 10% For Life"
+      },
+      {
+        "q": "How do I join the Proxy-Seller affiliate program?",
+        "a": "Visit https://proxy-seller.com to sign up."
+      },
+      {
+        "q": "What commission does Proxy-Seller offer?",
+        "a": "30% Commission / 10% For Life"
+      }
+    ]
+  },
+  {
+    "brand": "Trezor",
+    "slug": "trezor",
+    "description": "12-15% Commission",
+    "website": "https://trezor.io",
+    "faq": [
+      {
+        "q": "What is Trezor?",
+        "a": "12-15% Commission"
+      },
+      {
+        "q": "How do I join the Trezor affiliate program?",
+        "a": "Visit https://trezor.io to sign up."
+      },
+      {
+        "q": "What commission does Trezor offer?",
+        "a": "12-15% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Scala Hosting",
+    "slug": "scala-hosting",
+    "description": "$50-$200 Per Sale",
+    "website": "https://scalahosting.com",
+    "faq": [
+      {
+        "q": "What is Scala Hosting?",
+        "a": "$50-$200 Per Sale"
+      },
+      {
+        "q": "How do I join the Scala Hosting affiliate program?",
+        "a": "Visit https://scalahosting.com to sign up."
+      },
+      {
+        "q": "What commission does Scala Hosting offer?",
+        "a": "$50-$200 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Poloniex",
+    "slug": "poloniex",
+    "description": "20-60% Of Trading Fees",
+    "website": "https://poloniex.com",
+    "faq": [
+      {
+        "q": "What is Poloniex?",
+        "a": "20-60% Of Trading Fees"
+      },
+      {
+        "q": "How do I join the Poloniex affiliate program?",
+        "a": "Visit https://poloniex.com to sign up."
+      },
+      {
+        "q": "What commission does Poloniex offer?",
+        "a": "20-60% Of Trading Fees"
+      }
+    ]
+  },
+  {
+    "brand": "VYPER",
+    "slug": "vyper",
+    "description": "25% Recurring Commission + 2 Tier",
+    "website": "https://vyper.io",
+    "faq": [
+      {
+        "q": "What is VYPER?",
+        "a": "25% Recurring Commission + 2 Tier"
+      },
+      {
+        "q": "How do I join the VYPER affiliate program?",
+        "a": "Visit https://vyper.io to sign up."
+      },
+      {
+        "q": "What commission does VYPER offer?",
+        "a": "25% Recurring Commission + 2 Tier"
+      }
+    ]
+  },
+  {
+    "brand": "PlushBeds",
+    "slug": "plushbeds",
+    "description": "15% Commission",
+    "website": "https://plushbeds.com",
+    "faq": [
+      {
+        "q": "What is PlushBeds?",
+        "a": "15% Commission"
+      },
+      {
+        "q": "How do I join the PlushBeds affiliate program?",
+        "a": "Visit https://plushbeds.com to sign up."
+      },
+      {
+        "q": "What commission does PlushBeds offer?",
+        "a": "15% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "CoinRule",
+    "slug": "coinrule",
+    "description": "25-30% Recurring Commission",
+    "website": "https://coinrule.com",
+    "faq": [
+      {
+        "q": "What is CoinRule?",
+        "a": "25-30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the CoinRule affiliate program?",
+        "a": "Visit https://coinrule.com to sign up."
+      },
+      {
+        "q": "What commission does CoinRule offer?",
+        "a": "25-30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Taiga",
+    "slug": "taiga",
+    "description": "30% Recurring Commission For 1 Year",
+    "website": "https://taiga.io",
+    "faq": [
+      {
+        "q": "What is Taiga?",
+        "a": "30% Recurring Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the Taiga affiliate program?",
+        "a": "Visit https://taiga.io to sign up."
+      },
+      {
+        "q": "What commission does Taiga offer?",
+        "a": "30% Recurring Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "ChangeNOW",
+    "slug": "changenow",
+    "description": "0.4% Of All Trades",
+    "website": "https://changenow.io",
+    "faq": [
+      {
+        "q": "What is ChangeNOW?",
+        "a": "0.4% Of All Trades"
+      },
+      {
+        "q": "How do I join the ChangeNOW affiliate program?",
+        "a": "Visit https://changenow.io to sign up."
+      },
+      {
+        "q": "What commission does ChangeNOW offer?",
+        "a": "0.4% Of All Trades"
+      }
+    ]
+  },
+  {
+    "brand": "Pia s5 Proxy",
+    "slug": "pia-s5-proxy",
+    "description": "Up To 10% Lifetime Commission",
+    "website": "https://piaproxy.com",
+    "faq": [
+      {
+        "q": "What is Pia s5 Proxy?",
+        "a": "Up To 10% Lifetime Commission"
+      },
+      {
+        "q": "How do I join the Pia s5 Proxy affiliate program?",
+        "a": "Visit https://piaproxy.com to sign up."
+      },
+      {
+        "q": "What commission does Pia s5 Proxy offer?",
+        "a": "Up To 10% Lifetime Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Born To Sell",
+    "slug": "born-to-sell",
+    "description": "$5 Per Lead - $40 Sale + 2 Tier",
+    "website": "https://borntosell.com",
+    "faq": [
+      {
+        "q": "What is Born To Sell?",
+        "a": "$5 Per Lead - $40 Sale + 2 Tier"
+      },
+      {
+        "q": "How do I join the Born To Sell affiliate program?",
+        "a": "Visit https://borntosell.com to sign up."
+      },
+      {
+        "q": "What commission does Born To Sell offer?",
+        "a": "$5 Per Lead - $40 Sale + 2 Tier"
+      }
+    ]
+  },
+  {
+    "brand": "Uber",
+    "slug": "uber",
+    "description": "$5 User / $30-$50 Driver",
+    "website": "https://uber.com",
+    "faq": [
+      {
+        "q": "What is Uber?",
+        "a": "$5 User / $30-$50 Driver"
+      },
+      {
+        "q": "How do I join the Uber affiliate program?",
+        "a": "Visit https://uber.com to sign up."
+      },
+      {
+        "q": "What commission does Uber offer?",
+        "a": "$5 User / $30-$50 Driver"
+      }
+    ]
+  },
+  {
+    "brand": "Browse AI",
+    "slug": "browse-ai",
+    "description": "20% Recurring Commission",
+    "website": "https://browse.ai",
+    "faq": [
+      {
+        "q": "What is Browse AI?",
+        "a": "20% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Browse AI affiliate program?",
+        "a": "Visit https://browse.ai to sign up."
+      },
+      {
+        "q": "What commission does Browse AI offer?",
+        "a": "20% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "ShareASale",
+    "slug": "shareasale",
+    "description": "$30 Per Lead - $150 Per Sale",
+    "website": "https://shareasale.com",
+    "faq": [
+      {
+        "q": "What is ShareASale?",
+        "a": "$30 Per Lead - $150 Per Sale"
+      },
+      {
+        "q": "How do I join the ShareASale affiliate program?",
+        "a": "Visit https://shareasale.com to sign up."
+      },
+      {
+        "q": "What commission does ShareASale offer?",
+        "a": "$30 Per Lead - $150 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "AmeriCommerce",
+    "slug": "americommerce",
+    "description": "300% Commission 1st Sale",
+    "website": "https://americommerce.com",
+    "faq": [
+      {
+        "q": "What is AmeriCommerce?",
+        "a": "300% Commission 1st Sale"
+      },
+      {
+        "q": "How do I join the AmeriCommerce affiliate program?",
+        "a": "Visit https://americommerce.com to sign up."
+      },
+      {
+        "q": "What commission does AmeriCommerce offer?",
+        "a": "300% Commission 1st Sale"
+      }
+    ]
+  },
+  {
+    "brand": "CBDMEDIC",
+    "slug": "cbdmedic",
+    "description": "40% Commission",
+    "website": "https://cbd-medic.com",
+    "faq": [
+      {
+        "q": "What is CBDMEDIC?",
+        "a": "40% Commission"
+      },
+      {
+        "q": "How do I join the CBDMEDIC affiliate program?",
+        "a": "Visit https://cbd-medic.com to sign up."
+      },
+      {
+        "q": "What commission does CBDMEDIC offer?",
+        "a": "40% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "SubscribeStar",
+    "slug": "subscribestar",
+    "description": "20-50% Platform Fees For Life",
+    "website": "https://subscribestar.com",
+    "faq": [
+      {
+        "q": "What is SubscribeStar?",
+        "a": "20-50% Platform Fees For Life"
+      },
+      {
+        "q": "How do I join the SubscribeStar affiliate program?",
+        "a": "Visit https://subscribestar.com to sign up."
+      },
+      {
+        "q": "What commission does SubscribeStar offer?",
+        "a": "20-50% Platform Fees For Life"
+      }
+    ]
+  },
+  {
+    "brand": "Insightful",
+    "slug": "insightful",
+    "description": "15% Recurring Commission",
+    "website": "https://insightful.io",
+    "faq": [
+      {
+        "q": "What is Insightful?",
+        "a": "15% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Insightful affiliate program?",
+        "a": "Visit https://insightful.io to sign up."
+      },
+      {
+        "q": "What commission does Insightful offer?",
+        "a": "15% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Liquid Web",
+    "slug": "liquid-web",
+    "description": "$150-$7,000 Commissions",
+    "website": "https://liquidweb.com",
+    "faq": [
+      {
+        "q": "What is Liquid Web?",
+        "a": "$150-$7,000 Commissions"
+      },
+      {
+        "q": "How do I join the Liquid Web affiliate program?",
+        "a": "Visit https://liquidweb.com to sign up."
+      },
+      {
+        "q": "What commission does Liquid Web offer?",
+        "a": "$150-$7,000 Commissions"
+      }
+    ]
+  },
+  {
+    "brand": "CogniFit",
+    "slug": "cognifit",
+    "description": "15% Per Sale",
+    "website": "https://cognifit.com",
+    "faq": [
+      {
+        "q": "What is CogniFit?",
+        "a": "15% Per Sale"
+      },
+      {
+        "q": "How do I join the CogniFit affiliate program?",
+        "a": "Visit https://cognifit.com to sign up."
+      },
+      {
+        "q": "What commission does CogniFit offer?",
+        "a": "15% Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Trackdesk",
+    "slug": "trackdesk",
+    "description": "25-30% Recurring Commission",
+    "website": "https://trackdesk.com",
+    "faq": [
+      {
+        "q": "What is Trackdesk?",
+        "a": "25-30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Trackdesk affiliate program?",
+        "a": "Visit https://trackdesk.com to sign up."
+      },
+      {
+        "q": "What commission does Trackdesk offer?",
+        "a": "25-30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Delta Exchange",
+    "slug": "delta-exchange",
+    "description": "10-15% Of Trading Fees Forever",
+    "website": "https://delta.exchange",
+    "faq": [
+      {
+        "q": "What is Delta Exchange?",
+        "a": "10-15% Of Trading Fees Forever"
+      },
+      {
+        "q": "How do I join the Delta Exchange affiliate program?",
+        "a": "Visit https://delta.exchange to sign up."
+      },
+      {
+        "q": "What commission does Delta Exchange offer?",
+        "a": "10-15% Of Trading Fees Forever"
+      }
+    ]
+  },
+  {
+    "brand": "Sellfy",
+    "slug": "sellfy",
+    "description": "25% Commission For 1 Year",
+    "website": "https://sellfy.com",
+    "faq": [
+      {
+        "q": "What is Sellfy?",
+        "a": "25% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the Sellfy affiliate program?",
+        "a": "Visit https://sellfy.com to sign up."
+      },
+      {
+        "q": "What commission does Sellfy offer?",
+        "a": "25% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "Tolt",
+    "slug": "tolt",
+    "description": "25% Recurring Commission",
+    "website": "https://tolt.io",
+    "faq": [
+      {
+        "q": "What is Tolt?",
+        "a": "25% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Tolt affiliate program?",
+        "a": "Visit https://tolt.io to sign up."
+      },
+      {
+        "q": "What commission does Tolt offer?",
+        "a": "25% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Anytime Mailbox",
+    "slug": "anytime-mailbox",
+    "description": "$25 Per Sale",
+    "website": "https://anytimemailbox.com",
+    "faq": [
+      {
+        "q": "What is Anytime Mailbox?",
+        "a": "$25 Per Sale"
+      },
+      {
+        "q": "How do I join the Anytime Mailbox affiliate program?",
+        "a": "Visit https://anytimemailbox.com to sign up."
+      },
+      {
+        "q": "What commission does Anytime Mailbox offer?",
+        "a": "$25 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "PrivateVPN",
+    "slug": "privatevpn",
+    "description": "Up to 50% Commission",
+    "website": "https://privatevpn.com",
+    "faq": [
+      {
+        "q": "What is PrivateVPN?",
+        "a": "Up to 50% Commission"
+      },
+      {
+        "q": "How do I join the PrivateVPN affiliate program?",
+        "a": "Visit https://privatevpn.com to sign up."
+      },
+      {
+        "q": "What commission does PrivateVPN offer?",
+        "a": "Up to 50% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "SMASHINGLOGO",
+    "slug": "smashinglogo",
+    "description": "30% Commission",
+    "website": "https://smashinglogo.com",
+    "faq": [
+      {
+        "q": "What is SMASHINGLOGO?",
+        "a": "30% Commission"
+      },
+      {
+        "q": "How do I join the SMASHINGLOGO affiliate program?",
+        "a": "Visit https://smashinglogo.com to sign up."
+      },
+      {
+        "q": "What commission does SMASHINGLOGO offer?",
+        "a": "30% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Nifty",
+    "slug": "nifty",
+    "description": "20% Recurring Commission",
+    "website": "https://niftypm.com",
+    "faq": [
+      {
+        "q": "What is Nifty?",
+        "a": "20% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Nifty affiliate program?",
+        "a": "Visit https://niftypm.com to sign up."
+      },
+      {
+        "q": "What commission does Nifty offer?",
+        "a": "20% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "aThemes",
+    "slug": "athemes",
+    "description": "50% Commission",
+    "website": "https://athemes.com",
+    "faq": [
+      {
+        "q": "What is aThemes?",
+        "a": "50% Commission"
+      },
+      {
+        "q": "How do I join the aThemes affiliate program?",
+        "a": "Visit https://athemes.com to sign up."
+      },
+      {
+        "q": "What commission does aThemes offer?",
+        "a": "50% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "HostArmada",
+    "slug": "hostarmada",
+    "description": "$50-200 Per Sale",
+    "website": "https://hostarmada.com",
+    "faq": [
+      {
+        "q": "What is HostArmada?",
+        "a": "$50-200 Per Sale"
+      },
+      {
+        "q": "How do I join the HostArmada affiliate program?",
+        "a": "Visit https://hostarmada.com to sign up."
+      },
+      {
+        "q": "What commission does HostArmada offer?",
+        "a": "$50-200 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "ReferralCandy",
+    "slug": "referralcandy",
+    "description": "$50 Per Sale",
+    "website": "https://www.referralcandy.com",
+    "faq": [
+      {
+        "q": "What is ReferralCandy?",
+        "a": "$50 Per Sale"
+      },
+      {
+        "q": "How do I join the ReferralCandy affiliate program?",
+        "a": "Visit https://www.referralcandy.com to sign up."
+      },
+      {
+        "q": "What commission does ReferralCandy offer?",
+        "a": "$50 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Wise",
+    "slug": "wise",
+    "description": "Earn \u00a350 Every Time 3 Friends Send Over \u00a3200",
+    "website": "https://wise.com",
+    "faq": [
+      {
+        "q": "What is Wise?",
+        "a": "Earn \u00a350 Every Time 3 Friends Send Over \u00a3200"
+      },
+      {
+        "q": "How do I join the Wise affiliate program?",
+        "a": "Visit https://wise.com to sign up."
+      },
+      {
+        "q": "What commission does Wise offer?",
+        "a": "Earn \u00a350 Every Time 3 Friends Send Over \u00a3200"
+      }
+    ]
+  },
+  {
+    "brand": "LALAL.AI",
+    "slug": "lalal-ai",
+    "description": "30% Commission",
+    "website": "https://lalal.ai",
+    "faq": [
+      {
+        "q": "What is LALAL.AI?",
+        "a": "30% Commission"
+      },
+      {
+        "q": "How do I join the LALAL.AI affiliate program?",
+        "a": "Visit https://lalal.ai to sign up."
+      },
+      {
+        "q": "What commission does LALAL.AI offer?",
+        "a": "30% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "EasyDMARC",
+    "slug": "easydmarc",
+    "description": "15% Commission For 1 Year",
+    "website": "https://easydmarc.com",
+    "faq": [
+      {
+        "q": "What is EasyDMARC?",
+        "a": "15% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the EasyDMARC affiliate program?",
+        "a": "Visit https://easydmarc.com to sign up."
+      },
+      {
+        "q": "What commission does EasyDMARC offer?",
+        "a": "15% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "Hostinger",
+    "slug": "hostinger",
+    "description": "Up To 60% Commission",
+    "website": "https://hostinger.com",
+    "faq": [
+      {
+        "q": "What is Hostinger?",
+        "a": "Up To 60% Commission"
+      },
+      {
+        "q": "How do I join the Hostinger affiliate program?",
+        "a": "Visit https://hostinger.com to sign up."
+      },
+      {
+        "q": "What commission does Hostinger offer?",
+        "a": "Up To 60% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "CIT Bank",
+    "slug": "cit-bank",
+    "description": "Up To $125 Per App",
+    "website": "https://www.cit.com",
+    "faq": [
+      {
+        "q": "What is CIT Bank?",
+        "a": "Up To $125 Per App"
+      },
+      {
+        "q": "How do I join the CIT Bank affiliate program?",
+        "a": "Visit https://www.cit.com to sign up."
+      },
+      {
+        "q": "What commission does CIT Bank offer?",
+        "a": "Up To $125 Per App"
+      }
+    ]
+  },
+  {
+    "brand": "Fiverr",
+    "slug": "fiverr",
+    "description": "Get up to $150 Per New Customer",
+    "website": "https://fiverr.com",
+    "faq": [
+      {
+        "q": "What is Fiverr?",
+        "a": "Get up to $150 Per New Customer"
+      },
+      {
+        "q": "How do I join the Fiverr affiliate program?",
+        "a": "Visit https://fiverr.com to sign up."
+      },
+      {
+        "q": "What commission does Fiverr offer?",
+        "a": "Get up to $150 Per New Customer"
+      }
+    ]
+  },
+  {
+    "brand": "Sitechecker",
+    "slug": "sitechecker",
+    "description": "30% Commission",
+    "website": "https://sitechecker.pro",
+    "faq": [
+      {
+        "q": "What is Sitechecker?",
+        "a": "30% Commission"
+      },
+      {
+        "q": "How do I join the Sitechecker affiliate program?",
+        "a": "Visit https://sitechecker.pro to sign up."
+      },
+      {
+        "q": "What commission does Sitechecker offer?",
+        "a": "30% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "cutout.pro",
+    "slug": "cutout-pro",
+    "description": "10% Recurring Commission",
+    "website": "https://www.cutout.pro",
+    "faq": [
+      {
+        "q": "What is cutout.pro?",
+        "a": "10% Recurring Commission"
+      },
+      {
+        "q": "How do I join the cutout.pro affiliate program?",
+        "a": "Visit https://www.cutout.pro to sign up."
+      },
+      {
+        "q": "What commission does cutout.pro offer?",
+        "a": "10% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Way",
+    "slug": "way",
+    "description": "4-7% Commission",
+    "website": "https://www.way.com/",
+    "faq": [
+      {
+        "q": "What is Way?",
+        "a": "4-7% Commission"
+      },
+      {
+        "q": "How do I join the Way affiliate program?",
+        "a": "Visit https://www.way.com/ to sign up."
+      },
+      {
+        "q": "What commission does Way offer?",
+        "a": "4-7% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Videvo",
+    "slug": "videvo",
+    "description": "20-100% Commission",
+    "website": "https://videvo.net",
+    "faq": [
+      {
+        "q": "What is Videvo?",
+        "a": "20-100% Commission"
+      },
+      {
+        "q": "How do I join the Videvo affiliate program?",
+        "a": "Visit https://videvo.net to sign up."
+      },
+      {
+        "q": "What commission does Videvo offer?",
+        "a": "20-100% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Ooni Pizza Ovens",
+    "slug": "ooni-pizza-ovens",
+    "description": "9% Commission",
+    "website": "https://ooni.com",
+    "faq": [
+      {
+        "q": "What is Ooni Pizza Ovens?",
+        "a": "9% Commission"
+      },
+      {
+        "q": "How do I join the Ooni Pizza Ovens affiliate program?",
+        "a": "Visit https://ooni.com to sign up."
+      },
+      {
+        "q": "What commission does Ooni Pizza Ovens offer?",
+        "a": "9% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Easyship",
+    "slug": "easyship",
+    "description": "25-100% Then 2.5% For 1 Year",
+    "website": "https://easyship.com",
+    "faq": [
+      {
+        "q": "What is Easyship?",
+        "a": "25-100% Then 2.5% For 1 Year"
+      },
+      {
+        "q": "How do I join the Easyship affiliate program?",
+        "a": "Visit https://easyship.com to sign up."
+      },
+      {
+        "q": "What commission does Easyship offer?",
+        "a": "25-100% Then 2.5% For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "DesignCrowd",
+    "slug": "designcrowd",
+    "description": "$35 Per Sale",
+    "website": "https://designcrowd.com",
+    "faq": [
+      {
+        "q": "What is DesignCrowd?",
+        "a": "$35 Per Sale"
+      },
+      {
+        "q": "How do I join the DesignCrowd affiliate program?",
+        "a": "Visit https://designcrowd.com to sign up."
+      },
+      {
+        "q": "What commission does DesignCrowd offer?",
+        "a": "$35 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Rakuten",
+    "slug": "rakuten",
+    "description": "Give $10 - Get $25",
+    "website": "https://rakuten.com",
+    "faq": [
+      {
+        "q": "What is Rakuten?",
+        "a": "Give $10 - Get $25"
+      },
+      {
+        "q": "How do I join the Rakuten affiliate program?",
+        "a": "Visit https://rakuten.com to sign up."
+      },
+      {
+        "q": "What commission does Rakuten offer?",
+        "a": "Give $10 - Get $25"
+      }
+    ]
+  },
+  {
+    "brand": "Clean Email",
+    "slug": "clean-email",
+    "description": "40% Commission On 1st Purchase",
+    "website": "https://clean.email",
+    "faq": [
+      {
+        "q": "What is Clean Email?",
+        "a": "40% Commission On 1st Purchase"
+      },
+      {
+        "q": "How do I join the Clean Email affiliate program?",
+        "a": "Visit https://clean.email to sign up."
+      },
+      {
+        "q": "What commission does Clean Email offer?",
+        "a": "40% Commission On 1st Purchase"
+      }
+    ]
+  },
+  {
+    "brand": "Tapfiliate",
+    "slug": "tapfiliate",
+    "description": "$178 or 20% Recurring Commission",
+    "website": "https://tapfiliate.com",
+    "faq": [
+      {
+        "q": "What is Tapfiliate?",
+        "a": "$178 or 20% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Tapfiliate affiliate program?",
+        "a": "Visit https://tapfiliate.com to sign up."
+      },
+      {
+        "q": "What commission does Tapfiliate offer?",
+        "a": "$178 or 20% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Webshare",
+    "slug": "webshare",
+    "description": "25% Recurring Commission",
+    "website": "https://webshare.io",
+    "faq": [
+      {
+        "q": "What is Webshare?",
+        "a": "25% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Webshare affiliate program?",
+        "a": "Visit https://webshare.io to sign up."
+      },
+      {
+        "q": "What commission does Webshare offer?",
+        "a": "25% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Brand24",
+    "slug": "brand24",
+    "description": "20%-30% Commission",
+    "website": "https://brand24.com/",
+    "faq": [
+      {
+        "q": "What is Brand24?",
+        "a": "20%-30% Commission"
+      },
+      {
+        "q": "How do I join the Brand24 affiliate program?",
+        "a": "Visit https://brand24.com/ to sign up."
+      },
+      {
+        "q": "What commission does Brand24 offer?",
+        "a": "20%-30% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Frase",
+    "slug": "frase",
+    "description": "30% Recurring Commission",
+    "website": "https://www.frase.io",
+    "faq": [
+      {
+        "q": "What is Frase?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Frase affiliate program?",
+        "a": "Visit https://www.frase.io to sign up."
+      },
+      {
+        "q": "What commission does Frase offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Vizard",
+    "slug": "vizard",
+    "description": "25% Commission For 1 Year",
+    "website": "https://vizard.ai",
+    "faq": [
+      {
+        "q": "What is Vizard?",
+        "a": "25% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the Vizard affiliate program?",
+        "a": "Visit https://vizard.ai to sign up."
+      },
+      {
+        "q": "What commission does Vizard offer?",
+        "a": "25% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "Grammarly",
+    "slug": "grammarly",
+    "description": "$0.20 a download / $20 for premium",
+    "website": "https://grammarly.com",
+    "faq": [
+      {
+        "q": "What is Grammarly?",
+        "a": "$0.20 a download / $20 for premium"
+      },
+      {
+        "q": "How do I join the Grammarly affiliate program?",
+        "a": "Visit https://grammarly.com to sign up."
+      },
+      {
+        "q": "What commission does Grammarly offer?",
+        "a": "$0.20 a download / $20 for premium"
+      }
+    ]
+  },
+  {
+    "brand": "Merlin",
+    "slug": "merlin",
+    "description": "30% Recurring Commission",
+    "website": "https://www.getmerlin.in",
+    "faq": [
+      {
+        "q": "What is Merlin?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Merlin affiliate program?",
+        "a": "Visit https://www.getmerlin.in to sign up."
+      },
+      {
+        "q": "What commission does Merlin offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "HeyGen",
+    "slug": "heygen",
+    "description": "25% Recurring Commission",
+    "website": "https://heygen.com",
+    "faq": [
+      {
+        "q": "What is HeyGen?",
+        "a": "25% Recurring Commission"
+      },
+      {
+        "q": "How do I join the HeyGen affiliate program?",
+        "a": "Visit https://heygen.com to sign up."
+      },
+      {
+        "q": "What commission does HeyGen offer?",
+        "a": "25% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "TeamViewer",
+    "slug": "teamviewer",
+    "description": "$20-$405.96 commissions",
+    "website": "https://teamviewer.com",
+    "faq": [
+      {
+        "q": "What is TeamViewer?",
+        "a": "$20-$405.96 commissions"
+      },
+      {
+        "q": "How do I join the TeamViewer affiliate program?",
+        "a": "Visit https://teamviewer.com to sign up."
+      },
+      {
+        "q": "What commission does TeamViewer offer?",
+        "a": "$20-$405.96 commissions"
+      }
+    ]
+  },
+  {
+    "brand": "Submagic",
+    "slug": "submagic",
+    "description": "30% Recurring Commission",
+    "website": "https://www.submagic.co",
+    "faq": [
+      {
+        "q": "What is Submagic?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Submagic affiliate program?",
+        "a": "Visit https://www.submagic.co to sign up."
+      },
+      {
+        "q": "What commission does Submagic offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "italki",
+    "slug": "italki",
+    "description": "$15 Per New Student",
+    "website": "https://italki.com",
+    "faq": [
+      {
+        "q": "What is italki?",
+        "a": "$15 Per New Student"
+      },
+      {
+        "q": "How do I join the italki affiliate program?",
+        "a": "Visit https://italki.com to sign up."
+      },
+      {
+        "q": "What commission does italki offer?",
+        "a": "$15 Per New Student"
+      }
+    ]
+  },
+  {
+    "brand": "Atlas VPN",
+    "slug": "atlas-vpn",
+    "description": "50% Recurring Commission",
+    "website": "https://atlasvpn.com",
+    "faq": [
+      {
+        "q": "What is Atlas VPN?",
+        "a": "50% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Atlas VPN affiliate program?",
+        "a": "Visit https://atlasvpn.com to sign up."
+      },
+      {
+        "q": "What commission does Atlas VPN offer?",
+        "a": "50% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Instacart",
+    "slug": "instacart",
+    "description": "$10 Per Customer",
+    "website": "https://instacart.com",
+    "faq": [
+      {
+        "q": "What is Instacart?",
+        "a": "$10 Per Customer"
+      },
+      {
+        "q": "How do I join the Instacart affiliate program?",
+        "a": "Visit https://instacart.com to sign up."
+      },
+      {
+        "q": "What commission does Instacart offer?",
+        "a": "$10 Per Customer"
+      }
+    ]
+  },
+  {
+    "brand": "DreamHost",
+    "slug": "dreamhost",
+    "description": "Earn $15-$200 Per Sale",
+    "website": "https://dreamhost.com",
+    "faq": [
+      {
+        "q": "What is DreamHost?",
+        "a": "Earn $15-$200 Per Sale"
+      },
+      {
+        "q": "How do I join the DreamHost affiliate program?",
+        "a": "Visit https://dreamhost.com to sign up."
+      },
+      {
+        "q": "What commission does DreamHost offer?",
+        "a": "Earn $15-$200 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Deepbrain AI",
+    "slug": "deepbrain-ai",
+    "description": "30% Commission",
+    "website": "https://www.deepbrain.io",
+    "faq": [
+      {
+        "q": "What is Deepbrain AI?",
+        "a": "30% Commission"
+      },
+      {
+        "q": "How do I join the Deepbrain AI affiliate program?",
+        "a": "Visit https://www.deepbrain.io to sign up."
+      },
+      {
+        "q": "What commission does Deepbrain AI offer?",
+        "a": "30% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Routine",
+    "slug": "routine",
+    "description": "40% Commission For 1 Year",
+    "website": "https://routine.co",
+    "faq": [
+      {
+        "q": "What is Routine?",
+        "a": "40% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the Routine affiliate program?",
+        "a": "Visit https://routine.co to sign up."
+      },
+      {
+        "q": "What commission does Routine offer?",
+        "a": "40% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "Bitsgap",
+    "slug": "bitsgap",
+    "description": "30% Recurring Commission",
+    "website": "https://bitsgap.com",
+    "faq": [
+      {
+        "q": "What is Bitsgap?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Bitsgap affiliate program?",
+        "a": "Visit https://bitsgap.com to sign up."
+      },
+      {
+        "q": "What commission does Bitsgap offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Watermarkly",
+    "slug": "watermarkly",
+    "description": "30% Commission + Residuals",
+    "website": "https://watermarkly.com",
+    "faq": [
+      {
+        "q": "What is Watermarkly?",
+        "a": "30% Commission + Residuals"
+      },
+      {
+        "q": "How do I join the Watermarkly affiliate program?",
+        "a": "Visit https://watermarkly.com to sign up."
+      },
+      {
+        "q": "What commission does Watermarkly offer?",
+        "a": "30% Commission + Residuals"
+      }
+    ]
+  },
+  {
+    "brand": "Smartproxy",
+    "slug": "smartproxy",
+    "description": "Up to 50% Per Sale",
+    "website": "https://smartproxy.com",
+    "faq": [
+      {
+        "q": "What is Smartproxy?",
+        "a": "Up to 50% Per Sale"
+      },
+      {
+        "q": "How do I join the Smartproxy affiliate program?",
+        "a": "Visit https://smartproxy.com to sign up."
+      },
+      {
+        "q": "What commission does Smartproxy offer?",
+        "a": "Up to 50% Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Charlotte's Web",
+    "slug": "charlotte-s-web",
+    "description": "Up To 20% Commission",
+    "website": "https://charlottesweb.com",
+    "faq": [
+      {
+        "q": "What is Charlotte's Web?",
+        "a": "Up To 20% Commission"
+      },
+      {
+        "q": "How do I join the Charlotte's Web affiliate program?",
+        "a": "Visit https://charlottesweb.com to sign up."
+      },
+      {
+        "q": "What commission does Charlotte's Web offer?",
+        "a": "Up To 20% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "BasedLabs",
+    "slug": "basedlabs",
+    "description": "40% Recurring Commission",
+    "website": "https://www.basedlabs.ai",
+    "faq": [
+      {
+        "q": "What is BasedLabs?",
+        "a": "40% Recurring Commission"
+      },
+      {
+        "q": "How do I join the BasedLabs affiliate program?",
+        "a": "Visit https://www.basedlabs.ai to sign up."
+      },
+      {
+        "q": "What commission does BasedLabs offer?",
+        "a": "40% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "EngageBay",
+    "slug": "engagebay",
+    "description": "30% Recurring Commission",
+    "website": "https://engagebay.com",
+    "faq": [
+      {
+        "q": "What is EngageBay?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the EngageBay affiliate program?",
+        "a": "Visit https://engagebay.com to sign up."
+      },
+      {
+        "q": "What commission does EngageBay offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Selzy",
+    "slug": "selzy",
+    "description": "30-60% Commission For 1 Year + 3 Tier",
+    "website": "https://selzy.com",
+    "faq": [
+      {
+        "q": "What is Selzy?",
+        "a": "30-60% Commission For 1 Year + 3 Tier"
+      },
+      {
+        "q": "How do I join the Selzy affiliate program?",
+        "a": "Visit https://selzy.com to sign up."
+      },
+      {
+        "q": "What commission does Selzy offer?",
+        "a": "30-60% Commission For 1 Year + 3 Tier"
+      }
+    ]
+  },
+  {
+    "brand": "Dorik",
+    "slug": "dorik",
+    "description": "40% 1st Sale + 10% Recurring + 2 Tier",
+    "website": "https://dorik.com",
+    "faq": [
+      {
+        "q": "What is Dorik?",
+        "a": "40% 1st Sale + 10% Recurring + 2 Tier"
+      },
+      {
+        "q": "How do I join the Dorik affiliate program?",
+        "a": "Visit https://dorik.com to sign up."
+      },
+      {
+        "q": "What commission does Dorik offer?",
+        "a": "40% 1st Sale + 10% Recurring + 2 Tier"
+      }
+    ]
+  },
+  {
+    "brand": "Proxy-Sale",
+    "slug": "proxy-sale",
+    "description": "30% Commission",
+    "website": "https://proxy-sale.com",
+    "faq": [
+      {
+        "q": "What is Proxy-Sale?",
+        "a": "30% Commission"
+      },
+      {
+        "q": "How do I join the Proxy-Sale affiliate program?",
+        "a": "Visit https://proxy-sale.com to sign up."
+      },
+      {
+        "q": "What commission does Proxy-Sale offer?",
+        "a": "30% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "FastComet",
+    "slug": "fastcomet",
+    "description": "$50-$200 Per Sale",
+    "website": "https://fastcomet.com",
+    "faq": [
+      {
+        "q": "What is FastComet?",
+        "a": "$50-$200 Per Sale"
+      },
+      {
+        "q": "How do I join the FastComet affiliate program?",
+        "a": "Visit https://fastcomet.com to sign up."
+      },
+      {
+        "q": "What commission does FastComet offer?",
+        "a": "$50-$200 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Postmates",
+    "slug": "postmates",
+    "description": "Earn $10 Per Customer",
+    "website": "https://postmates.com",
+    "faq": [
+      {
+        "q": "What is Postmates?",
+        "a": "Earn $10 Per Customer"
+      },
+      {
+        "q": "How do I join the Postmates affiliate program?",
+        "a": "Visit https://postmates.com to sign up."
+      },
+      {
+        "q": "What commission does Postmates offer?",
+        "a": "Earn $10 Per Customer"
+      }
+    ]
+  },
+  {
+    "brand": "Kinsta",
+    "slug": "kinsta",
+    "description": "$50 to $500 Per Sale + 10% Lifetime",
+    "website": "https://kinsta.com",
+    "faq": [
+      {
+        "q": "What is Kinsta?",
+        "a": "$50 to $500 Per Sale + 10% Lifetime"
+      },
+      {
+        "q": "How do I join the Kinsta affiliate program?",
+        "a": "Visit https://kinsta.com to sign up."
+      },
+      {
+        "q": "What commission does Kinsta offer?",
+        "a": "$50 to $500 Per Sale + 10% Lifetime"
+      }
+    ]
+  },
+  {
+    "brand": "PrimeXBT",
+    "slug": "primexbt",
+    "description": "20% Of Trading Fees + 4 Tier",
+    "website": "https://primexbt.com",
+    "faq": [
+      {
+        "q": "What is PrimeXBT?",
+        "a": "20% Of Trading Fees + 4 Tier"
+      },
+      {
+        "q": "How do I join the PrimeXBT affiliate program?",
+        "a": "Visit https://primexbt.com to sign up."
+      },
+      {
+        "q": "What commission does PrimeXBT offer?",
+        "a": "20% Of Trading Fees + 4 Tier"
+      }
+    ]
+  },
+  {
+    "brand": "Agoda",
+    "slug": "agoda",
+    "description": "7% Commission",
+    "website": "https://agoda.com",
+    "faq": [
+      {
+        "q": "What is Agoda?",
+        "a": "7% Commission"
+      },
+      {
+        "q": "How do I join the Agoda affiliate program?",
+        "a": "Visit https://agoda.com to sign up."
+      },
+      {
+        "q": "What commission does Agoda offer?",
+        "a": "7% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "vidyo.ai",
+    "slug": "vidyo-ai",
+    "description": "20% Commission For 1 Year",
+    "website": "https://vidyo.ai",
+    "faq": [
+      {
+        "q": "What is vidyo.ai?",
+        "a": "20% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the vidyo.ai affiliate program?",
+        "a": "Visit https://vidyo.ai to sign up."
+      },
+      {
+        "q": "What commission does vidyo.ai offer?",
+        "a": "20% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "PPCmate",
+    "slug": "ppcmate",
+    "description": "20% Lifetime Commissions",
+    "website": "https://ppcmate.com",
+    "faq": [
+      {
+        "q": "What is PPCmate?",
+        "a": "20% Lifetime Commissions"
+      },
+      {
+        "q": "How do I join the PPCmate affiliate program?",
+        "a": "Visit https://ppcmate.com to sign up."
+      },
+      {
+        "q": "What commission does PPCmate offer?",
+        "a": "20% Lifetime Commissions"
+      }
+    ]
+  },
+  {
+    "brand": "RSVPify",
+    "slug": "rsvpify",
+    "description": "Up To $900 Per Referral",
+    "website": "https://rsvpify.com",
+    "faq": [
+      {
+        "q": "What is RSVPify?",
+        "a": "Up To $900 Per Referral"
+      },
+      {
+        "q": "How do I join the RSVPify affiliate program?",
+        "a": "Visit https://rsvpify.com to sign up."
+      },
+      {
+        "q": "What commission does RSVPify offer?",
+        "a": "Up To $900 Per Referral"
+      }
+    ]
+  },
+  {
+    "brand": "BitMEX",
+    "slug": "bitmex",
+    "description": "10-20% Of Trading Fees Forever",
+    "website": "https://bitmex.com",
+    "faq": [
+      {
+        "q": "What is BitMEX?",
+        "a": "10-20% Of Trading Fees Forever"
+      },
+      {
+        "q": "How do I join the BitMEX affiliate program?",
+        "a": "Visit https://bitmex.com to sign up."
+      },
+      {
+        "q": "What commission does BitMEX offer?",
+        "a": "10-20% Of Trading Fees Forever"
+      }
+    ]
+  },
+  {
+    "brand": "Amazon",
+    "slug": "amazon",
+    "description": "1-10% Per Sale",
+    "website": "https://amazon.com",
+    "faq": [
+      {
+        "q": "What is Amazon?",
+        "a": "1-10% Per Sale"
+      },
+      {
+        "q": "How do I join the Amazon affiliate program?",
+        "a": "Visit https://amazon.com to sign up."
+      },
+      {
+        "q": "What commission does Amazon offer?",
+        "a": "1-10% Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Spocket",
+    "slug": "spocket",
+    "description": "Earn up to $450 per customer",
+    "website": "https://spocket.co",
+    "faq": [
+      {
+        "q": "What is Spocket?",
+        "a": "Earn up to $450 per customer"
+      },
+      {
+        "q": "How do I join the Spocket affiliate program?",
+        "a": "Visit https://spocket.co to sign up."
+      },
+      {
+        "q": "What commission does Spocket offer?",
+        "a": "Earn up to $450 per customer"
+      }
+    ]
+  },
+  {
+    "brand": "AppSumo",
+    "slug": "appsumo",
+    "description": "12-30% Commission",
+    "website": "https://appsumo.com",
+    "faq": [
+      {
+        "q": "What is AppSumo?",
+        "a": "12-30% Commission"
+      },
+      {
+        "q": "How do I join the AppSumo affiliate program?",
+        "a": "Visit https://appsumo.com to sign up."
+      },
+      {
+        "q": "What commission does AppSumo offer?",
+        "a": "12-30% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Leonardo Ai",
+    "slug": "leonardo-ai",
+    "description": "25% Commission For 6 Months",
+    "website": "https://leonardo.ai",
+    "faq": [
+      {
+        "q": "What is Leonardo Ai?",
+        "a": "25% Commission For 6 Months"
+      },
+      {
+        "q": "How do I join the Leonardo Ai affiliate program?",
+        "a": "Visit https://leonardo.ai to sign up."
+      },
+      {
+        "q": "What commission does Leonardo Ai offer?",
+        "a": "25% Commission For 6 Months"
+      }
+    ]
+  },
+  {
+    "brand": "SurveySparrow",
+    "slug": "surveysparrow",
+    "description": "25% Recurring Commission",
+    "website": "https://surveysparrow.com",
+    "faq": [
+      {
+        "q": "What is SurveySparrow?",
+        "a": "25% Recurring Commission"
+      },
+      {
+        "q": "How do I join the SurveySparrow affiliate program?",
+        "a": "Visit https://surveysparrow.com to sign up."
+      },
+      {
+        "q": "What commission does SurveySparrow offer?",
+        "a": "25% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "PlayHT",
+    "slug": "playht",
+    "description": "25% Recurring Commission",
+    "website": "https://play.ht",
+    "faq": [
+      {
+        "q": "What is PlayHT?",
+        "a": "25% Recurring Commission"
+      },
+      {
+        "q": "How do I join the PlayHT affiliate program?",
+        "a": "Visit https://play.ht to sign up."
+      },
+      {
+        "q": "What commission does PlayHT offer?",
+        "a": "25% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Kittl",
+    "slug": "kittl",
+    "description": "20% Commission For 3 Months",
+    "website": "https://www.kittl.com",
+    "faq": [
+      {
+        "q": "What is Kittl?",
+        "a": "20% Commission For 3 Months"
+      },
+      {
+        "q": "How do I join the Kittl affiliate program?",
+        "a": "Visit https://www.kittl.com to sign up."
+      },
+      {
+        "q": "What commission does Kittl offer?",
+        "a": "20% Commission For 3 Months"
+      }
+    ]
+  },
+  {
+    "brand": "10Web",
+    "slug": "10web",
+    "description": "30% Commission For 1 Year",
+    "website": "https://10web.io",
+    "faq": [
+      {
+        "q": "What is 10Web?",
+        "a": "30% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the 10Web affiliate program?",
+        "a": "Visit https://10web.io to sign up."
+      },
+      {
+        "q": "What commission does 10Web offer?",
+        "a": "30% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "Filemail",
+    "slug": "filemail",
+    "description": "20% Recurring Commission",
+    "website": "https://filemail.com",
+    "faq": [
+      {
+        "q": "What is Filemail?",
+        "a": "20% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Filemail affiliate program?",
+        "a": "Visit https://filemail.com to sign up."
+      },
+      {
+        "q": "What commission does Filemail offer?",
+        "a": "20% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Domain.com",
+    "slug": "domain-com",
+    "description": "$85-$110 Hosting / 30% Domain",
+    "website": "https://domain.com",
+    "faq": [
+      {
+        "q": "What is Domain.com?",
+        "a": "$85-$110 Hosting / 30% Domain"
+      },
+      {
+        "q": "How do I join the Domain.com affiliate program?",
+        "a": "Visit https://domain.com to sign up."
+      },
+      {
+        "q": "What commission does Domain.com offer?",
+        "a": "$85-$110 Hosting / 30% Domain"
+      }
+    ]
+  },
+  {
+    "brand": "Bybit",
+    "slug": "bybit",
+    "description": "Up To 45% Of Trading Fees + 2 Tier",
+    "website": "https://bybit.com",
+    "faq": [
+      {
+        "q": "What is Bybit?",
+        "a": "Up To 45% Of Trading Fees + 2 Tier"
+      },
+      {
+        "q": "How do I join the Bybit affiliate program?",
+        "a": "Visit https://bybit.com to sign up."
+      },
+      {
+        "q": "What commission does Bybit offer?",
+        "a": "Up To 45% Of Trading Fees + 2 Tier"
+      }
+    ]
+  },
+  {
+    "brand": "Bright Data",
+    "slug": "bright-data",
+    "description": "50% Revenue Share",
+    "website": "https://brightdata.com",
+    "faq": [
+      {
+        "q": "What is Bright Data?",
+        "a": "50% Revenue Share"
+      },
+      {
+        "q": "How do I join the Bright Data affiliate program?",
+        "a": "Visit https://brightdata.com to sign up."
+      },
+      {
+        "q": "What commission does Bright Data offer?",
+        "a": "50% Revenue Share"
+      }
+    ]
+  },
+  {
+    "brand": "Robinhood",
+    "slug": "robinhood",
+    "description": "Earn $500 In Free Stocks",
+    "website": "https://robinhood.com",
+    "faq": [
+      {
+        "q": "What is Robinhood?",
+        "a": "Earn $500 In Free Stocks"
+      },
+      {
+        "q": "How do I join the Robinhood affiliate program?",
+        "a": "Visit https://robinhood.com to sign up."
+      },
+      {
+        "q": "What commission does Robinhood offer?",
+        "a": "Earn $500 In Free Stocks"
+      }
+    ]
+  },
+  {
+    "brand": "Synthesia",
+    "slug": "synthesia",
+    "description": "20% Commission For 1 Year",
+    "website": "https://synthesia.io",
+    "faq": [
+      {
+        "q": "What is Synthesia?",
+        "a": "20% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the Synthesia affiliate program?",
+        "a": "Visit https://synthesia.io to sign up."
+      },
+      {
+        "q": "What commission does Synthesia offer?",
+        "a": "20% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "Rytr",
+    "slug": "rytr",
+    "description": "30% Recurring Commission",
+    "website": "https://rytr.me",
+    "faq": [
+      {
+        "q": "What is Rytr?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Rytr affiliate program?",
+        "a": "Visit https://rytr.me to sign up."
+      },
+      {
+        "q": "What commission does Rytr offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Walgreens",
+    "slug": "walgreens",
+    "description": "4% - 8% commissions",
+    "website": "https://walgreens.com",
+    "faq": [
+      {
+        "q": "What is Walgreens?",
+        "a": "4% - 8% commissions"
+      },
+      {
+        "q": "How do I join the Walgreens affiliate program?",
+        "a": "Visit https://walgreens.com to sign up."
+      },
+      {
+        "q": "What commission does Walgreens offer?",
+        "a": "4% - 8% commissions"
+      }
+    ]
+  },
+  {
+    "brand": "Writesonic",
+    "slug": "writesonic",
+    "description": "30% Recurring Commission",
+    "website": "https://writesonic.com",
+    "faq": [
+      {
+        "q": "What is Writesonic?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Writesonic affiliate program?",
+        "a": "Visit https://writesonic.com to sign up."
+      },
+      {
+        "q": "What commission does Writesonic offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Expedia UK",
+    "slug": "expedia-uk",
+    "description": "3.5-7% Commission",
+    "website": "https://expedia.co.uk",
+    "faq": [
+      {
+        "q": "What is Expedia UK?",
+        "a": "3.5-7% Commission"
+      },
+      {
+        "q": "How do I join the Expedia UK affiliate program?",
+        "a": "Visit https://expedia.co.uk to sign up."
+      },
+      {
+        "q": "What commission does Expedia UK offer?",
+        "a": "3.5-7% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Taskade",
+    "slug": "taskade",
+    "description": "30% Recurring Commission",
+    "website": "https://taskade.com",
+    "faq": [
+      {
+        "q": "What is Taskade?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Taskade affiliate program?",
+        "a": "Visit https://taskade.com to sign up."
+      },
+      {
+        "q": "What commission does Taskade offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "LanguageTool",
+    "slug": "languagetool",
+    "description": "$1.10 Per Lead - 50% Commission",
+    "website": "https://languagetool.org",
+    "faq": [
+      {
+        "q": "What is LanguageTool?",
+        "a": "$1.10 Per Lead - 50% Commission"
+      },
+      {
+        "q": "How do I join the LanguageTool affiliate program?",
+        "a": "Visit https://languagetool.org to sign up."
+      },
+      {
+        "q": "What commission does LanguageTool offer?",
+        "a": "$1.10 Per Lead - 50% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Elegant Themes",
+    "slug": "elegant-themes",
+    "description": "50% Commission + Residuals",
+    "website": "https://elegantthemes.com",
+    "faq": [
+      {
+        "q": "What is Elegant Themes?",
+        "a": "50% Commission + Residuals"
+      },
+      {
+        "q": "How do I join the Elegant Themes affiliate program?",
+        "a": "Visit https://elegantthemes.com to sign up."
+      },
+      {
+        "q": "What commission does Elegant Themes offer?",
+        "a": "50% Commission + Residuals"
+      }
+    ]
+  },
+  {
+    "brand": "ActiveCampaign",
+    "slug": "activecampaign",
+    "description": "$1,350 Per Customer on Average",
+    "website": "https://activecampaign.com",
+    "faq": [
+      {
+        "q": "What is ActiveCampaign?",
+        "a": "$1,350 Per Customer on Average"
+      },
+      {
+        "q": "How do I join the ActiveCampaign affiliate program?",
+        "a": "Visit https://activecampaign.com to sign up."
+      },
+      {
+        "q": "What commission does ActiveCampaign offer?",
+        "a": "$1,350 Per Customer on Average"
+      }
+    ]
+  },
+  {
+    "brand": "DoorDash",
+    "slug": "doordash",
+    "description": "$50.00 Per Driver",
+    "website": "https://doordash.com",
+    "faq": [
+      {
+        "q": "What is DoorDash?",
+        "a": "$50.00 Per Driver"
+      },
+      {
+        "q": "How do I join the DoorDash affiliate program?",
+        "a": "Visit https://doordash.com to sign up."
+      },
+      {
+        "q": "What commission does DoorDash offer?",
+        "a": "$50.00 Per Driver"
+      }
+    ]
+  },
+  {
+    "brand": "Ivacy",
+    "slug": "ivacy",
+    "description": "40%-100% 1st Month / 35% Life",
+    "website": "https://ivacy.com",
+    "faq": [
+      {
+        "q": "What is Ivacy?",
+        "a": "40%-100% 1st Month / 35% Life"
+      },
+      {
+        "q": "How do I join the Ivacy affiliate program?",
+        "a": "Visit https://ivacy.com to sign up."
+      },
+      {
+        "q": "What commission does Ivacy offer?",
+        "a": "40%-100% 1st Month / 35% Life"
+      }
+    ]
+  },
+  {
+    "brand": "Jasper",
+    "slug": "jasper",
+    "description": "25-30% Commission For 1 Year",
+    "website": "https://www.jasper.ai",
+    "faq": [
+      {
+        "q": "What is Jasper?",
+        "a": "25-30% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the Jasper affiliate program?",
+        "a": "Visit https://www.jasper.ai to sign up."
+      },
+      {
+        "q": "What commission does Jasper offer?",
+        "a": "25-30% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "Bonsai",
+    "slug": "bonsai",
+    "description": "$50-200 Per Sale + 2 Tier",
+    "website": "https://www.hellobonsai.com",
+    "faq": [
+      {
+        "q": "What is Bonsai?",
+        "a": "$50-200 Per Sale + 2 Tier"
+      },
+      {
+        "q": "How do I join the Bonsai affiliate program?",
+        "a": "Visit https://www.hellobonsai.com to sign up."
+      },
+      {
+        "q": "What commission does Bonsai offer?",
+        "a": "$50-200 Per Sale + 2 Tier"
+      }
+    ]
+  },
+  {
+    "brand": "Sendcloud",
+    "slug": "sendcloud",
+    "description": "35\u20ac Per Sale or 10% Recurring",
+    "website": "https://sendcloud.com",
+    "faq": [
+      {
+        "q": "What is Sendcloud?",
+        "a": "35\u20ac Per Sale or 10% Recurring"
+      },
+      {
+        "q": "How do I join the Sendcloud affiliate program?",
+        "a": "Visit https://sendcloud.com to sign up."
+      },
+      {
+        "q": "What commission does Sendcloud offer?",
+        "a": "35\u20ac Per Sale or 10% Recurring"
+      }
+    ]
+  },
+  {
+    "brand": "HostGator",
+    "slug": "hostgator",
+    "description": "$50-125 Per Sale",
+    "website": "https://hostgator.com",
+    "faq": [
+      {
+        "q": "What is HostGator?",
+        "a": "$50-125 Per Sale"
+      },
+      {
+        "q": "How do I join the HostGator affiliate program?",
+        "a": "Visit https://hostgator.com to sign up."
+      },
+      {
+        "q": "What commission does HostGator offer?",
+        "a": "$50-125 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Otter",
+    "slug": "otter",
+    "description": "15-60% Commission",
+    "website": "https://otter.ai",
+    "faq": [
+      {
+        "q": "What is Otter?",
+        "a": "15-60% Commission"
+      },
+      {
+        "q": "How do I join the Otter affiliate program?",
+        "a": "Visit https://otter.ai to sign up."
+      },
+      {
+        "q": "What commission does Otter offer?",
+        "a": "15-60% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Lovo",
+    "slug": "lovo",
+    "description": "20% Commission For 2 Years",
+    "website": "https://lovo.ai",
+    "faq": [
+      {
+        "q": "What is Lovo?",
+        "a": "20% Commission For 2 Years"
+      },
+      {
+        "q": "How do I join the Lovo affiliate program?",
+        "a": "Visit https://lovo.ai to sign up."
+      },
+      {
+        "q": "What commission does Lovo offer?",
+        "a": "20% Commission For 2 Years"
+      }
+    ]
+  },
+  {
+    "brand": "Vultr",
+    "slug": "vultr",
+    "description": "Give $100, Get $35",
+    "website": "https://vultr.com",
+    "faq": [
+      {
+        "q": "What is Vultr?",
+        "a": "Give $100, Get $35"
+      },
+      {
+        "q": "How do I join the Vultr affiliate program?",
+        "a": "Visit https://vultr.com to sign up."
+      },
+      {
+        "q": "What commission does Vultr offer?",
+        "a": "Give $100, Get $35"
+      }
+    ]
+  },
+  {
+    "brand": "Thumbtack",
+    "slug": "thumbtack",
+    "description": "30% Commission",
+    "website": "https://thumbtack.com",
+    "faq": [
+      {
+        "q": "What is Thumbtack?",
+        "a": "30% Commission"
+      },
+      {
+        "q": "How do I join the Thumbtack affiliate program?",
+        "a": "Visit https://thumbtack.com to sign up."
+      },
+      {
+        "q": "What commission does Thumbtack offer?",
+        "a": "30% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "TailorBrands",
+    "slug": "tailorbrands",
+    "description": "Up To $500 Per Sale",
+    "website": "https://tailorbrands.com",
+    "faq": [
+      {
+        "q": "What is TailorBrands?",
+        "a": "Up To $500 Per Sale"
+      },
+      {
+        "q": "How do I join the TailorBrands affiliate program?",
+        "a": "Visit https://tailorbrands.com to sign up."
+      },
+      {
+        "q": "What commission does TailorBrands offer?",
+        "a": "Up To $500 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Tidio",
+    "slug": "tidio",
+    "description": "30% recurring commission",
+    "website": "https://tidio.com",
+    "faq": [
+      {
+        "q": "What is Tidio?",
+        "a": "30% recurring commission"
+      },
+      {
+        "q": "How do I join the Tidio affiliate program?",
+        "a": "Visit https://tidio.com to sign up."
+      },
+      {
+        "q": "What commission does Tidio offer?",
+        "a": "30% recurring commission"
+      }
+    ]
+  },
+  {
+    "brand": "Imagine AI Art",
+    "slug": "imagine-ai-art",
+    "description": "15-35% Commision",
+    "website": "https://imagine.art",
+    "faq": [
+      {
+        "q": "What is Imagine AI Art?",
+        "a": "15-35% Commision"
+      },
+      {
+        "q": "How do I join the Imagine AI Art affiliate program?",
+        "a": "Visit https://imagine.art to sign up."
+      },
+      {
+        "q": "What commission does Imagine AI Art offer?",
+        "a": "15-35% Commision"
+      }
+    ]
+  },
+  {
+    "brand": "TextMagic",
+    "slug": "textmagic",
+    "description": "20-30% Commission",
+    "website": "https://textmagic.com",
+    "faq": [
+      {
+        "q": "What is TextMagic?",
+        "a": "20-30% Commission"
+      },
+      {
+        "q": "How do I join the TextMagic affiliate program?",
+        "a": "Visit https://textmagic.com to sign up."
+      },
+      {
+        "q": "What commission does TextMagic offer?",
+        "a": "20-30% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Linode",
+    "slug": "linode",
+    "description": "Give $100 - Get $25 Credit",
+    "website": "https://linode.com",
+    "faq": [
+      {
+        "q": "What is Linode?",
+        "a": "Give $100 - Get $25 Credit"
+      },
+      {
+        "q": "How do I join the Linode affiliate program?",
+        "a": "Visit https://linode.com to sign up."
+      },
+      {
+        "q": "What commission does Linode offer?",
+        "a": "Give $100 - Get $25 Credit"
+      }
+    ]
+  },
+  {
+    "brand": "IP2Location",
+    "slug": "ip2location",
+    "description": "10% Recurring Commission",
+    "website": "https://ip2location.com",
+    "faq": [
+      {
+        "q": "What is IP2Location?",
+        "a": "10% Recurring Commission"
+      },
+      {
+        "q": "How do I join the IP2Location affiliate program?",
+        "a": "Visit https://ip2location.com to sign up."
+      },
+      {
+        "q": "What commission does IP2Location offer?",
+        "a": "10% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "ShipBob",
+    "slug": "shipbob",
+    "description": "$15 Per Lead Submission",
+    "website": "https://shipbob.com",
+    "faq": [
+      {
+        "q": "What is ShipBob?",
+        "a": "$15 Per Lead Submission"
+      },
+      {
+        "q": "How do I join the ShipBob affiliate program?",
+        "a": "Visit https://shipbob.com to sign up."
+      },
+      {
+        "q": "What commission does ShipBob offer?",
+        "a": "$15 Per Lead Submission"
+      }
+    ]
+  },
+  {
+    "brand": "Performance Lab\u00ae",
+    "slug": "performance-lab",
+    "description": "Up To 30% Per Sale + 2 Tier",
+    "website": "https://performancelab.com",
+    "faq": [
+      {
+        "q": "What is Performance Lab\u00ae?",
+        "a": "Up To 30% Per Sale + 2 Tier"
+      },
+      {
+        "q": "How do I join the Performance Lab\u00ae affiliate program?",
+        "a": "Visit https://performancelab.com to sign up."
+      },
+      {
+        "q": "What commission does Performance Lab\u00ae offer?",
+        "a": "Up To 30% Per Sale + 2 Tier"
+      }
+    ]
+  },
+  {
+    "brand": "Crocs",
+    "slug": "crocs",
+    "description": "8% Commission",
+    "website": "https://crocs.com",
+    "faq": [
+      {
+        "q": "What is Crocs?",
+        "a": "8% Commission"
+      },
+      {
+        "q": "How do I join the Crocs affiliate program?",
+        "a": "Visit https://crocs.com to sign up."
+      },
+      {
+        "q": "What commission does Crocs offer?",
+        "a": "8% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Landr",
+    "slug": "landr",
+    "description": "$15 Per Sale",
+    "website": "https://www.landr.com",
+    "faq": [
+      {
+        "q": "What is Landr?",
+        "a": "$15 Per Sale"
+      },
+      {
+        "q": "How do I join the Landr affiliate program?",
+        "a": "Visit https://www.landr.com to sign up."
+      },
+      {
+        "q": "What commission does Landr offer?",
+        "a": "$15 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Proton",
+    "slug": "proton",
+    "description": "18-100% Commission",
+    "website": "https://proton.me",
+    "faq": [
+      {
+        "q": "What is Proton?",
+        "a": "18-100% Commission"
+      },
+      {
+        "q": "How do I join the Proton affiliate program?",
+        "a": "Visit https://proton.me to sign up."
+      },
+      {
+        "q": "What commission does Proton offer?",
+        "a": "18-100% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "eHarmony",
+    "slug": "eharmony",
+    "description": "20%  Commissions",
+    "website": "https://eharmony.com",
+    "faq": [
+      {
+        "q": "What is eHarmony?",
+        "a": "20%  Commissions"
+      },
+      {
+        "q": "How do I join the eHarmony affiliate program?",
+        "a": "Visit https://eharmony.com to sign up."
+      },
+      {
+        "q": "What commission does eHarmony offer?",
+        "a": "20%  Commissions"
+      }
+    ]
+  },
+  {
+    "brand": "Simplified",
+    "slug": "simplified",
+    "description": "40% Recurring Commission",
+    "website": "https://simplified.com",
+    "faq": [
+      {
+        "q": "What is Simplified?",
+        "a": "40% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Simplified affiliate program?",
+        "a": "Visit https://simplified.com to sign up."
+      },
+      {
+        "q": "What commission does Simplified offer?",
+        "a": "40% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Binance",
+    "slug": "binance",
+    "description": "10-40% Of Trading Fees Forever",
+    "website": "https://binance.com",
+    "faq": [
+      {
+        "q": "What is Binance?",
+        "a": "10-40% Of Trading Fees Forever"
+      },
+      {
+        "q": "How do I join the Binance affiliate program?",
+        "a": "Visit https://binance.com to sign up."
+      },
+      {
+        "q": "What commission does Binance offer?",
+        "a": "10-40% Of Trading Fees Forever"
+      }
+    ]
+  },
+  {
+    "brand": "Podcastle",
+    "slug": "podcastle",
+    "description": "20% Commission For 1 Year",
+    "website": "https://podcastle.ai",
+    "faq": [
+      {
+        "q": "What is Podcastle?",
+        "a": "20% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the Podcastle affiliate program?",
+        "a": "Visit https://podcastle.ai to sign up."
+      },
+      {
+        "q": "What commission does Podcastle offer?",
+        "a": "20% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "Fliki",
+    "slug": "fliki",
+    "description": "30% Recurring Commission",
+    "website": "https://fliki.ai",
+    "faq": [
+      {
+        "q": "What is Fliki?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Fliki affiliate program?",
+        "a": "Visit https://fliki.ai to sign up."
+      },
+      {
+        "q": "What commission does Fliki offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "TubeBuddy",
+    "slug": "tubebuddy",
+    "description": "30-50% Recurring Commission",
+    "website": "https://tubebuddy.com",
+    "faq": [
+      {
+        "q": "What is TubeBuddy?",
+        "a": "30-50% Recurring Commission"
+      },
+      {
+        "q": "How do I join the TubeBuddy affiliate program?",
+        "a": "Visit https://tubebuddy.com to sign up."
+      },
+      {
+        "q": "What commission does TubeBuddy offer?",
+        "a": "30-50% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "AdCreative",
+    "slug": "adcreative",
+    "description": "30% Recurring Commission",
+    "website": "https://www.adcreative.ai",
+    "faq": [
+      {
+        "q": "What is AdCreative?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the AdCreative affiliate program?",
+        "a": "Visit https://www.adcreative.ai to sign up."
+      },
+      {
+        "q": "What commission does AdCreative offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "NordVPN",
+    "slug": "nordvpn",
+    "description": "Up To $50 Per Sale + Residuals",
+    "website": "https://nordvpn.com",
+    "faq": [
+      {
+        "q": "What is NordVPN?",
+        "a": "Up To $50 Per Sale + Residuals"
+      },
+      {
+        "q": "How do I join the NordVPN affiliate program?",
+        "a": "Visit https://nordvpn.com to sign up."
+      },
+      {
+        "q": "What commission does NordVPN offer?",
+        "a": "Up To $50 Per Sale + Residuals"
+      }
+    ]
+  },
+  {
+    "brand": "Notion",
+    "slug": "notion",
+    "description": "50% Commission For 1 Year",
+    "website": "https://www.notion.so",
+    "faq": [
+      {
+        "q": "What is Notion?",
+        "a": "50% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the Notion affiliate program?",
+        "a": "Visit https://www.notion.so to sign up."
+      },
+      {
+        "q": "What commission does Notion offer?",
+        "a": "50% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "A2 Hosting",
+    "slug": "a2-hosting",
+    "description": "$55-$125 Per Sale + 2 Tier",
+    "website": "https://a2hosting.com",
+    "faq": [
+      {
+        "q": "What is A2 Hosting?",
+        "a": "$55-$125 Per Sale + 2 Tier"
+      },
+      {
+        "q": "How do I join the A2 Hosting affiliate program?",
+        "a": "Visit https://a2hosting.com to sign up."
+      },
+      {
+        "q": "What commission does A2 Hosting offer?",
+        "a": "$55-$125 Per Sale + 2 Tier"
+      }
+    ]
+  },
+  {
+    "brand": "Bluehost",
+    "slug": "bluehost",
+    "description": "$65 Per Sale",
+    "website": "https://bluehost.com",
+    "faq": [
+      {
+        "q": "What is Bluehost?",
+        "a": "$65 Per Sale"
+      },
+      {
+        "q": "How do I join the Bluehost affiliate program?",
+        "a": "Visit https://bluehost.com to sign up."
+      },
+      {
+        "q": "What commission does Bluehost offer?",
+        "a": "$65 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Brevo",
+    "slug": "brevo",
+    "description": "$100 Per Paid Client",
+    "website": "https://www.brevo.com",
+    "faq": [
+      {
+        "q": "What is Brevo?",
+        "a": "$100 Per Paid Client"
+      },
+      {
+        "q": "How do I join the Brevo affiliate program?",
+        "a": "Visit https://www.brevo.com to sign up."
+      },
+      {
+        "q": "What commission does Brevo offer?",
+        "a": "$100 Per Paid Client"
+      }
+    ]
+  },
+  {
+    "brand": "Box",
+    "slug": "box",
+    "description": "$20-$150 Per Sale",
+    "website": "https://www.box.com",
+    "faq": [
+      {
+        "q": "What is Box?",
+        "a": "$20-$150 Per Sale"
+      },
+      {
+        "q": "How do I join the Box affiliate program?",
+        "a": "Visit https://www.box.com to sign up."
+      },
+      {
+        "q": "What commission does Box offer?",
+        "a": "$20-$150 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "VEED",
+    "slug": "veed",
+    "description": "30% Commission For 1 Year",
+    "website": "https://www.veed.io",
+    "faq": [
+      {
+        "q": "What is VEED?",
+        "a": "30% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the VEED affiliate program?",
+        "a": "Visit https://www.veed.io to sign up."
+      },
+      {
+        "q": "What commission does VEED offer?",
+        "a": "30% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "Namecheap",
+    "slug": "namecheap",
+    "description": "20%-50% Commission",
+    "website": "https://namecheap.com",
+    "faq": [
+      {
+        "q": "What is Namecheap?",
+        "a": "20%-50% Commission"
+      },
+      {
+        "q": "How do I join the Namecheap affiliate program?",
+        "a": "Visit https://namecheap.com to sign up."
+      },
+      {
+        "q": "What commission does Namecheap offer?",
+        "a": "20%-50% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Weebly",
+    "slug": "weebly",
+    "description": "30% Commission",
+    "website": "https://weebly.com",
+    "faq": [
+      {
+        "q": "What is Weebly?",
+        "a": "30% Commission"
+      },
+      {
+        "q": "How do I join the Weebly affiliate program?",
+        "a": "Visit https://weebly.com to sign up."
+      },
+      {
+        "q": "What commission does Weebly offer?",
+        "a": "30% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "LiveChat",
+    "slug": "livechat",
+    "description": "20% Recurring Commission + 2 Tier",
+    "website": "https://livechatinc.com",
+    "faq": [
+      {
+        "q": "What is LiveChat?",
+        "a": "20% Recurring Commission + 2 Tier"
+      },
+      {
+        "q": "How do I join the LiveChat affiliate program?",
+        "a": "Visit https://livechatinc.com to sign up."
+      },
+      {
+        "q": "What commission does LiveChat offer?",
+        "a": "20% Recurring Commission + 2 Tier"
+      }
+    ]
+  },
+  {
+    "brand": "ExpressVPN",
+    "slug": "expressvpn",
+    "description": "$13-$36 Per Sale",
+    "website": "https://www.expressvpn.com",
+    "faq": [
+      {
+        "q": "What is ExpressVPN?",
+        "a": "$13-$36 Per Sale"
+      },
+      {
+        "q": "How do I join the ExpressVPN affiliate program?",
+        "a": "Visit https://www.expressvpn.com to sign up."
+      },
+      {
+        "q": "What commission does ExpressVPN offer?",
+        "a": "$13-$36 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "FreshBooks",
+    "slug": "freshbooks",
+    "description": "$5 Per Lead / $55 Commission",
+    "website": "https://freshbooks.com",
+    "faq": [
+      {
+        "q": "What is FreshBooks?",
+        "a": "$5 Per Lead / $55 Commission"
+      },
+      {
+        "q": "How do I join the FreshBooks affiliate program?",
+        "a": "Visit https://freshbooks.com to sign up."
+      },
+      {
+        "q": "What commission does FreshBooks offer?",
+        "a": "$5 Per Lead / $55 Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Fotor",
+    "slug": "fotor",
+    "description": "35% Per Sale + Residuals",
+    "website": "https://fotor.com",
+    "faq": [
+      {
+        "q": "What is Fotor?",
+        "a": "35% Per Sale + Residuals"
+      },
+      {
+        "q": "How do I join the Fotor affiliate program?",
+        "a": "Visit https://fotor.com to sign up."
+      },
+      {
+        "q": "What commission does Fotor offer?",
+        "a": "35% Per Sale + Residuals"
+      }
+    ]
+  },
+  {
+    "brand": "Semrush",
+    "slug": "semrush",
+    "description": "Up To $200 Per Sale + $.01/Signup",
+    "website": "https://www.semrush.com",
+    "faq": [
+      {
+        "q": "What is Semrush?",
+        "a": "Up To $200 Per Sale + $.01/Signup"
+      },
+      {
+        "q": "How do I join the Semrush affiliate program?",
+        "a": "Visit https://www.semrush.com to sign up."
+      },
+      {
+        "q": "What commission does Semrush offer?",
+        "a": "Up To $200 Per Sale + $.01/Signup"
+      }
+    ]
+  },
+  {
+    "brand": "FlexClip",
+    "slug": "flexclip",
+    "description": "30-35% Per Sale",
+    "website": "https://www.flexclip.com",
+    "faq": [
+      {
+        "q": "What is FlexClip?",
+        "a": "30-35% Per Sale"
+      },
+      {
+        "q": "How do I join the FlexClip affiliate program?",
+        "a": "Visit https://www.flexclip.com to sign up."
+      },
+      {
+        "q": "What commission does FlexClip offer?",
+        "a": "30-35% Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Mondly",
+    "slug": "mondly",
+    "description": "30% Recurring Commission",
+    "website": "https://www.mondly.com",
+    "faq": [
+      {
+        "q": "What is Mondly?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Mondly affiliate program?",
+        "a": "Visit https://www.mondly.com to sign up."
+      },
+      {
+        "q": "What commission does Mondly offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Impact",
+    "slug": "impact",
+    "description": "10% Commission + $25 Per Account Completion",
+    "website": "https://impact.com",
+    "faq": [
+      {
+        "q": "What is Impact?",
+        "a": "10% Commission + $25 Per Account Completion"
+      },
+      {
+        "q": "How do I join the Impact affiliate program?",
+        "a": "Visit https://impact.com to sign up."
+      },
+      {
+        "q": "What commission does Impact offer?",
+        "a": "10% Commission + $25 Per Account Completion"
+      }
+    ]
+  },
+  {
+    "brand": "Bizee",
+    "slug": "bizee",
+    "description": "Up To $175 Per Sale",
+    "website": "https://bizee.com",
+    "faq": [
+      {
+        "q": "What is Bizee?",
+        "a": "Up To $175 Per Sale"
+      },
+      {
+        "q": "How do I join the Bizee affiliate program?",
+        "a": "Visit https://bizee.com to sign up."
+      },
+      {
+        "q": "What commission does Bizee offer?",
+        "a": "Up To $175 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Invideo AI",
+    "slug": "invideo-ai",
+    "description": "25%-50% Commission",
+    "website": "https://invideo.io",
+    "faq": [
+      {
+        "q": "What is Invideo AI?",
+        "a": "25%-50% Commission"
+      },
+      {
+        "q": "How do I join the Invideo AI affiliate program?",
+        "a": "Visit https://invideo.io to sign up."
+      },
+      {
+        "q": "What commission does Invideo AI offer?",
+        "a": "25%-50% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "SiteGround",
+    "slug": "siteground",
+    "description": "$50-$100 Per Sale",
+    "website": "https://siteground.com",
+    "faq": [
+      {
+        "q": "What is SiteGround?",
+        "a": "$50-$100 Per Sale"
+      },
+      {
+        "q": "How do I join the SiteGround affiliate program?",
+        "a": "Visit https://siteground.com to sign up."
+      },
+      {
+        "q": "What commission does SiteGround offer?",
+        "a": "$50-$100 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Kraken",
+    "slug": "kraken",
+    "description": "20% Recurring Commission",
+    "website": "https://kraken.com",
+    "faq": [
+      {
+        "q": "What is Kraken?",
+        "a": "20% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Kraken affiliate program?",
+        "a": "Visit https://kraken.com to sign up."
+      },
+      {
+        "q": "What commission does Kraken offer?",
+        "a": "20% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Constant Contact",
+    "slug": "constant-contact",
+    "description": "$5 Per Lead / $105 Commission",
+    "website": "https://constantcontact.com",
+    "faq": [
+      {
+        "q": "What is Constant Contact?",
+        "a": "$5 Per Lead / $105 Commission"
+      },
+      {
+        "q": "How do I join the Constant Contact affiliate program?",
+        "a": "Visit https://constantcontact.com to sign up."
+      },
+      {
+        "q": "What commission does Constant Contact offer?",
+        "a": "$5 Per Lead / $105 Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Viator",
+    "slug": "viator",
+    "description": "8% Commission",
+    "website": "https://viator.com",
+    "faq": [
+      {
+        "q": "What is Viator?",
+        "a": "8% Commission"
+      },
+      {
+        "q": "How do I join the Viator affiliate program?",
+        "a": "Visit https://viator.com to sign up."
+      },
+      {
+        "q": "What commission does Viator offer?",
+        "a": "8% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "PureVPN",
+    "slug": "purevpn",
+    "description": "40%-100% 1st Month / 35% Life",
+    "website": "https://purevpn.com",
+    "faq": [
+      {
+        "q": "What is PureVPN?",
+        "a": "40%-100% 1st Month / 35% Life"
+      },
+      {
+        "q": "How do I join the PureVPN affiliate program?",
+        "a": "Visit https://purevpn.com to sign up."
+      },
+      {
+        "q": "What commission does PureVPN offer?",
+        "a": "40%-100% 1st Month / 35% Life"
+      }
+    ]
+  },
+  {
+    "brand": "Descript",
+    "slug": "descript",
+    "description": "15% Recurring Commission",
+    "website": "https://www.descript.com",
+    "faq": [
+      {
+        "q": "What is Descript?",
+        "a": "15% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Descript affiliate program?",
+        "a": "Visit https://www.descript.com to sign up."
+      },
+      {
+        "q": "What commission does Descript offer?",
+        "a": "15% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Murf AI",
+    "slug": "murf-ai",
+    "description": "20% Commission For 2 Years",
+    "website": "https://murf.ai",
+    "faq": [
+      {
+        "q": "What is Murf AI?",
+        "a": "20% Commission For 2 Years"
+      },
+      {
+        "q": "How do I join the Murf AI affiliate program?",
+        "a": "Visit https://murf.ai to sign up."
+      },
+      {
+        "q": "What commission does Murf AI offer?",
+        "a": "20% Commission For 2 Years"
+      }
+    ]
+  },
+  {
+    "brand": "GoDaddy",
+    "slug": "godaddy",
+    "description": "Up To 30% Commission",
+    "website": "https://godaddy.com",
+    "faq": [
+      {
+        "q": "What is GoDaddy?",
+        "a": "Up To 30% Commission"
+      },
+      {
+        "q": "How do I join the GoDaddy affiliate program?",
+        "a": "Visit https://godaddy.com to sign up."
+      },
+      {
+        "q": "What commission does GoDaddy offer?",
+        "a": "Up To 30% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "ElevenLabs",
+    "slug": "elevenlabs",
+    "description": "22% Commission For 1 Year",
+    "website": "https://elevenlabs.io",
+    "faq": [
+      {
+        "q": "What is ElevenLabs?",
+        "a": "22% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the ElevenLabs affiliate program?",
+        "a": "Visit https://elevenlabs.io to sign up."
+      },
+      {
+        "q": "What commission does ElevenLabs offer?",
+        "a": "22% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "Envato",
+    "slug": "envato",
+    "description": "30% Commission On 1st Purchase",
+    "website": "https://envato.com",
+    "faq": [
+      {
+        "q": "What is Envato?",
+        "a": "30% Commission On 1st Purchase"
+      },
+      {
+        "q": "How do I join the Envato affiliate program?",
+        "a": "Visit https://envato.com to sign up."
+      },
+      {
+        "q": "What commission does Envato offer?",
+        "a": "30% Commission On 1st Purchase"
+      }
+    ]
+  },
+  {
+    "brand": "Reclaim AI",
+    "slug": "reclaim-ai",
+    "description": "25% Recurring Commission + $0.25/Signup",
+    "website": "https://reclaim.ai",
+    "faq": [
+      {
+        "q": "What is Reclaim AI?",
+        "a": "25% Recurring Commission + $0.25/Signup"
+      },
+      {
+        "q": "How do I join the Reclaim AI affiliate program?",
+        "a": "Visit https://reclaim.ai to sign up."
+      },
+      {
+        "q": "What commission does Reclaim AI offer?",
+        "a": "25% Recurring Commission + $0.25/Signup"
+      }
+    ]
+  },
+  {
+    "brand": "Coinbase",
+    "slug": "coinbase",
+    "description": "Give $10 BTC - Get $10 BTC",
+    "website": "https://coinbase.com",
+    "faq": [
+      {
+        "q": "What is Coinbase?",
+        "a": "Give $10 BTC - Get $10 BTC"
+      },
+      {
+        "q": "How do I join the Coinbase affiliate program?",
+        "a": "Visit https://coinbase.com to sign up."
+      },
+      {
+        "q": "What commission does Coinbase offer?",
+        "a": "Give $10 BTC - Get $10 BTC"
+      }
+    ]
+  },
+  {
+    "brand": "GetYourGuide",
+    "slug": "getyourguide",
+    "description": "8-10% Commission",
+    "website": "https://getyourguide.com",
+    "faq": [
+      {
+        "q": "What is GetYourGuide?",
+        "a": "8-10% Commission"
+      },
+      {
+        "q": "How do I join the GetYourGuide affiliate program?",
+        "a": "Visit https://getyourguide.com to sign up."
+      },
+      {
+        "q": "What commission does GetYourGuide offer?",
+        "a": "8-10% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "AWeber",
+    "slug": "aweber",
+    "description": "30% Recurring Commission",
+    "website": "https://aweber.com",
+    "faq": [
+      {
+        "q": "What is AWeber?",
+        "a": "30% Recurring Commission"
+      },
+      {
+        "q": "How do I join the AWeber affiliate program?",
+        "a": "Visit https://aweber.com to sign up."
+      },
+      {
+        "q": "What commission does AWeber offer?",
+        "a": "30% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "1Password",
+    "slug": "1password",
+    "description": "$2 Per Signup / 25% First Payment",
+    "website": "https://1password.com",
+    "faq": [
+      {
+        "q": "What is 1Password?",
+        "a": "$2 Per Signup / 25% First Payment"
+      },
+      {
+        "q": "How do I join the 1Password affiliate program?",
+        "a": "Visit https://1password.com to sign up."
+      },
+      {
+        "q": "What commission does 1Password offer?",
+        "a": "$2 Per Signup / 25% First Payment"
+      }
+    ]
+  },
+  {
+    "brand": "Kiwi.com",
+    "slug": "kiwi-com",
+    "description": "3% of Flight Ticket Price",
+    "website": "https://kiwi.com",
+    "faq": [
+      {
+        "q": "What is Kiwi.com?",
+        "a": "3% of Flight Ticket Price"
+      },
+      {
+        "q": "How do I join the Kiwi.com affiliate program?",
+        "a": "Visit https://kiwi.com to sign up."
+      },
+      {
+        "q": "What commission does Kiwi.com offer?",
+        "a": "3% of Flight Ticket Price"
+      }
+    ]
+  },
+  {
+    "brand": "Shopify",
+    "slug": "shopify",
+    "description": "$58-$2,000 Per Sale",
+    "website": "https://shopify.com",
+    "faq": [
+      {
+        "q": "What is Shopify?",
+        "a": "$58-$2,000 Per Sale"
+      },
+      {
+        "q": "How do I join the Shopify affiliate program?",
+        "a": "Visit https://shopify.com to sign up."
+      },
+      {
+        "q": "What commission does Shopify offer?",
+        "a": "$58-$2,000 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Tripadvisor",
+    "slug": "tripadvisor",
+    "description": "8-50% Commission",
+    "website": "https://tripadvisor.com",
+    "faq": [
+      {
+        "q": "What is Tripadvisor?",
+        "a": "8-50% Commission"
+      },
+      {
+        "q": "How do I join the Tripadvisor affiliate program?",
+        "a": "Visit https://tripadvisor.com to sign up."
+      },
+      {
+        "q": "What commission does Tripadvisor offer?",
+        "a": "8-50% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Canva",
+    "slug": "canva",
+    "description": "Up To $36 Per Subscriber",
+    "website": "https://canva.com",
+    "faq": [
+      {
+        "q": "What is Canva?",
+        "a": "Up To $36 Per Subscriber"
+      },
+      {
+        "q": "How do I join the Canva affiliate program?",
+        "a": "Visit https://canva.com to sign up."
+      },
+      {
+        "q": "What commission does Canva offer?",
+        "a": "Up To $36 Per Subscriber"
+      }
+    ]
+  },
+  {
+    "brand": "Fireflies.ai",
+    "slug": "fireflies-ai",
+    "description": "30% Commission For 1 Year",
+    "website": "https://fireflies.ai",
+    "faq": [
+      {
+        "q": "What is Fireflies.ai?",
+        "a": "30% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the Fireflies.ai affiliate program?",
+        "a": "Visit https://fireflies.ai to sign up."
+      },
+      {
+        "q": "What commission does Fireflies.ai offer?",
+        "a": "30% Commission For 1 Year"
+      }
+    ]
+  },
+  {
+    "brand": "RedBubble",
+    "slug": "redbubble",
+    "description": "2% Commission",
+    "website": "https://redbubble.com",
+    "faq": [
+      {
+        "q": "What is RedBubble?",
+        "a": "2% Commission"
+      },
+      {
+        "q": "How do I join the RedBubble affiliate program?",
+        "a": "Visit https://redbubble.com to sign up."
+      },
+      {
+        "q": "What commission does RedBubble offer?",
+        "a": "2% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "GetResponse",
+    "slug": "getresponse",
+    "description": "$100 or 33% recurring commission",
+    "website": "https://getresponse.com",
+    "faq": [
+      {
+        "q": "What is GetResponse?",
+        "a": "$100 or 33% recurring commission"
+      },
+      {
+        "q": "How do I join the GetResponse affiliate program?",
+        "a": "Visit https://getresponse.com to sign up."
+      },
+      {
+        "q": "What commission does GetResponse offer?",
+        "a": "$100 or 33% recurring commission"
+      }
+    ]
+  },
+  {
+    "brand": "iubenda",
+    "slug": "iubenda",
+    "description": "35-40% Commission",
+    "website": "https://www.iubenda.com",
+    "faq": [
+      {
+        "q": "What is iubenda?",
+        "a": "35-40% Commission"
+      },
+      {
+        "q": "How do I join the iubenda affiliate program?",
+        "a": "Visit https://www.iubenda.com to sign up."
+      },
+      {
+        "q": "What commission does iubenda offer?",
+        "a": "35-40% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Cloudways",
+    "slug": "cloudways",
+    "description": "$50-125 Per Sale",
+    "website": "https://cloudways.com",
+    "faq": [
+      {
+        "q": "What is Cloudways?",
+        "a": "$50-125 Per Sale"
+      },
+      {
+        "q": "How do I join the Cloudways affiliate program?",
+        "a": "Visit https://cloudways.com to sign up."
+      },
+      {
+        "q": "What commission does Cloudways offer?",
+        "a": "$50-125 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "Sprout Social",
+    "slug": "sprout-social",
+    "description": "20% Commission",
+    "website": "https://sproutsocial.com",
+    "faq": [
+      {
+        "q": "What is Sprout Social?",
+        "a": "20% Commission"
+      },
+      {
+        "q": "How do I join the Sprout Social affiliate program?",
+        "a": "Visit https://sproutsocial.com to sign up."
+      },
+      {
+        "q": "What commission does Sprout Social offer?",
+        "a": "20% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Surfshark",
+    "slug": "surfshark",
+    "description": "40% Commission",
+    "website": "https://surfshark.com",
+    "faq": [
+      {
+        "q": "What is Surfshark?",
+        "a": "40% Commission"
+      },
+      {
+        "q": "How do I join the Surfshark affiliate program?",
+        "a": "Visit https://surfshark.com to sign up."
+      },
+      {
+        "q": "What commission does Surfshark offer?",
+        "a": "40% Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Remove.bg",
+    "slug": "remove-bg",
+    "description": "15% Recurring Commission",
+    "website": "https://www.remove.bg",
+    "faq": [
+      {
+        "q": "What is Remove.bg?",
+        "a": "15% Recurring Commission"
+      },
+      {
+        "q": "How do I join the Remove.bg affiliate program?",
+        "a": "Visit https://www.remove.bg to sign up."
+      },
+      {
+        "q": "What commission does Remove.bg offer?",
+        "a": "15% Recurring Commission"
+      }
+    ]
+  },
+  {
+    "brand": "Looka",
+    "slug": "looka",
+    "description": "Up To $30 Per Sale",
+    "website": "https://looka.com",
+    "faq": [
+      {
+        "q": "What is Looka?",
+        "a": "Up To $30 Per Sale"
+      },
+      {
+        "q": "How do I join the Looka affiliate program?",
+        "a": "Visit https://looka.com to sign up."
+      },
+      {
+        "q": "What commission does Looka offer?",
+        "a": "Up To $30 Per Sale"
+      }
+    ]
+  },
+  {
+    "brand": "DigitalOcean",
+    "slug": "digitalocean",
+    "description": "Give $100 - Get $25 Credit",
+    "website": "https://digitalocean.com",
+    "faq": [
+      {
+        "q": "What is DigitalOcean?",
+        "a": "Give $100 - Get $25 Credit"
+      },
+      {
+        "q": "How do I join the DigitalOcean affiliate program?",
+        "a": "Visit https://digitalocean.com to sign up."
+      },
+      {
+        "q": "What commission does DigitalOcean offer?",
+        "a": "Give $100 - Get $25 Credit"
+      }
+    ]
+  },
+  {
+    "brand": "Pictory",
+    "slug": "pictory",
+    "description": "20-50% Recurring Commission + 2 Tier",
+    "website": "https://pictory.ai",
+    "faq": [
+      {
+        "q": "What is Pictory?",
+        "a": "20-50% Recurring Commission + 2 Tier"
+      },
+      {
+        "q": "How do I join the Pictory affiliate program?",
+        "a": "Visit https://pictory.ai to sign up."
+      },
+      {
+        "q": "What commission does Pictory offer?",
+        "a": "20-50% Recurring Commission + 2 Tier"
+      }
+    ]
+  },
+  {
+    "brand": "Wave.video",
+    "slug": "wave-video",
+    "description": "20% Commission For 1 Year",
+    "website": "https://wave.video",
+    "faq": [
+      {
+        "q": "What is Wave.video?",
+        "a": "20% Commission For 1 Year"
+      },
+      {
+        "q": "How do I join the Wave.video affiliate program?",
+        "a": "Visit https://wave.video to sign up."
+      },
+      {
+        "q": "What commission does Wave.video offer?",
+        "a": "20% Commission For 1 Year"
+      }
+    ]
+  }
+]

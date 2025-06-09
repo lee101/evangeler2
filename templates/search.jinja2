@@ -1,0 +1,21 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Search Results - Evangeler</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <header>
+        <a href="/">Home</a>
+    </header>
+    <h1>Search Results for "{{ query }}"</h1>
+    <ul>
+    {% for site in results %}
+        <li><a href="/affiliate/{{ site.slug }}">{{ site.brand }}</a></li>
+    {% else %}
+        <li>No results found.</li>
+    {% endfor %}
+    </ul>
+</body>
+</html>

@@ -35,6 +35,11 @@
                 Affiliate Marketing Programs easily Free.</p>
 
             <a href="https://github.com/lee101/evangeler2" class="button">Submit a New Affiliate Site Free</a>
+
+            <form action="/search" method="get">
+                <input type="text" name="query" placeholder="Search affiliates">
+                <button type="submit">Search</button>
+            </form>
         </div>
     </header>
 
@@ -80,7 +85,9 @@
                                 >
                         </td>
                         <td>
-                            <a href="{{ site.website }}" target="_blank">{{ site.brand }}</a>
+                            <a href="/affiliate/{{ site.slug }}">{{ site.brand }}</a>
+                            <br>
+                            <a href="{{ site.website }}" target="_blank">Visit Site</a>
                         </td>
 
                         <td>
