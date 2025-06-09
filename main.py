@@ -2,7 +2,7 @@ import json
 import os
 from pathlib import Path
 
-from fastapi import FastAPI
+from fastapi import FastAPI, Form
 from fastapi.middleware.gzip import GZipMiddleware
 from fastapi.templating import Jinja2Templates
 from starlette.middleware.cors import CORSMiddleware
@@ -56,6 +56,21 @@ with open('affiliate_details.json') as f:
 
 details_lookup = {d['slug']: d for d in affiliate_details}
 
+SUBMISSION_FILE = Path('affiliate_submissions.json')
+
+def load_submissions():
+    if SUBMISSION_FILE.exists():
+        try:
+            return json.loads(SUBMISSION_FILE.read_text())
+        except Exception:
+            return []
+    return []
+
+def save_submission(entry: dict):
+    submissions = load_submissions()
+    submissions.append(entry)
+    SUBMISSION_FILE.write_text(json.dumps(submissions, indent=2))
+
 import re
 
 for site in affiliates:
@@ -107,4 +122,62 @@ async def search(request: Request, query: str = ""):
     return templates.TemplateResponse(
         "templates/search.jinja2",
         {"request": request, "results": results, "query": query, "static_url": static_url},
+    )
+
+
+@app.get("/submit")
+async def submit_form(request: Request):
+    return templates.TemplateResponse(
+        "templates/submit.jinja2",
+        {"request": request, "error": ""},
+    )
+
+
+@app.post("/submit")
+async def submit_affiliate(
+    request: Request,
+    brand: str = Form(...),
+    description: str = Form(...),
+    website: str = Form(...),
+    keywords: str = Form(""),
+    commission: str = Form(""),
+    email: str = Form(""),
+    nickname: str = Form(""),
+):
+    if not website.startswith("http"):
+        return templates.TemplateResponse(
+            "templates/submit.jinja2",
+            {"request": request, "error": "Invalid website URL."},
+            status_code=400,
+        )
+
+    slug = re.sub(r"[^a-z0-9]+", "-", brand.lower()).strip("-")
+    if nickname:
+        # likely bot submission, ignore but pretend success
+        return templates.TemplateResponse(
+            "templates/submit_success.jinja2", {"request": request}
+        )
+
+    entry = {
+        "brand": brand,
+        "slug": slug,
+        "description": description,
+        "website": website,
+        "keywords": keywords,
+        "commission": commission,
+        "email": email,
+    }
+    save_submission(entry)
+    return templates.TemplateResponse(
+        "templates/submit_success.jinja2",
+        {"request": request},
+    )
+
+
+@app.get("/submissions")
+async def view_submissions(request: Request):
+    submissions = load_submissions()
+    return templates.TemplateResponse(
+        "templates/submissions.jinja2",
+        {"request": request, "submissions": submissions},
     )

@@ -1,0 +1,27 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Submit Affiliate Program - Evangeler</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <header>
+        <a href="/">Home</a>
+    </header>
+    <h1>Submit a New Affiliate Program</h1>
+    {% if error %}
+    <p style="color:red">{{ error }}</p>
+    {% endif %}
+    <form action="/submit" method="post">
+        <label>Brand<br><input type="text" name="brand" required></label><br>
+        <label>Description<br><textarea name="description" required></textarea></label><br>
+        <label>Website<br><input type="url" name="website" required></label><br>
+        <label>Keywords<br><input type="text" name="keywords"></label><br>
+        <label>Commission Rate<br><input type="text" name="commission"></label><br>
+        <label>Contact Email<br><input type="email" name="email"></label><br>
+        <input type="text" name="nickname" style="display:none">
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
