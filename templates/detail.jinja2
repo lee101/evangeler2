@@ -1,0 +1,31 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ detail.brand }} Affiliate Program Details - Evangeler</title>
+    <meta property="og:title" content="{{ detail.brand }} Affiliate Program" />
+    <meta property="og:description" content="{{ detail.description }}" />
+    <meta property="og:url" content="https://evangeler.com/affiliate/{{ detail.slug }}" />
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <header>
+        <a href="/">Home</a>
+    </header>
+    <h1>{{ detail.brand }} Affiliate Program</h1>
+    <p>{{ detail.description }}</p>
+    <p><a href="{{ detail.website }}" target="_blank">Visit Website</a></p>
+    <div class="share">
+        <p>Share:</p>
+        <a href="https://twitter.com/intent/tweet?url={{ request.url }}&text=Check out {{ detail.brand }} affiliate program" target="_blank">Twitter</a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u={{ request.url }}" target="_blank">Facebook</a>
+        <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ request.url }}" target="_blank">LinkedIn</a>
+    </div>
+    <h2>FAQ</h2>
+    <ul>
+    {% for qa in detail.faq %}
+        <li><strong>{{ qa.q }}</strong><br>{{ qa.a }}</li>
+    {% endfor %}
+    </ul>
+</body>
+</html>
