@@ -30,6 +30,12 @@ def test_sitemap():
     assert affiliates[0]["slug"] in response.text
 
 
+def test_html_sitemap():
+    response = client.get("/sitemap")
+    assert response.status_code == 200
+    assert affiliates[0]["slug"] in response.text
+
+
 def test_search():
     response = client.get(f"/search?query={affiliates[0]['brand']}")
     assert response.status_code == 200
@@ -40,6 +46,7 @@ def test_robots():
     response = client.get("/robots.txt")
     assert response.status_code == 200
     assert "Allow: /" in response.text
+    assert "Sitemap: https://evangeler.com/sitemap.xml" in response.text
 
 
 def test_submit_form_get():
