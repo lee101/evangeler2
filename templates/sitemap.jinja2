@@ -1,0 +1,21 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sitemap - Evangeler</title>
+    <link rel="canonical" href="https://evangeler.com/sitemap">
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <header>
+        <a href="/">Home</a>
+    </header>
+    <h1>Sitemap</h1>
+    <ul>
+        <li><a href="/">Home</a></li>
+        {% for site in affiliates %}
+        <li><a href="/affiliate/{{ site.slug }}">{{ site.brand }}</a></li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

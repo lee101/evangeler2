@@ -3,6 +3,7 @@ import os
 from pathlib import Path
 
 from fastapi import FastAPI, Form
+from fastapi.responses import Response
 from fastapi.middleware.gzip import GZipMiddleware
 from fastapi.templating import Jinja2Templates
 from starlette.middleware.cors import CORSMiddleware
@@ -98,17 +99,30 @@ async def affiliate_detail(slug: str, request: Request):
 
 @app.get("/sitemap.xml")
 async def sitemap():
-    urls = [f"https://evangeler.com/affiliate/{d['slug']}" for d in affiliate_details]
-    xml_parts = ["<?xml version='1.0' encoding='UTF-8'?>", "<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>"]
+    urls = ["https://evangeler.com/", "https://evangeler.com/sitemap"] + [
+        f"https://evangeler.com/affiliate/{d['slug']}" for d in affiliate_details
+    ]
+    xml_parts = [
+        "<?xml version='1.0' encoding='UTF-8'?>",
+        "<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>",
+    ]
     for url in urls:
         xml_parts.append("  <url><loc>%s</loc></url>" % url)
     xml_parts.append("</urlset>")
-    return "\n".join(xml_parts)
+    return Response("\n".join(xml_parts), media_type="application/xml")
+
+
+@app.get("/sitemap")
+async def sitemap_html(request: Request):
+    return templates.TemplateResponse(
+        "templates/sitemap.jinja2",
+        {"request": request, "affiliates": affiliates, "static_url": static_url},
+    )
 
 
 @app.get("/robots.txt")
 async def robots():
-    return "User-agent: *\nAllow: /"
+    return "User-agent: *\nAllow: /\nSitemap: https://evangeler.com/sitemap.xml"
 
 
 @app.get("/search")
